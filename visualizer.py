@@ -49,28 +49,37 @@ def winrates(data):
 data=pd.read_csv('try.csv')
 data=data.drop(['Unnamed: 0', 'Unnamed: 0.1', 'Unnamed: 0.1.1'],1)
 data=data.dropna()
+data=data.reset_index()
+data.pop('index')
 names=get_names(data)
 
-def past_games(df):
-    for index in range(df.shape[0]):
-        name=df.at[index,'home']
-        for ix in range(df.shape[0]):
-            if df.at[ix,'home'] == name:
-                print(df.loc[[ix]])
+def past_games(df,data1,team):
+    pgames=[]
+    name=team
+    data1=data1
+    rows=df.loc[df['home'] == 'Real Madrid']
+    for value in rows['Date'].values:
+        if value < data1:
+            pgames.append(rows.loc[rows['Date']==value]) 
+    return pgames
 
-#print(past_games(data))
+print(data.loc[131623:140664])
+#data=data.reset_index()
+#for index in range(data.shape[0]):
+#    print(index,data.at[index,'hgoal'])
 
-def change_date(df):
-    new_dates=[]
-    old_dates=list(df['Date'].values)
-    for x in old_dates:
-        day=x[8:10]
-        month=x[5:7]
-        year=x[0:4]
-        new_date=day+'/'+month+'/'+year
-        new_dates.append(new_date)
-    return new_dates
+def create_result(df):
+    result=[]
+    for index in range(data.shape[0]):
+        if data.loc[index,'hgoal'] > data.loc[index,'vgoal']:
+            result.append(0)
+        elif data.loc[index,'hgoal'] < data.loc[index,'vgoal']:
+            result.append(1)
+        else: 
+            result.append(2)
+    return result
 
-data['Date']=change_date(data)
+data['result']=create_result(data)
 
 print(data.head())
+
