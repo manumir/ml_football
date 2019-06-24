@@ -52,7 +52,7 @@ def past_games(df,data1,team):
     rows=df.loc[df['home'] == 'Real Madrid']
     for value in rows['Date'].values:
         if value < data1:
-            pgames.append(rows.loc[rows['Date']==value]) 
+            pgames.append(rows.loc[rows['Date']==value])
     return pgames
 
 def create_result(df):
@@ -66,15 +66,22 @@ def create_result(df):
             result.append(2)
     return result
 
+def create_goaldiff(df):
+    diff=[]
+    for index in range(data.shape[0]):
+        diff.append(data.loc[index,'hgoal'] - data.loc[index,'vgoal'])
+    return diff
+
 data=pd.read_csv('trysliced.csv')
 data=data.drop(['Unnamed: 0'],1)
-print(data.shape)
-data=data.dropna()
-create_result(data)
-print(data.shape)
 
+data=data.dropna()
 data=data.reset_index()
 data.pop('index')
+
+data['result']=create_result(data)
+data['goaldiff']=create_goaldiff(data)
+
 
 print(data.head())
 
