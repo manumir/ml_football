@@ -53,7 +53,10 @@ def past_games(df,data1,team):
     for value in rows['Date'].values:
         if value < data1:
             pgames.append(rows.loc[rows['Date']==value])
-    return pgames
+
+    return pgames[-5:] # to make this return a dataframe
+                       # maybe replace spaces with commas and
+                       # remove '[1 rows x 9 columns]'
 
 def create_result(df):
     result=[]
@@ -72,16 +75,11 @@ def create_goaldiff(df):
         diff.append(data.loc[index,'hgoal'] - data.loc[index,'vgoal'])
     return diff
 
-data=pd.read_csv('trysliced.csv')
+data=pd.read_csv('somedata.csv')
 data=data.drop(['Unnamed: 0'],1)
 
-data=data.dropna()
-data=data.reset_index()
-data.pop('index')
-
-data['result']=create_result(data)
-data['goaldiff']=create_goaldiff(data)
-
+print(past_games(data,'2019-08-13',data.loc[100,'home']))
+data.to_csv('somedata.csv')
 
 print(data.head())
 
