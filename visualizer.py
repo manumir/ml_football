@@ -57,6 +57,9 @@ def past_games(df,data1,team):
     return pgames[-5:] # to make this return a dataframe
                        # maybe replace spaces with commas and
                        # remove '[1 rows x 9 columns]'
+                       
+                       # or just return the index of the row and
+                       # create the df the various indexes
 
 def create_result(df):
     result=[]
