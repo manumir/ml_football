@@ -24,13 +24,13 @@ def get_names(df):
 
 def create_results(df):
     results=[]
-    for index, row in df.iterrows():
-        if row['hgoal'] > row['vgoal']:
-            results.append('0')
-        elif row['hgoal'] < row['vgoal']:
-            results.append('2')
-        else:
+    for ix in range(df.shape[0]):
+        if df.loc[ix,'hgoal'] > df.loc[ix,'vgoal']:
             results.append('1')
+        elif df.loc[ix,'hgoal'] < df.loc[ix,'vgoal']:
+            results.append('0')
+        else:
+            results.append('-1')
     return results 
 
 def winrates(data):
@@ -50,27 +50,7 @@ def past_games(df,data1,team):
     name=team
     data1=data1
     rows=df.loc[df['home'] == 'Real Madrid']
-    for value in rows['Date'].values:
-        if value < data1:
-            pgames.append(rows.loc[rows['Date']==value])
-
-    return pgames[-5:] # to make this return a dataframe
-                       # maybe replace spaces with commas and
-                       # remove '[1 rows x 9 columns]'
-                       
-                       # or just return the index of the row and
-                       # create the df the various indexes
-
-def create_result(df):
-    result=[]
-    for index in range(data.shape[0]):
-        if data.loc[index,'hgoal'] > data.loc[index,'vgoal']:
-            result.append(0)
-        elif data.loc[index,'hgoal'] < data.loc[index,'vgoal']:
-            result.append(1)
-        else: 
-            result.append(2)
-    return result
+    return rows.loc[rows['Date'] < data1]
 
 def create_goaldiff(df):
     diff=[]
@@ -78,11 +58,20 @@ def create_goaldiff(df):
         diff.append(data.loc[index,'hgoal'] - data.loc[index,'vgoal'])
     return diff
 
+def create_fatigue(df):
+    from datetime import datetime
+    date_format = "%Y-%m-%d"
+    days=[]
+    for ix in range(data.shape[0]):
+        a = datetime.strptime(df.loc[ix,'Date'], date_format)
+        b = datetime.strptime(df.loc[ix+1,'Date'], date_format)
+        days.append(b-a)
+    return days
+
 data=pd.read_csv('somedata.csv')
 data=data.drop(['Unnamed: 0'],1)
 
-print(past_games(data,'2019-08-13',data.loc[100,'home']))
-data.to_csv('somedata.csv')
+print(past_games(data,'1929-06-13',data.loc[100,'home']))
 
 print(data.head())
 
