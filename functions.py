@@ -51,7 +51,7 @@ def past_games(df,data1,team):
     pgames=[]
     name=team
     data1=data1
-    rows=df.loc[df['home'] == 'Real Madrid']
+    rows=df.loc[df['home'] == team]
     rows=rows.loc[rows['Date'] < data1]
     return rows
 
@@ -90,13 +90,15 @@ def avg_goaldiff(df):
         count+=value
     return count/(len(df['goaldiff'].values))
 
-def points(df):
+def points(df,number_of_games):
+    df=df[-(number_of_games):]
     df=df.reset_index()
     df.pop('index')
     
     points=0
     for ix in range(df.shape[0]):
         points+=df.loc[ix,'result']
+    
     return points/df.shape[0]
 
 
