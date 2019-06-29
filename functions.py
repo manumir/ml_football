@@ -2,6 +2,7 @@
 
 from datetime import datetime
 import pandas as pd
+import numpy as np
 from glob import glob
 
 def concat():
@@ -47,13 +48,13 @@ def winrates(data):
     #print('home :{}%\naway :{}%\ndraw :{}%\n'.format((home/data.shape[0])*100,
      #   (away/data.shape[0])*100,(draw/data.shape[0])*100))
 
-def past_games(df,data1,team):
+def past_games(df,data1,team,amount):
     pgames=[]
     name=team
     data1=data1
     rows=df.loc[df['home'] == team]
     rows=rows.loc[rows['Date'] < data1]
-    return rows
+    return rows[-(amount):]
 
 def create_goaldiff(df):
     diff=[]
@@ -90,7 +91,7 @@ def avg_goaldiff(df):
         count+=value
     return count/(len(df['goaldiff'].values))
 
-def points(df,number_of_games):
+def get_points(df,number_of_games):
     df=df[-(number_of_games):]
     df=df.reset_index()
     df.pop('index')
@@ -100,5 +101,18 @@ def points(df,number_of_games):
         points+=df.loc[ix,'result']
     
     return points/df.shape[0]
+
+def get_tiers(df):
+    names=get_names(df)
+    points=[]
+    teams_out=[]
+    for team in names:
+        games=past_games(df,'2019-07-01',team,1500)
+        a=get_points(games,1500)
+        points.append(a)
+        if a==1:
+            teams_out.append(team)
+    values=np.array(points)
+    return teams_out,values
 
 
