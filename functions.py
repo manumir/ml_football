@@ -74,9 +74,10 @@ def sub_dates(date1,date2):
     return diff
 
 def create_fatigue(df):
+    df=df.reset_index(drop=True)
     date_format = "%Y-%m-%d"
     days=[]
-    for ix in range(df.shape[0]):
+    for ix in range(df.shape[0] - 1):
         try:
             a =df.loc[ix,'Date']
             b =df.loc[ix+1,'Date']
@@ -102,17 +103,14 @@ def get_points(df,number_of_games):
     
     return points/df.shape[0]
 
-def get_tiers(df):
+def get_tiers(df): #this need some work because not every league
+                   #is on the same level
     names=get_names(df)
     points=[]
-    teams_out=[]
     for team in names:
-        games=past_games(df,'2019-07-01',team,1500)
-        a=get_points(games,1500)
+        games=past_games(df,'2019-07-01',team,1000)
+        a=get_points(games,1000)
         points.append(a)
-        if a==1:
-            teams_out.append(team)
-    values=np.array(points)
-    return teams_out,values
+    return points 
 
 
