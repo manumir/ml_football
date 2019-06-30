@@ -77,20 +77,23 @@ def create_fatigue(df):
     df=df.reset_index(drop=True)
     date_format = "%Y-%m-%d"
     days=[]
-    for ix in range(df.shape[0] - 1):
+    for ix in range(df.shape[0]):
         try:
-            a =df.loc[ix,'Date']
-            b =df.loc[ix+1,'Date']
+            a =df.loc[ix-1,'Date']
+            b =df.loc[ix,'Date']
             days.append(sub_dates(b,a))
         except KeyError:
-            days.append(-1)
+            days.append(np.nan)
     return days
 
 def avg_goaldiff(df):
     count=0
-    for value in df['goaldiff'].values:
-        count+=value
-    return count/(len(df['goaldiff'].values))
+    try:
+        for value in df['goaldiff'].values:
+            count+=value
+        return count/(len(df['goaldiff'].values))
+    except ZeroDivisionError:
+        return np.nan
 
 def get_points(df,number_of_games):
     df=df[-(number_of_games):]
@@ -98,10 +101,12 @@ def get_points(df,number_of_games):
     df.pop('index')
     
     points=0
-    for ix in range(df.shape[0]):
-        points+=df.loc[ix,'result']
-    
-    return points/df.shape[0]
+    try:
+        for ix in range(df.shape[0]):
+            points+=df.loc[ix,'result']
+        return points/df.shape[0]
+    except ZeroDivisionError:
+        return np.nan
 
 def get_tiers(df): #this need some work because not every league
                    #is on the same level
