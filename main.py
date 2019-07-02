@@ -7,30 +7,50 @@ import pandas as pd
 import numpy as np
 from glob import glob
 
-data=pd.read_csv('somedata.csv')
+#data=pd.read_csv('somedata.csv')
+data=pd.read_csv('usa_worked.csv')
 data=data.drop(['Unnamed: 0'],1)
 
-goaldiff_50=[]
-goaldiff_5=[]
-fatigue=[]
-points_15=[]
-points_5=[]
+hgoaldiff_50=[]
+hgoaldiff_5=[]
+hfatigue=[]
+hpoints_15=[]
+hpoints_5=[]
+
+vgoaldiff_50=[]
+vgoaldiff_5=[]
+vfatigue=[]
+vpoints_15=[]
+vpoints_5=[]
 
 for ix in range(data.shape[0]):
-    rows=functions.past_games(data,data.loc[ix,'Date'],data.loc[ix,'home'],50)
+    hrows=functions.past_games(data,data.loc[ix,'Date'],data.loc[ix,'home'],50)
+    vrows=functions.past_games(data,data.loc[ix,'Date'],data.loc[ix,'visitor'],50)
     print(ix)
     
-    fatigue.append(functions.create_fatigue(rows))
-    goaldiff_50.append(functions.avg_goaldiff(rows,50))
-    goaldiff_5.append(functions.avg_goaldiff(rows,5))
-    points_15.append(functions.get_points(rows,15))
-    points_5.append(functions.get_points(rows,5))
+    hfatigue.append(functions.create_fatigue(hrows))
+    hgoaldiff_50.append(functions.avg_goaldiff(hrows,50))
+    hgoaldiff_5.append(functions.avg_goaldiff(hrows,5))
+    hpoints_15.append(functions.get_points(hrows,50))
+    hpoints_5.append(functions.get_points(hrows,5))
 
-data['fatigue']=fatigue
-data['avg_diff50']=goaldiff_50
-data['avg_diff5']=goaldiff_5
-data['avg_points15']=points_15
-data['avg_points5']=points_5
+    vfatigue.append(functions.create_fatigue(vrows))
+    vgoaldiff_50.append(functions.avg_goaldiff(vrows,50))
+    vgoaldiff_5.append(functions.avg_goaldiff(vrows,5))
+    vpoints_15.append(functions.get_points(vrows,50))
+    vpoints_5.append(functions.get_points(vrows,5))
 
-data.to_csv('final.csv')
+data['hfatigue']=hfatigue
+data['havg_diff50']=hgoaldiff_50
+data['havg_diff5']=hgoaldiff_5
+data['havg_points15']=hpoints_15
+data['havg_points5']=hpoints_5
+
+data['vfatigue']=vfatigue
+data['vavg_diff50']=vgoaldiff_50
+data['vavg_diff5']=vgoaldiff_5
+data['vavg_points15']=vpoints_15
+data['vavg_points5']=vpoints_5
+
+data.to_csv('final_usa.csv')
 

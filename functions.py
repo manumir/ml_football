@@ -16,7 +16,7 @@ def concat():
 
 def clean(file):
     df=pd.read_csv(file)
-    df1=df[["Date","Season","home","visitor","FT","hgoal","vgoal"]]
+    df1=df[["Date","home","visitor","hgoal","vgoal"]]
     df1.to_csv(file[0:len(file)-4]+'sliced.csv')
     return df1
 
@@ -59,10 +59,21 @@ def past_games(df,data1,team,amount):
 def create_goaldiff(df):
     diff=[]
     for index in range(df.shape[0]):
-        diff.append(data.loc[index,'hgoal'] - data.loc[index,'vgoal'])
+        diff.append(df.loc[index,'hgoal'] - df.loc[index,'vgoal'])
     return diff
 
 def sub_dates(date1,date2):
+    day1=int(date1[0:2])
+    day2=int(date2[0:2])
+    month1=int(date1[3:5])
+    month2=int(date2[3:5])
+    year1=int(date1[6:10])
+    year2=int(date2[6:10])
+
+    diff=(year1-year2)*365 + (month1-month2)*30 + (day1-day2)
+    return diff
+
+def sub_dates1(date1,date2):
     year1=int(date1[0:4])
     year2=int(date2[0:4])
     month1=int(date1[5:7])
@@ -75,20 +86,19 @@ def sub_dates(date1,date2):
 
 def create_fatigue(df):
     df=df.reset_index(drop=True)
-    date_format = "%Y-%m-%d"
-    days=[]
+#    date_format = "%Y-%m-%d"
+    date_format = "%d/%m/%Y"
     try:
-        a =df.loc[ix-1,'Date']
-        b =df.loc[ix,'Date']
-        days.append(sub_dates(b,a))
+        a =df.loc[len(df)-2,'Date']
+        b =df.loc[len(df)-1,'Date']
+        days=sub_dates(b,a)
     except:
-        days.append(np.nan)
+        days=np.nan
     return days
 
 def avg_goaldiff(df,number_of_games):
     df=df[-(number_of_games):]
-    df=df.reset_index()
-    df.pop('index')
+    df=df.reset_index(drop=True)
 
     count=0
     try:

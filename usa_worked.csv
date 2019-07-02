@@ -1,0 +1,2739 @@
+,Date,home,visitor,hgoal,vgoal,goaldiff,result
+0,10/03/2012,Colorado Rapids,Columbus Crew,2,0,2,1
+1,10/03/2012,Vancouver Whitecaps,Montreal Impact,2,0,2,1
+2,11/03/2012,DC United,Sporting Kansas City,0,1,-1,-1
+3,11/03/2012,Los Angeles Galaxy,Real Salt Lake,1,3,-2,-1
+4,11/03/2012,San Jose Earthquakes,New England Revolution,1,0,1,1
+5,11/03/2012,FC Dallas,New York Red Bulls,2,1,1,1
+6,11/03/2012,Chivas USA,Houston Dynamo,0,1,-1,-1
+7,13/03/2012,Portland Timbers,Philadelphia Union,3,1,2,1
+8,17/03/2012,Montreal Impact,Chicago Fire,1,1,0,0
+9,17/03/2012,San Jose Earthquakes,Houston Dynamo,0,1,-1,-1
+10,18/03/2012,FC Dallas,Portland Timbers,1,1,0,0
+11,18/03/2012,Sporting Kansas City,New England Revolution,3,0,3,1
+12,18/03/2012,Real Salt Lake,New York Red Bulls,2,0,2,1
+13,18/03/2012,Seattle Sounders,Toronto FC,3,1,2,1
+14,18/03/2012,Chivas USA,Vancouver Whitecaps,0,1,-1,-1
+15,18/03/2012,Philadelphia Union,Colorado Rapids,1,2,-1,-1
+16,18/03/2012,Los Angeles Galaxy,DC United,3,1,2,1
+17,24/03/2012,Seattle Sounders,Houston Dynamo,2,0,2,1
+18,24/03/2012,Toronto FC,San Jose Earthquakes,0,3,-3,-1
+19,24/03/2012,Columbus Crew,Montreal Impact,2,0,2,1
+20,24/03/2012,New England Revolution,Portland Timbers,1,0,1,1
+21,25/03/2012,Chicago Fire,Philadelphia Union,1,0,1,1
+22,25/03/2012,Real Salt Lake,Chivas USA,0,1,-1,-1
+23,25/03/2012,Vancouver Whitecaps,DC United,0,0,0,0
+24,25/03/2012,New York Red Bulls,Colorado Rapids,4,1,3,1
+25,26/03/2012,Sporting Kansas City,FC Dallas,2,1,1,1
+26,31/03/2012,DC United,FC Dallas,4,1,3,1
+27,31/03/2012,Toronto FC,Columbus Crew,0,1,-1,-1
+28,31/03/2012,New York Red Bulls,Montreal Impact,5,2,3,1
+29,31/03/2012,Philadelphia Union,Vancouver Whitecaps,0,0,0,0
+30,01/04/2012,Portland Timbers,Real Salt Lake,2,3,-1,-1
+31,01/04/2012,Seattle Sounders,San Jose Earthquakes,0,1,-1,-1
+32,01/04/2012,Los Angeles Galaxy,New England Revolution,1,3,-2,-1
+33,02/04/2012,Colorado Rapids,Chicago Fire,2,0,2,1
+34,02/04/2012,Chivas USA,Sporting Kansas City,0,1,-1,-1
+35,05/04/2012,Real Salt Lake,Montreal Impact,1,0,1,1
+36,06/04/2012,FC Dallas,New England Revolution,1,0,1,1
+37,07/04/2012,Montreal Impact,Toronto FC,2,1,1,1
+38,07/04/2012,Columbus Crew,New York Red Bulls,1,4,-3,-1
+39,07/04/2012,Sporting Kansas City,Los Angeles Galaxy,1,0,1,1
+40,08/04/2012,San Jose Earthquakes,Vancouver Whitecaps,3,1,2,1
+41,08/04/2012,DC United,Seattle Sounders,0,0,0,0
+42,08/04/2012,Real Salt Lake,Colorado Rapids,2,0,2,1
+43,08/04/2012,Portland Timbers,Chivas USA,1,2,-1,-1
+44,14/04/2012,Philadelphia Union,Columbus Crew,1,0,1,1
+45,14/04/2012,New England Revolution,DC United,1,2,-1,-1
+46,14/04/2012,Seattle Sounders,Colorado Rapids,1,0,1,1
+47,14/04/2012,Toronto FC,Chivas USA,0,1,-1,-1
+48,15/04/2012,New York Red Bulls,San Jose Earthquakes,2,2,0,0
+49,15/04/2012,FC Dallas,Montreal Impact,2,1,1,1
+50,15/04/2012,Sporting Kansas City,Real Salt Lake,1,0,1,1
+51,15/04/2012,Los Angeles Galaxy,Portland Timbers,3,1,2,1
+52,16/04/2012,Chicago Fire,Houston Dynamo,1,1,0,0
+53,19/04/2012,DC United,Montreal Impact,1,1,0,0
+54,19/04/2012,Vancouver Whitecaps,Sporting Kansas City,1,3,-2,-1
+55,21/04/2012,Toronto FC,Chicago Fire,2,3,-1,-1
+56,22/04/2012,Columbus Crew,Houston Dynamo,2,2,0,0
+57,22/04/2012,Colorado Rapids,Los Angeles Galaxy,1,2,-1,-1
+58,22/04/2012,Vancouver Whitecaps,FC Dallas,1,0,1,1
+59,22/04/2012,Chivas USA,Philadelphia Union,0,1,-1,-1
+60,22/04/2012,Portland Timbers,Sporting Kansas City,1,0,1,1
+61,22/04/2012,San Jose Earthquakes,Real Salt Lake,3,1,2,1
+62,22/04/2012,DC United,New York Red Bulls,4,1,3,1
+63,26/04/2012,FC Dallas,Real Salt Lake,1,1,0,0
+64,28/04/2012,Montreal Impact,Portland Timbers,2,0,2,1
+65,28/04/2012,New York Red Bulls,New England Revolution,1,0,1,1
+66,29/04/2012,Philadelphia Union,San Jose Earthquakes,1,2,-1,-1
+67,29/04/2012,Columbus Crew,Vancouver Whitecaps,0,1,-1,-1
+68,29/04/2012,DC United,Houston Dynamo,3,2,1,1
+69,29/04/2012,Chicago Fire,Seattle Sounders,1,2,-1,-1
+70,29/04/2012,Colorado Rapids,Chivas USA,4,0,4,1
+71,29/04/2012,Real Salt Lake,Toronto FC,3,2,1,1
+72,29/04/2012,Los Angeles Galaxy,FC Dallas,1,1,0,0
+73,03/05/2012,New England Revolution,Colorado Rapids,2,1,1,1
+74,03/05/2012,Seattle Sounders,Los Angeles Galaxy,2,0,2,1
+75,03/05/2012,San Jose Earthquakes,DC United,5,3,2,1
+76,05/05/2012,Chivas USA,Chicago Fire,1,2,-1,-1
+77,05/05/2012,Toronto FC,DC United,0,2,-2,-1
+78,05/05/2012,Seattle Sounders,Philadelphia Union,1,0,1,1
+79,06/05/2012,Vancouver Whitecaps,San Jose Earthquakes,2,1,1,1
+80,06/05/2012,Los Angeles Galaxy,New York Red Bulls,0,1,-1,-1
+81,06/05/2012,Sporting Kansas City,Montreal Impact,0,2,-2,-1
+82,06/05/2012,Real Salt Lake,New England Revolution,2,1,1,1
+83,06/05/2012,Portland Timbers,Columbus Crew,0,0,0,0
+84,07/05/2012,FC Dallas,Colorado Rapids,0,2,-2,-1
+85,10/05/2012,New York Red Bulls,Houston Dynamo,1,0,1,1
+86,10/05/2012,Chicago Fire,Real Salt Lake,0,0,0,0
+87,10/05/2012,FC Dallas,Seattle Sounders,0,2,-2,-1
+88,12/05/2012,Montreal Impact,Los Angeles Galaxy,1,1,0,0
+89,12/05/2012,Houston Dynamo,DC United,1,0,1,1
+90,13/05/2012,Columbus Crew,FC Dallas,2,1,1,1
+91,13/05/2012,New England Revolution,Vancouver Whitecaps,4,1,3,1
+92,13/05/2012,Chicago Fire,Sporting Kansas City,2,1,1,1
+93,13/05/2012,Seattle Sounders,Real Salt Lake,0,1,-1,-1
+94,13/05/2012,Philadelphia Union,New York Red Bulls,2,3,-1,-1
+95,14/05/2012,San Jose Earthquakes,Chivas USA,1,1,0,0
+96,16/05/2012,Houston Dynamo,Portland Timbers,0,0,0,0
+97,17/05/2012,DC United,Colorado Rapids,2,0,2,1
+98,19/05/2012,Vancouver Whitecaps,Seattle Sounders,2,2,0,0
+99,20/05/2012,DC United,Toronto FC,3,1,2,1
+100,20/05/2012,Montreal Impact,New York Red Bulls,1,2,-1,-1
+101,20/05/2012,New England Revolution,Houston Dynamo,2,2,0,0
+102,20/05/2012,FC Dallas,Philadelphia Union,1,1,0,0
+103,20/05/2012,Colorado Rapids,Sporting Kansas City,2,2,0,0
+104,20/05/2012,Chivas USA,Los Angeles Galaxy,1,0,1,1
+105,20/05/2012,San Jose Earthquakes,Columbus Crew,1,1,0,0
+106,21/05/2012,Portland Timbers,Chicago Fire,2,1,1,1
+107,24/05/2012,New York Red Bulls,Chivas USA,1,1,0,0
+108,24/05/2012,Chicago Fire,FC Dallas,2,1,1,1
+109,24/05/2012,Seattle Sounders,Columbus Crew,0,2,-2,-1
+110,24/05/2012,Los Angeles Galaxy,San Jose Earthquakes,2,3,-1,-1
+111,26/05/2012,Houston Dynamo,Los Angeles Galaxy,2,1,1,1
+112,26/05/2012,Toronto FC,Philadelphia Union,1,0,1,1
+113,27/05/2012,Columbus Crew,Chicago Fire,2,1,1,1
+114,27/05/2012,DC United,New England Revolution,3,2,1,1
+115,27/05/2012,Colorado Rapids,Montreal Impact,3,2,1,1
+116,27/05/2012,Real Salt Lake,FC Dallas,3,2,1,1
+117,27/05/2012,Portland Timbers,Vancouver Whitecaps,1,1,0,0
+118,27/05/2012,Chivas USA,Seattle Sounders,1,1,0,0
+119,27/05/2012,Sporting Kansas City,San Jose Earthquakes,2,1,1,1
+120,03/06/2012,New England Revolution,Chicago Fire,2,0,2,1
+121,11/06/2012,Vancouver Whitecaps,Houston Dynamo,3,1,2,1
+122,17/06/2012,Philadelphia Union,DC United,0,1,-1,-1
+123,17/06/2012,Vancouver Whitecaps,Colorado Rapids,1,0,1,1
+124,17/06/2012,Houston Dynamo,FC Dallas,2,1,1,1
+125,17/06/2012,Montreal Impact,Seattle Sounders,4,1,3,1
+126,17/06/2012,New England Revolution,Columbus Crew,0,0,0,0
+127,17/06/2012,Sporting Kansas City,Toronto FC,2,0,2,1
+128,17/06/2012,Chivas USA,Real Salt Lake,0,3,-3,-1
+129,17/06/2012,Chicago Fire,New York Red Bulls,3,1,2,1
+130,18/06/2012,Los Angeles Galaxy,Portland Timbers,1,0,1,1
+131,21/06/2012,Houston Dynamo,Toronto FC,3,3,0,0
+132,21/06/2012,Real Salt Lake,Los Angeles Galaxy,2,3,-1,-1
+133,21/06/2012,Colorado Rapids,San Jose Earthquakes,1,2,-1,-1
+134,21/06/2012,Seattle Sounders,Sporting Kansas City,1,1,0,0
+135,21/06/2012,Chivas USA,Montreal Impact,2,1,1,1
+136,21/06/2012,Vancouver Whitecaps,New York Red Bulls,1,1,0,0
+137,23/06/2012,Toronto FC,New England Revolution,2,2,0,0
+138,24/06/2012,Philadelphia Union,Sporting Kansas City,4,0,4,1
+139,24/06/2012,Montreal Impact,Houston Dynamo,4,2,2,1
+140,24/06/2012,Chicago Fire,Columbus Crew,2,1,1,1
+141,24/06/2012,FC Dallas,Chivas USA,0,0,0,0
+142,24/06/2012,Real Salt Lake,San Jose Earthquakes,1,2,-1,-1
+143,24/06/2012,Los Angeles Galaxy,Vancouver Whitecaps,3,0,3,1
+144,24/06/2012,Portland Timbers,Seattle Sounders,2,1,1,1
+145,25/06/2012,New York Red Bulls,DC United,3,2,1,1
+146,28/06/2012,Montreal Impact,Toronto FC,0,3,-3,-1
+147,30/06/2012,Sporting Kansas City,Chicago Fire,0,1,-1,-1
+148,01/07/2012,Toronto FC,New York Red Bulls,1,1,0,0
+149,01/07/2012,DC United,Montreal Impact,3,0,3,1
+150,01/07/2012,New England Revolution,Seattle Sounders,2,2,0,0
+151,01/07/2012,Houston Dynamo,Philadelphia Union,2,1,1,1
+152,01/07/2012,Colorado Rapids,Portland Timbers,3,0,3,1
+153,01/07/2012,Columbus Crew,Real Salt Lake,2,0,2,1
+154,01/07/2012,San Jose Earthquakes,Los Angeles Galaxy,4,3,1,1
+155,04/07/2012,Houston Dynamo,Chicago Fire,0,0,0,0
+156,04/07/2012,Portland Timbers,San Jose Earthquakes,2,1,1,1
+157,05/07/2012,Montreal Impact,Sporting Kansas City,1,3,-2,-1
+158,05/07/2012,FC Dallas,Toronto FC,1,1,0,0
+159,05/07/2012,Colorado Rapids,Vancouver Whitecaps,0,1,-1,-1
+160,05/07/2012,Real Salt Lake,Seattle Sounders,0,0,0,0
+161,05/07/2012,Los Angeles Galaxy,Philadelphia Union,1,2,-1,-1
+162,08/07/2012,Sporting Kansas City,Houston Dynamo,0,0,0,0
+163,08/07/2012,FC Dallas,San Jose Earthquakes,0,0,0,0
+164,08/07/2012,Real Salt Lake,Portland Timbers,3,0,3,1
+165,08/07/2012,Chivas USA,Vancouver Whitecaps,0,0,0,0
+166,08/07/2012,Seattle Sounders,Colorado Rapids,2,1,1,1
+167,08/07/2012,Chicago Fire,Los Angeles Galaxy,0,2,-2,-1
+168,08/07/2012,Philadelphia Union,Toronto FC,3,0,3,1
+169,09/07/2012,New England Revolution,New York Red Bulls,2,0,2,1
+170,09/07/2012,Montreal Impact,Columbus Crew,2,1,1,1
+171,12/07/2012,Toronto FC,Vancouver Whitecaps,3,2,1,1
+172,15/07/2012,Philadelphia Union,Montreal Impact,2,1,1,1
+173,15/07/2012,Columbus Crew,Sporting Kansas City,0,2,-2,-1
+174,15/07/2012,New England Revolution,Toronto FC,0,1,-1,-1
+175,15/07/2012,Chicago Fire,Vancouver Whitecaps,1,0,1,1
+176,15/07/2012,Colorado Rapids,FC Dallas,1,2,-1,-1
+177,15/07/2012,San Jose Earthquakes,Real Salt Lake,5,0,5,1
+178,15/07/2012,Portland Timbers,Los Angeles Galaxy,3,5,-2,-1
+179,15/07/2012,New York Red Bulls,Seattle Sounders,2,2,0,0
+180,16/07/2012,Houston Dynamo,DC United,4,0,4,1
+181,18/07/2012,New York Red Bulls,Chicago Fire,1,0,1,1
+182,18/07/2012,Chivas USA,Portland Timbers,1,0,1,1
+183,19/07/2012,Toronto FC,Colorado Rapids,2,1,1,1
+184,19/07/2012,Montreal Impact,New England Revolution,2,1,1,1
+185,19/07/2012,Houston Dynamo,Sporting Kansas City,2,1,1,1
+186,19/07/2012,Vancouver Whitecaps,Los Angeles Galaxy,2,2,0,0
+187,19/07/2012,San Jose Earthquakes,FC Dallas,2,1,1,1
+188,21/07/2012,New York Red Bulls,Philadelphia Union,2,0,2,1
+189,22/07/2012,Columbus Crew,DC United,1,0,1,1
+190,22/07/2012,Houston Dynamo,Montreal Impact,3,0,3,1
+191,22/07/2012,Sporting Kansas City,New England Revolution,0,0,0,0
+192,22/07/2012,FC Dallas,Portland Timbers,5,0,5,1
+193,22/07/2012,Los Angeles Galaxy,Chivas USA,3,1,2,1
+194,22/07/2012,Real Salt Lake,Colorado Rapids,2,0,2,1
+195,23/07/2012,Vancouver Whitecaps,San Jose Earthquakes,2,1,1,1
+196,28/07/2012,Real Salt Lake,Vancouver Whitecaps,2,1,1,1
+197,28/07/2012,Toronto FC,Houston Dynamo,0,2,-2,-1
+198,29/07/2012,Montreal Impact,New York Red Bulls,3,1,2,1
+199,29/07/2012,FC Dallas,Los Angeles Galaxy,0,1,-1,-1
+200,29/07/2012,Sporting Kansas City,Columbus Crew,1,2,-1,-1
+201,29/07/2012,Colorado Rapids,Seattle Sounders,1,2,-1,-1
+202,29/07/2012,San Jose Earthquakes,Chicago Fire,1,1,0,0
+203,29/07/2012,Portland Timbers,Chivas USA,0,1,-1,-1
+204,30/07/2012,Philadelphia Union,New England Revolution,2,1,1,1
+205,04/08/2012,Houston Dynamo,New York Red Bulls,2,0,2,1
+206,05/08/2012,DC United,Columbus Crew,1,0,1,1
+207,05/08/2012,Montreal Impact,Philadelphia Union,2,0,2,1
+208,05/08/2012,New England Revolution,Sporting Kansas City,0,1,-1,-1
+209,05/08/2012,Chicago Fire,Toronto FC,2,1,1,1
+210,05/08/2012,Colorado Rapids,Real Salt Lake,1,0,1,1
+211,06/08/2012,Portland Timbers,FC Dallas,1,1,0,0
+212,06/08/2012,Seattle Sounders,Los Angeles Galaxy,4,0,4,1
+213,11/08/2012,New York Red Bulls,Houston Dynamo,2,0,2,1
+214,12/08/2012,Vancouver Whitecaps,Real Salt Lake,2,1,1,1
+215,12/08/2012,Sporting Kansas City,DC United,2,1,1,1
+216,12/08/2012,FC Dallas,Colorado Rapids,3,2,1,1
+217,12/08/2012,San Jose Earthquakes,Seattle Sounders,2,1,1,1
+218,13/08/2012,New England Revolution,Montreal Impact,0,1,-1,-1
+219,13/08/2012,Philadelphia Union,Chicago Fire,1,3,-2,-1
+220,13/08/2012,Chivas USA,Los Angeles Galaxy,0,4,-4,-1
+221,16/08/2012,Columbus Crew,Los Angeles Galaxy,1,1,0,0
+222,16/08/2012,Toronto FC,Portland Timbers,2,2,0,0
+223,16/08/2012,Vancouver Whitecaps,FC Dallas,0,2,-2,-1
+224,18/08/2012,Seattle Sounders,Vancouver Whitecaps,2,0,2,1
+225,18/08/2012,Toronto FC,Sporting Kansas City,0,1,-1,-1
+226,19/08/2012,Montreal Impact,San Jose Earthquakes,3,1,2,1
+227,19/08/2012,Chicago Fire,New England Revolution,2,1,1,1
+228,19/08/2012,Colorado Rapids,Chivas USA,1,1,0,0
+229,19/08/2012,Real Salt Lake,FC Dallas,1,2,-1,-1
+230,19/08/2012,DC United,Philadelphia Union,1,1,0,0
+231,20/08/2012,New York Red Bulls,Portland Timbers,3,2,1,1
+232,20/08/2012,Houston Dynamo,Columbus Crew,2,2,0,0
+233,23/08/2012,Columbus Crew,Toronto FC,2,1,1,1
+234,23/08/2012,DC United,Chicago Fire,4,2,2,1
+235,25/08/2012,Philadelphia Union,Real Salt Lake,0,0,0,0
+236,25/08/2012,Montreal Impact,DC United,3,0,3,1
+237,26/08/2012,Columbus Crew,New England Revolution,4,3,1,1
+238,26/08/2012,Houston Dynamo,Toronto FC,1,1,0,0
+239,26/08/2012,Chivas USA,Seattle Sounders,2,6,-4,-1
+240,26/08/2012,Portland Timbers,Vancouver Whitecaps,2,1,1,1
+241,26/08/2012,San Jose Earthquakes,Colorado Rapids,4,1,3,1
+242,27/08/2012,Los Angeles Galaxy,FC Dallas,2,0,2,1
+243,27/08/2012,Sporting Kansas City,New York Red Bulls,1,1,0,0
+244,30/08/2012,DC United,New York Red Bulls,2,2,0,0
+245,30/08/2012,New England Revolution,Chivas USA,3,3,0,0
+246,30/08/2012,Philadelphia Union,Columbus Crew,1,2,-1,-1
+247,01/09/2012,Portland Timbers,Colorado Rapids,1,0,1,1
+248,02/09/2012,Columbus Crew,Montreal Impact,2,1,1,1
+249,02/09/2012,New England Revolution,Philadelphia Union,0,0,0,0
+250,02/09/2012,Sporting Kansas City,Toronto FC,2,1,1,1
+251,02/09/2012,Real Salt Lake,DC United,1,0,1,1
+252,02/09/2012,Los Angeles Galaxy,Vancouver Whitecaps,2,0,2,1
+253,03/09/2012,Chicago Fire,Houston Dynamo,3,1,2,1
+254,03/09/2012,FC Dallas,Seattle Sounders,1,1,0,0
+255,03/09/2012,San Jose Earthquakes,Chivas USA,4,0,4,1
+256,06/09/2012,New England Revolution,Columbus Crew,2,0,2,1
+257,06/09/2012,Colorado Rapids,Portland Timbers,3,0,3,1
+258,07/09/2012,Houston Dynamo,Real Salt Lake,1,0,1,1
+259,08/09/2012,Seattle Sounders,Chivas USA,2,1,1,1
+260,13/09/2012,Toronto FC,Chicago Fire,1,2,-1,-1
+261,15/09/2012,Sporting Kansas City,Houston Dynamo,1,1,0,0
+262,15/09/2012,Los Angeles Galaxy,Colorado Rapids,2,0,2,1
+263,15/09/2012,Toronto FC,Philadelphia Union,1,1,0,0
+264,15/09/2012,Portland Timbers,Seattle Sounders,1,1,0,0
+265,16/09/2012,New York Red Bulls,Columbus Crew,3,1,2,1
+266,16/09/2012,DC United,New England Revolution,2,1,1,1
+267,16/09/2012,Chicago Fire,Montreal Impact,3,1,2,1
+268,16/09/2012,FC Dallas,Vancouver Whitecaps,1,0,1,1
+269,16/09/2012,Chivas USA,San Jose Earthquakes,0,2,-2,-1
+270,20/09/2012,New York Red Bulls,Sporting Kansas City,0,2,-2,-1
+271,20/09/2012,Columbus Crew,Chivas USA,1,0,1,1
+272,20/09/2012,San Jose Earthquakes,Portland Timbers,2,2,0,0
+273,21/09/2012,Philadelphia Union,DC United,0,1,-1,-1
+274,22/09/2012,Montreal Impact,Sporting Kansas City,0,0,0,0
+275,23/09/2012,New England Revolution,New York Red Bulls,1,1,0,0
+276,23/09/2012,Real Salt Lake,Portland Timbers,2,1,1,1
+277,23/09/2012,Chicago Fire,Columbus Crew,2,1,1,1
+278,23/09/2012,Los Angeles Galaxy,Toronto FC,4,2,2,1
+279,23/09/2012,Seattle Sounders,San Jose Earthquakes,1,2,-1,-1
+280,23/09/2012,Philadelphia Union,Houston Dynamo,3,1,2,1
+281,24/09/2012,DC United,Chivas USA,1,0,1,1
+282,24/09/2012,Vancouver Whitecaps,Colorado Rapids,2,2,0,0
+283,29/09/2012,Sporting Kansas City,Chicago Fire,2,0,2,1
+284,30/09/2012,New York Red Bulls,Toronto FC,4,1,3,1
+285,30/09/2012,Columbus Crew,Philadelphia Union,3,2,1,1
+286,30/09/2012,Houston Dynamo,New England Revolution,2,0,2,1
+287,30/09/2012,Vancouver Whitecaps,Seattle Sounders,0,0,0,0
+288,30/09/2012,Chivas USA,Real Salt Lake,0,4,-4,-1
+289,30/09/2012,Portland Timbers,DC United,1,1,0,0
+290,30/09/2012,San Jose Earthquakes,FC Dallas,3,3,0,0
+291,01/10/2012,Colorado Rapids,Los Angeles Galaxy,1,1,0,0
+292,04/10/2012,Chicago Fire,Philadelphia Union,1,3,-2,-1
+293,04/10/2012,Vancouver Whitecaps,Chivas USA,4,0,4,1
+294,06/10/2012,Toronto FC,DC United,0,1,-1,-1
+295,06/10/2012,New York Red Bulls,Chicago Fire,0,2,-2,-1
+296,07/10/2012,Philadelphia Union,New England Revolution,1,0,1,1
+297,07/10/2012,Houston Dynamo,Montreal Impact,1,1,0,0
+298,07/10/2012,Colorado Rapids,San Jose Earthquakes,1,4,-3,-1
+299,07/10/2012,Los Angeles Galaxy,Real Salt Lake,1,2,-1,-1
+300,07/10/2012,Columbus Crew,Sporting Kansas City,1,1,0,0
+301,08/10/2012,Chivas USA,FC Dallas,1,1,0,0
+302,08/10/2012,Seattle Sounders,Portland Timbers,3,0,3,1
+303,18/10/2012,Seattle Sounders,Real Salt Lake,0,0,0,0
+304,20/10/2012,Toronto FC,Montreal Impact,0,0,0,0
+305,21/10/2012,New York Red Bulls,Sporting Kansas City,0,0,0,0
+306,21/10/2012,DC United,Columbus Crew,3,2,1,1
+307,21/10/2012,New England Revolution,Chicago Fire,1,0,1,1
+308,21/10/2012,Houston Dynamo,Philadelphia Union,3,1,2,1
+309,21/10/2012,Chivas USA,Colorado Rapids,0,2,-2,-1
+310,22/10/2012,San Jose Earthquakes,Los Angeles Galaxy,2,2,0,0
+311,22/10/2012,Vancouver Whitecaps,Portland Timbers,0,1,-1,-1
+312,22/10/2012,Seattle Sounders,FC Dallas,3,1,2,1
+313,25/10/2012,Sporting Kansas City,Philadelphia Union,2,1,1,1
+314,27/10/2012,Philadelphia Union,New York Red Bulls,0,3,-3,-1
+315,27/10/2012,Montreal Impact,New England Revolution,0,1,-1,-1
+316,27/10/2012,Chicago Fire,DC United,1,1,0,0
+317,27/10/2012,Portland Timbers,San Jose Earthquakes,1,1,0,0
+318,28/10/2012,Colorado Rapids,Houston Dynamo,2,0,2,1
+319,28/10/2012,Real Salt Lake,Vancouver Whitecaps,0,0,0,0
+320,28/10/2012,Columbus Crew,Toronto FC,2,1,1,1
+321,28/10/2012,FC Dallas,Chivas USA,2,2,0,0
+322,29/10/2012,Los Angeles Galaxy,Seattle Sounders,1,0,1,1
+323,01/11/2012,Chicago Fire,Houston Dynamo,1,2,-1,-1
+324,02/11/2012,Los Angeles Galaxy,Vancouver Whitecaps,2,1,1,1
+325,03/11/2012,Seattle Sounders,Real Salt Lake,0,0,0,0
+326,04/11/2012,DC United,New York Red Bulls,1,1,0,0
+327,04/11/2012,Houston Dynamo,Sporting Kansas City,2,0,2,1
+328,05/11/2012,Los Angeles Galaxy,San Jose Earthquakes,0,1,-1,-1
+329,08/11/2012,Sporting Kansas City,Houston Dynamo,1,0,1,1
+330,08/11/2012,San Jose Earthquakes,Los Angeles Galaxy,1,3,-2,-1
+331,09/11/2012,New York Red Bulls,DC United,0,1,-1,-1
+332,09/11/2012,Real Salt Lake,Seattle Sounders,0,1,-1,-1
+333,11/11/2012,Houston Dynamo,DC United,3,1,2,1
+334,12/11/2012,Los Angeles Galaxy,Seattle Sounders,3,0,3,1
+335,18/11/2012,DC United,Houston Dynamo,1,1,0,0
+336,19/11/2012,Seattle Sounders,Los Angeles Galaxy,2,1,1,1
+337,01/12/2012,Los Angeles Galaxy,Houston Dynamo,3,1,2,1
+338,02/03/2013,Philadelphia Union,Sporting Kansas City,1,3,-2,-1
+339,02/03/2013,Vancouver Whitecaps,Toronto FC,1,0,1,1
+340,03/03/2013,Houston Dynamo,DC United,2,0,2,1
+341,03/03/2013,FC Dallas,Colorado Rapids,1,0,1,1
+342,03/03/2013,Chivas USA,Columbus Crew,0,3,-3,-1
+343,03/03/2013,Seattle Sounders,Montreal Impact,0,1,-1,-1
+344,03/03/2013,Los Angeles Galaxy,Chicago Fire,4,0,4,1
+345,04/03/2013,Portland Timbers,New York Red Bulls,3,3,0,0
+346,04/03/2013,San Jose Earthquakes,Real Salt Lake,0,2,-2,-1
+347,09/03/2013,Toronto FC,Sporting Kansas City,2,1,1,1
+348,10/03/2013,DC United,Real Salt Lake,1,0,1,1
+349,10/03/2013,Chicago Fire,New England Revolution,0,1,-1,-1
+350,10/03/2013,Vancouver Whitecaps,Columbus Crew,2,1,1,1
+351,10/03/2013,Portland Timbers,Montreal Impact,1,2,-1,-1
+352,10/03/2013,Colorado Rapids,Philadelphia Union,1,2,-1,-1
+353,10/03/2013,Chivas USA,FC Dallas,3,1,2,1
+354,11/03/2013,San Jose Earthquakes,New York Red Bulls,2,1,1,1
+355,16/03/2013,New York Red Bulls,DC United,0,0,0,0
+356,16/03/2013,Sporting Kansas City,Chicago Fire,0,0,0,0
+357,16/03/2013,Montreal Impact,Toronto FC,2,1,1,1
+358,16/03/2013,Philadelphia Union,New England Revolution,1,0,1,1
+359,16/03/2013,Columbus Crew,San Jose Earthquakes,1,1,0,0
+360,16/03/2013,Real Salt Lake,Colorado Rapids,1,1,0,0
+361,17/03/2013,Seattle Sounders,Portland Timbers,1,1,0,0
+362,17/03/2013,FC Dallas,Houston Dynamo,3,2,1,1
+363,17/03/2013,Los Angeles Galaxy,Chivas USA,1,1,0,0
+364,23/03/2013,DC United,Columbus Crew,1,2,-1,-1
+365,23/03/2013,New England Revolution,Sporting Kansas City,0,0,0,0
+366,23/03/2013,Montreal Impact,New York Red Bulls,1,0,1,1
+367,24/03/2013,FC Dallas,Real Salt Lake,2,0,2,1
+368,24/03/2013,Houston Dynamo,Vancouver Whitecaps,2,1,1,1
+369,24/03/2013,Los Angeles Galaxy,Colorado Rapids,1,0,1,1
+370,24/03/2013,San Jose Earthquakes,Seattle Sounders,1,0,1,1
+371,24/03/2013,Chicago Fire,Chivas USA,1,4,-3,-1
+372,30/03/2013,Toronto FC,Los Angeles Galaxy,2,2,0,0
+373,30/03/2013,New York Red Bulls,Philadelphia Union,2,1,1,1
+374,30/03/2013,New England Revolution,FC Dallas,0,1,-1,-1
+375,30/03/2013,Colorado Rapids,Portland Timbers,2,2,0,0
+376,31/03/2013,Houston Dynamo,San Jose Earthquakes,2,0,2,1
+377,31/03/2013,Sporting Kansas City,Montreal Impact,2,0,2,1
+378,31/03/2013,Real Salt Lake,Seattle Sounders,2,1,1,1
+379,31/03/2013,Chivas USA,Vancouver Whitecaps,2,1,1,1
+380,06/04/2013,Sporting Kansas City,DC United,1,0,1,1
+381,06/04/2013,Toronto FC,FC Dallas,2,2,0,0
+382,06/04/2013,Columbus Crew,Philadelphia Union,1,1,0,0
+383,07/04/2013,Colorado Rapids,Real Salt Lake,1,0,1,1
+384,07/04/2013,Portland Timbers,Houston Dynamo,2,0,2,1
+385,07/04/2013,San Jose Earthquakes,Vancouver Whitecaps,1,1,0,0
+386,07/04/2013,Chicago Fire,New York Red Bulls,3,1,2,1
+387,13/04/2013,Philadelphia Union,Toronto FC,1,1,0,0
+388,13/04/2013,Seattle Sounders,New England Revolution,0,0,0,0
+389,13/04/2013,Vancouver Whitecaps,Real Salt Lake,1,1,0,0
+390,14/04/2013,DC United,New York Red Bulls,0,2,-2,-1
+391,14/04/2013,FC Dallas,Los Angeles Galaxy,1,0,1,1
+392,14/04/2013,Chivas USA,Colorado Rapids,0,1,-1,-1
+393,14/04/2013,Montreal Impact,Columbus Crew,1,1,0,0
+394,14/04/2013,Houston Dynamo,Chicago Fire,2,1,1,1
+395,15/04/2013,Portland Timbers,San Jose Earthquakes,1,0,1,1
+396,18/04/2013,New York Red Bulls,Sporting Kansas City,0,1,-1,-1
+397,20/04/2013,Toronto FC,Houston Dynamo,1,1,0,0
+398,20/04/2013,Colorado Rapids,Seattle Sounders,0,1,-1,-1
+399,21/04/2013,New York Red Bulls,New England Revolution,4,1,3,1
+400,21/04/2013,Chicago Fire,Columbus Crew,1,0,1,1
+401,21/04/2013,FC Dallas,Vancouver Whitecaps,2,0,2,1
+402,21/04/2013,Real Salt Lake,Chivas USA,1,0,1,1
+403,21/04/2013,Los Angeles Galaxy,Sporting Kansas City,2,0,2,1
+404,21/04/2013,DC United,Philadelphia Union,2,3,-1,-1
+405,22/04/2013,San Jose Earthquakes,Portland Timbers,1,1,0,0
+406,27/04/2013,Toronto FC,New York Red Bulls,1,2,-1,-1
+407,27/04/2013,Montreal Impact,Chicago Fire,2,0,2,1
+408,27/04/2013,Vancouver Whitecaps,FC Dallas,2,2,0,0
+409,28/04/2013,Columbus Crew,DC United,3,0,3,1
+410,28/04/2013,New England Revolution,Philadelphia Union,2,0,2,1
+411,28/04/2013,Sporting Kansas City,Portland Timbers,2,3,-1,-1
+412,28/04/2013,Real Salt Lake,Los Angeles Galaxy,0,2,-2,-1
+413,28/04/2013,Chivas USA,San Jose Earthquakes,2,2,0,0
+414,28/04/2013,Houston Dynamo,Colorado Rapids,1,1,0,0
+415,03/05/2013,Portland Timbers,New England Revolution,0,0,0,0
+416,04/05/2013,Columbus Crew,New York Red Bulls,0,1,-1,-1
+417,04/05/2013,Philadelphia Union,Seattle Sounders,2,2,0,0
+418,04/05/2013,San Jose Earthquakes,Montreal Impact,2,2,0,0
+419,05/05/2013,Colorado Rapids,Toronto FC,1,0,1,1
+420,05/05/2013,Real Salt Lake,Vancouver Whitecaps,2,0,2,1
+421,05/05/2013,Sporting Kansas City,Chivas USA,4,0,4,1
+422,06/05/2013,Los Angeles Galaxy,Houston Dynamo,0,1,-1,-1
+423,09/05/2013,DC United,Houston Dynamo,0,4,-4,-1
+424,09/05/2013,New York Red Bulls,Montreal Impact,2,1,1,1
+425,09/05/2013,New England Revolution,Real Salt Lake,1,2,-1,-1
+426,09/05/2013,Sporting Kansas City,Seattle Sounders,0,1,-1,-1
+427,09/05/2013,FC Dallas,Portland Timbers,1,1,0,0
+428,09/05/2013,San Jose Earthquakes,Toronto FC,2,1,1,1
+429,11/05/2013,Chicago Fire,Philadelphia Union,0,1,-1,-1
+430,11/05/2013,Montreal Impact,Real Salt Lake,3,2,1,1
+431,11/05/2013,Seattle Sounders,San Jose Earthquakes,4,0,4,1
+432,12/05/2013,Vancouver Whitecaps,Los Angeles Galaxy,3,1,2,1
+433,12/05/2013,Columbus Crew,Colorado Rapids,0,2,-2,-1
+434,12/05/2013,New England Revolution,New York Red Bulls,1,1,0,0
+435,12/05/2013,FC Dallas,DC United,2,1,1,1
+436,12/05/2013,Portland Timbers,Chivas USA,3,0,3,1
+437,13/05/2013,Houston Dynamo,Sporting Kansas City,0,1,-1,-1
+438,16/05/2013,Philadelphia Union,Los Angeles Galaxy,1,4,-3,-1
+439,18/05/2013,Toronto FC,Columbus Crew,0,1,-1,-1
+440,19/05/2013,Vancouver Whitecaps,Portland Timbers,2,2,0,0
+441,19/05/2013,Philadelphia Union,Chicago Fire,1,0,1,1
+442,19/05/2013,Houston Dynamo,New England Revolution,0,2,-2,-1
+443,19/05/2013,San Jose Earthquakes,Colorado Rapids,1,1,0,0
+444,19/05/2013,Seattle Sounders,FC Dallas,4,2,2,1
+445,19/05/2013,New York Red Bulls,Los Angeles Galaxy,1,0,1,1
+446,19/05/2013,DC United,Sporting Kansas City,1,1,0,0
+447,20/05/2013,Chivas USA,Real Salt Lake,1,4,-3,-1
+448,26/05/2013,DC United,Portland Timbers,0,2,-2,-1
+449,26/05/2013,Montreal Impact,Philadelphia Union,5,3,2,1
+450,26/05/2013,New England Revolution,Toronto FC,2,0,2,1
+451,26/05/2013,FC Dallas,San Jose Earthquakes,1,0,1,1
+452,26/05/2013,Colorado Rapids,Chivas USA,2,0,2,1
+453,26/05/2013,Real Salt Lake,Chicago Fire,1,1,0,0
+454,26/05/2013,Sporting Kansas City,Houston Dynamo,1,1,0,0
+455,26/05/2013,New York Red Bulls,Columbus Crew,2,2,0,0
+456,27/05/2013,Los Angeles Galaxy,Seattle Sounders,4,0,4,1
+457,01/06/2013,Toronto FC,Philadelphia Union,1,1,0,0
+458,02/06/2013,New York Red Bulls,Vancouver Whitecaps,1,2,-1,-1
+459,02/06/2013,Columbus Crew,Houston Dynamo,1,1,0,0
+460,02/06/2013,Sporting Kansas City,Montreal Impact,1,2,-1,-1
+461,02/06/2013,Colorado Rapids,FC Dallas,2,2,0,0
+462,02/06/2013,Real Salt Lake,San Jose Earthquakes,3,0,3,1
+463,02/06/2013,Chivas USA,Seattle Sounders,0,2,-2,-1
+464,02/06/2013,Los Angeles Galaxy,New England Revolution,0,5,-5,-1
+465,02/06/2013,Chicago Fire,DC United,2,0,2,1
+466,06/06/2013,Philadelphia Union,Columbus Crew,3,0,3,1
+467,09/06/2013,New England Revolution,DC United,0,0,0,0
+468,09/06/2013,Chicago Fire,Portland Timbers,2,2,0,0
+469,09/06/2013,Real Salt Lake,Los Angeles Galaxy,3,1,2,1
+470,09/06/2013,Seattle Sounders,Vancouver Whitecaps,3,2,1,1
+471,15/06/2013,Portland Timbers,FC Dallas,1,0,1,1
+472,16/06/2013,DC United,Toronto FC,1,2,-1,-1
+473,16/06/2013,Columbus Crew,Montreal Impact,2,0,2,1
+474,16/06/2013,Colorado Rapids,San Jose Earthquakes,1,2,-1,-1
+475,16/06/2013,Vancouver Whitecaps,New England Revolution,4,3,1,1
+476,20/06/2013,Montreal Impact,Houston Dynamo,2,0,2,1
+477,20/06/2013,Chicago Fire,Colorado Rapids,2,1,1,1
+478,20/06/2013,Vancouver Whitecaps,Chivas USA,3,1,2,1
+479,20/06/2013,Los Angeles Galaxy,Portland Timbers,0,0,0,0
+480,23/06/2013,DC United,San Jose Earthquakes,1,0,1,1
+481,23/06/2013,Columbus Crew,Chicago Fire,1,2,-1,-1
+482,23/06/2013,FC Dallas,Sporting Kansas City,2,2,0,0
+483,23/06/2013,Houston Dynamo,Toronto FC,0,0,0,0
+484,23/06/2013,Real Salt Lake,Seattle Sounders,2,0,2,1
+485,23/06/2013,Philadelphia Union,New York Red Bulls,3,0,3,1
+486,24/06/2013,Portland Timbers,Colorado Rapids,3,0,3,1
+487,24/06/2013,Chivas USA,Los Angeles Galaxy,0,1,-1,-1
+488,29/06/2013,Toronto FC,Real Salt Lake,0,1,-1,-1
+489,29/06/2013,Philadelphia Union,FC Dallas,2,2,0,0
+490,30/06/2013,DC United,Vancouver Whitecaps,0,1,-1,-1
+491,30/06/2013,Montreal Impact,Colorado Rapids,3,4,-1,-1
+492,30/06/2013,Sporting Kansas City,Columbus Crew,3,2,1,1
+493,30/06/2013,Chivas USA,New England Revolution,1,1,0,0
+494,30/06/2013,San Jose Earthquakes,Los Angeles Galaxy,3,2,1,1
+495,30/06/2013,New York Red Bulls,Houston Dynamo,2,0,2,1
+496,04/07/2013,Toronto FC,Montreal Impact,3,3,0,0
+497,04/07/2013,Chicago Fire,San Jose Earthquakes,3,2,1,1
+498,04/07/2013,Sporting Kansas City,Vancouver Whitecaps,1,1,0,0
+499,04/07/2013,Real Salt Lake,Philadelphia Union,2,2,0,0
+500,04/07/2013,Seattle Sounders,DC United,2,0,2,1
+501,05/07/2013,FC Dallas,Chivas USA,0,0,0,0
+502,05/07/2013,Colorado Rapids,New York Red Bulls,2,0,2,1
+503,05/07/2013,Los Angeles Galaxy,Columbus Crew,2,1,1,1
+504,07/07/2013,New England Revolution,San Jose Earthquakes,2,0,2,1
+505,07/07/2013,Houston Dynamo,Philadelphia Union,1,0,1,1
+506,07/07/2013,Vancouver Whitecaps,Seattle Sounders,2,0,2,1
+507,07/07/2013,Chicago Fire,Sporting Kansas City,1,2,-1,-1
+508,07/07/2013,Columbus Crew,Portland Timbers,1,0,1,1
+509,08/07/2013,Montreal Impact,Chivas USA,1,1,0,0
+510,08/07/2013,Colorado Rapids,DC United,0,0,0,0
+511,08/07/2013,Los Angeles Galaxy,FC Dallas,2,0,2,1
+512,13/07/2013,Philadelphia Union,Chivas USA,3,1,2,1
+513,14/07/2013,New York Red Bulls,Montreal Impact,4,0,4,1
+514,14/07/2013,New England Revolution,Houston Dynamo,1,2,-1,-1
+515,14/07/2013,Sporting Kansas City,Toronto FC,3,0,3,1
+516,14/07/2013,FC Dallas,Real Salt Lake,0,3,-3,-1
+517,14/07/2013,San Jose Earthquakes,Seattle Sounders,1,0,1,1
+518,14/07/2013,Portland Timbers,Los Angeles Galaxy,2,1,1,1
+519,15/07/2013,Vancouver Whitecaps,Chicago Fire,3,1,2,1
+520,18/07/2013,Colorado Rapids,New England Revolution,2,1,1,1
+521,18/07/2013,Chivas USA,Toronto FC,1,0,1,1
+522,20/07/2013,Seattle Sounders,Colorado Rapids,1,1,0,0
+523,20/07/2013,Toronto FC,New York Red Bulls,0,0,0,0
+524,21/07/2013,Montreal Impact,FC Dallas,0,0,0,0
+525,21/07/2013,Columbus Crew,New England Revolution,0,2,-2,-1
+526,21/07/2013,Philadelphia Union,Portland Timbers,0,0,0,0
+527,21/07/2013,Chicago Fire,DC United,4,1,3,1
+528,21/07/2013,Real Salt Lake,Sporting Kansas City,1,2,-1,-1
+529,21/07/2013,Los Angeles Galaxy,Vancouver Whitecaps,2,1,1,1
+530,27/07/2013,Toronto FC,Columbus Crew,2,1,1,1
+531,28/07/2013,Colorado Rapids,Los Angeles Galaxy,2,0,2,1
+532,28/07/2013,DC United,New England Revolution,1,2,-1,-1
+533,28/07/2013,Montreal Impact,Sporting Kansas City,1,0,1,1
+534,28/07/2013,New York Red Bulls,Real Salt Lake,4,3,1,1
+535,28/07/2013,Vancouver Whitecaps,Philadelphia Union,0,1,-1,-1
+536,28/07/2013,Houston Dynamo,Chicago Fire,1,1,0,0
+537,28/07/2013,San Jose Earthquakes,Portland Timbers,2,1,1,1
+538,29/07/2013,Seattle Sounders,Chivas USA,2,1,1,1
+539,03/08/2013,Sporting Kansas City,New York Red Bulls,2,3,-1,-1
+540,04/08/2013,DC United,Montreal Impact,3,1,2,1
+541,04/08/2013,Philadelphia Union,Chicago Fire,1,2,-1,-1
+542,04/08/2013,Colorado Rapids,Real Salt Lake,2,2,0,0
+543,04/08/2013,Houston Dynamo,Columbus Crew,3,1,2,1
+544,04/08/2013,San Jose Earthquakes,Chivas USA,2,0,2,1
+545,04/08/2013,Seattle Sounders,FC Dallas,3,0,3,1
+546,04/08/2013,Portland Timbers,Vancouver Whitecaps,1,1,0,0
+547,05/08/2013,New England Revolution,Toronto FC,0,1,-1,-1
+548,11/08/2013,Toronto FC,Seattle Sounders,1,2,-1,-1
+549,11/08/2013,Columbus Crew,New York Red Bulls,2,0,2,1
+550,11/08/2013,Vancouver Whitecaps,San Jose Earthquakes,2,0,2,1
+551,11/08/2013,Philadelphia Union,DC United,2,0,2,1
+552,11/08/2013,Chicago Fire,Montreal Impact,2,1,1,1
+553,11/08/2013,Sporting Kansas City,New England Revolution,3,0,3,1
+554,11/08/2013,Real Salt Lake,Houston Dynamo,1,0,1,1
+555,12/08/2013,FC Dallas,Los Angeles Galaxy,3,3,0,0
+556,12/08/2013,Chivas USA,Colorado Rapids,1,1,0,0
+557,18/08/2013,Montreal Impact,DC United,2,1,1,1
+558,18/08/2013,Columbus Crew,Toronto FC,2,0,2,1
+559,18/08/2013,New England Revolution,Chicago Fire,2,0,2,1
+560,18/08/2013,New York Red Bulls,Philadelphia Union,0,0,0,0
+561,18/08/2013,Houston Dynamo,Seattle Sounders,3,1,2,1
+562,18/08/2013,Colorado Rapids,Vancouver Whitecaps,2,0,2,1
+563,18/08/2013,Los Angeles Galaxy,Real Salt Lake,4,2,2,1
+564,18/08/2013,Portland Timbers,FC Dallas,2,1,1,1
+565,19/08/2013,San Jose Earthquakes,Sporting Kansas City,1,0,1,1
+566,22/08/2013,Chivas USA,FC Dallas,1,3,-2,-1
+567,22/08/2013,Portland Timbers,Real Salt Lake,3,3,0,0
+568,24/08/2013,Chicago Fire,Sporting Kansas City,1,0,1,1
+569,25/08/2013,DC United,Toronto FC,1,1,0,0
+570,25/08/2013,Montreal Impact,Houston Dynamo,5,0,5,1
+571,25/08/2013,FC Dallas,San Jose Earthquakes,2,2,0,0
+572,25/08/2013,Vancouver Whitecaps,Los Angeles Galaxy,0,1,-1,-1
+573,25/08/2013,Real Salt Lake,Columbus Crew,4,0,4,1
+574,25/08/2013,Chivas USA,New York Red Bulls,3,2,1,1
+575,26/08/2013,New England Revolution,Philadelphia Union,5,1,4,1
+576,26/08/2013,Seattle Sounders,Portland Timbers,1,0,1,1
+577,31/08/2013,Toronto FC,New England Revolution,1,1,0,0
+578,31/08/2013,Real Salt Lake,Portland Timbers,4,2,2,1
+579,01/09/2013,Columbus Crew,Seattle Sounders,0,1,-1,-1
+580,01/09/2013,Philadelphia Union,Montreal Impact,0,0,0,0
+581,01/09/2013,New York Red Bulls,DC United,2,1,1,1
+582,01/09/2013,Sporting Kansas City,Colorado Rapids,2,1,1,1
+583,01/09/2013,Los Angeles Galaxy,San Jose Earthquakes,3,0,3,1
+584,01/09/2013,Chicago Fire,Houston Dynamo,1,1,0,0
+585,02/09/2013,Vancouver Whitecaps,Chivas USA,2,2,0,0
+586,05/09/2013,Columbus Crew,Houston Dynamo,2,0,2,1
+587,05/09/2013,Seattle Sounders,Chivas USA,1,0,1,1
+588,08/09/2013,FC Dallas,Vancouver Whitecaps,3,1,2,1
+589,08/09/2013,Sporting Kansas City,Columbus Crew,3,0,3,1
+590,08/09/2013,Seattle Sounders,Chicago Fire,2,1,1,1
+591,08/09/2013,Los Angeles Galaxy,Colorado Rapids,0,1,-1,-1
+592,08/09/2013,Portland Timbers,Toronto FC,4,0,4,1
+593,08/09/2013,Houston Dynamo,New York Red Bulls,1,4,-3,-1
+594,09/09/2013,New England Revolution,Montreal Impact,2,4,-2,-1
+595,09/09/2013,Chivas USA,DC United,1,0,1,1
+596,09/09/2013,San Jose Earthquakes,Philadelphia Union,1,0,1,1
+597,12/09/2013,Toronto FC,Chicago Fire,1,1,0,0
+598,14/09/2013,Seattle Sounders,Real Salt Lake,2,0,2,1
+599,14/09/2013,Montreal Impact,Columbus Crew,1,2,-1,-1
+600,14/09/2013,DC United,Los Angeles Galaxy,2,2,0,0
+601,15/09/2013,New York Red Bulls,Toronto FC,2,0,2,1
+602,15/09/2013,Philadelphia Union,Houston Dynamo,0,1,-1,-1
+603,15/09/2013,Chicago Fire,New England Revolution,3,2,1,1
+604,15/09/2013,Colorado Rapids,FC Dallas,2,1,1,1
+605,15/09/2013,Chivas USA,Portland Timbers,1,1,0,0
+606,15/09/2013,San Jose Earthquakes,Vancouver Whitecaps,0,0,0,0
+607,21/09/2013,Portland Timbers,Colorado Rapids,1,0,1,1
+608,21/09/2013,Montreal Impact,Vancouver Whitecaps,0,3,-3,-1
+609,21/09/2013,Toronto FC,Sporting Kansas City,1,2,-1,-1
+610,22/09/2013,Columbus Crew,Chicago Fire,3,0,3,1
+611,22/09/2013,New England Revolution,DC United,2,1,1,1
+612,22/09/2013,Houston Dynamo,Chivas USA,5,1,4,1
+613,22/09/2013,Real Salt Lake,San Jose Earthquakes,1,2,-1,-1
+614,22/09/2013,Los Angeles Galaxy,Seattle Sounders,1,1,0,0
+615,22/09/2013,New York Red Bulls,FC Dallas,1,0,1,1
+616,28/09/2013,Sporting Kansas City,Philadelphia Union,0,1,-1,-1
+617,28/09/2013,Toronto FC,DC United,4,1,3,1
+618,29/09/2013,Vancouver Whitecaps,Real Salt Lake,0,1,-1,-1
+619,29/09/2013,New England Revolution,Houston Dynamo,1,1,0,0
+620,29/09/2013,Chicago Fire,Montreal Impact,2,2,0,0
+621,29/09/2013,Portland Timbers,Los Angeles Galaxy,1,0,1,1
+622,30/09/2013,FC Dallas,Columbus Crew,2,4,-2,-1
+623,30/09/2013,Seattle Sounders,New York Red Bulls,1,1,0,0
+624,30/09/2013,Chivas USA,San Jose Earthquakes,0,1,-1,-1
+625,05/10/2013,DC United,Chicago Fire,0,3,-3,-1
+626,05/10/2013,Houston Dynamo,Montreal Impact,1,0,1,1
+627,06/10/2013,New York Red Bulls,New England Revolution,2,2,0,0
+628,06/10/2013,Columbus Crew,Sporting Kansas City,0,1,-1,-1
+629,06/10/2013,Philadelphia Union,Toronto FC,1,0,1,1
+630,06/10/2013,Real Salt Lake,FC Dallas,1,1,0,0
+631,06/10/2013,Colorado Rapids,Seattle Sounders,5,1,4,1
+632,06/10/2013,Los Angeles Galaxy,Chivas USA,5,0,5,1
+633,07/10/2013,Vancouver Whitecaps,Portland Timbers,2,2,0,0
+634,10/10/2013,Houston Dynamo,Sporting Kansas City,0,0,0,0
+635,10/10/2013,Seattle Sounders,Vancouver Whitecaps,1,4,-3,-1
+636,10/10/2013,San Jose Earthquakes,Colorado Rapids,1,0,1,1
+637,12/10/2013,Montreal Impact,New England Revolution,0,1,-1,-1
+638,13/10/2013,DC United,Philadelphia Union,1,1,0,0
+639,13/10/2013,FC Dallas,Chicago Fire,2,3,-1,-1
+640,14/10/2013,Portland Timbers,Seattle Sounders,1,0,1,1
+641,17/10/2013,Los Angeles Galaxy,Montreal Impact,1,0,1,1
+642,19/10/2013,Sporting Kansas City,DC United,1,0,1,1
+643,19/10/2013,Montreal Impact,Philadelphia Union,2,1,1,1
+644,19/10/2013,FC Dallas,Seattle Sounders,2,0,2,1
+645,19/10/2013,Colorado Rapids,Vancouver Whitecaps,3,2,1,1
+646,20/10/2013,New England Revolution,Columbus Crew,3,2,1,1
+647,20/10/2013,Chicago Fire,Toronto FC,1,0,1,1
+648,20/10/2013,Portland Timbers,Real Salt Lake,0,0,0,0
+649,20/10/2013,Houston Dynamo,New York Red Bulls,0,3,-3,-1
+650,21/10/2013,Los Angeles Galaxy,San Jose Earthquakes,0,0,0,0
+651,24/10/2013,Real Salt Lake,Chivas USA,2,1,1,1
+652,26/10/2013,Philadelphia Union,Sporting Kansas City,1,2,-1,-1
+653,26/10/2013,Toronto FC,Montreal Impact,1,0,1,1
+654,26/10/2013,San Jose Earthquakes,FC Dallas,2,1,1,1
+655,27/10/2013,Chivas USA,Portland Timbers,0,5,-5,-1
+656,27/10/2013,DC United,Houston Dynamo,1,2,-1,-1
+657,27/10/2013,Columbus Crew,New England Revolution,0,1,-1,-1
+658,27/10/2013,New York Red Bulls,Chicago Fire,5,2,3,1
+659,28/10/2013,Vancouver Whitecaps,Colorado Rapids,3,0,3,1
+660,28/10/2013,Seattle Sounders,Los Angeles Galaxy,1,1,0,0
+661,31/10/2013,Seattle Sounders,Colorado Rapids,2,0,2,1
+662,01/11/2013,Houston Dynamo,Montreal Impact,3,0,3,1
+663,03/11/2013,New England Revolution,Sporting Kansas City,2,1,1,1
+664,03/11/2013,Seattle Sounders,Portland Timbers,1,2,-1,-1
+665,03/11/2013,Houston Dynamo,New York Red Bulls,2,2,0,0
+666,04/11/2013,Los Angeles Galaxy,Real Salt Lake,1,0,1,1
+667,07/11/2013,New York Red Bulls,Houston Dynamo,1,1,0,0
+668,07/11/2013,Sporting Kansas City,New England Revolution,2,1,1,1
+669,08/11/2013,Real Salt Lake,Los Angeles Galaxy,1,0,1,1
+670,08/11/2013,Portland Timbers,Seattle Sounders,3,2,1,1
+671,09/11/2013,Houston Dynamo,Sporting Kansas City,0,0,0,0
+672,11/11/2013,Real Salt Lake,Portland Timbers,4,2,2,1
+673,24/11/2013,Sporting Kansas City,Houston Dynamo,2,1,1,1
+674,25/11/2013,Portland Timbers,Real Salt Lake,0,1,-1,-1
+675,07/12/2013,Sporting Kansas City,Real Salt Lake,1,1,0,0
+676,08/03/2014,Seattle Sounders,Sporting Kansas City,1,0,1,1
+677,09/03/2014,DC United,Columbus Crew,0,3,-3,-1
+678,09/03/2014,Vancouver Whitecaps,New York Red Bulls,4,1,3,1
+679,09/03/2014,FC Dallas,Montreal Impact,3,2,1,1
+680,09/03/2014,Houston Dynamo,New England Revolution,4,0,4,1
+681,09/03/2014,Los Angeles Galaxy,Real Salt Lake,0,1,-1,-1
+682,09/03/2014,Portland Timbers,Philadelphia Union,1,1,0,0
+683,09/03/2014,Chivas USA,Chicago Fire,3,2,1,1
+684,15/03/2014,New York Red Bulls,Colorado Rapids,1,1,0,0
+685,15/03/2014,Philadelphia Union,New England Revolution,1,0,1,1
+686,15/03/2014,Seattle Sounders,Toronto FC,1,2,-1,-1
+687,16/03/2014,Houston Dynamo,Montreal Impact,1,0,1,1
+688,16/03/2014,Sporting Kansas City,FC Dallas,1,1,0,0
+689,16/03/2014,San Jose Earthquakes,Real Salt Lake,3,3,0,0
+690,16/03/2014,Portland Timbers,Chicago Fire,1,1,0,0
+691,16/03/2014,Chivas USA,Vancouver Whitecaps,1,1,0,0
+692,22/03/2014,New England Revolution,Vancouver Whitecaps,0,0,0,0
+693,22/03/2014,Real Salt Lake,Los Angeles Galaxy,1,1,0,0
+694,22/03/2014,Toronto FC,DC United,1,0,1,1
+695,22/03/2014,Colorado Rapids,Portland Timbers,2,0,2,1
+696,22/03/2014,Columbus Crew,Philadelphia Union,2,1,1,1
+697,23/03/2014,FC Dallas,Chivas USA,3,1,2,1
+698,23/03/2014,Sporting Kansas City,San Jose Earthquakes,1,0,1,1
+699,23/03/2014,Chicago Fire,New York Red Bulls,1,1,0,0
+700,23/03/2014,Montreal Impact,Seattle Sounders,0,2,-2,-1
+701,29/03/2014,DC United,Chicago Fire,2,2,0,0
+702,29/03/2014,Philadelphia Union,Montreal Impact,1,1,0,0
+703,29/03/2014,Colorado Rapids,Sporting Kansas City,2,3,-1,-1
+704,29/03/2014,Vancouver Whitecaps,Houston Dynamo,2,1,1,1
+705,30/03/2014,FC Dallas,Portland Timbers,2,1,1,1
+706,30/03/2014,Real Salt Lake,Toronto FC,3,0,3,1
+707,30/03/2014,Seattle Sounders,Columbus Crew,1,2,-1,-1
+708,30/03/2014,San Jose Earthquakes,New England Revolution,1,2,-1,-1
+709,30/03/2014,New York Red Bulls,Chivas USA,1,1,0,0
+710,05/04/2014,Portland Timbers,Seattle Sounders,4,4,0,0
+711,05/04/2014,Montreal Impact,New York Red Bulls,2,2,0,0
+712,05/04/2014,Chicago Fire,Philadelphia Union,2,2,0,0
+713,05/04/2014,Columbus Crew,Toronto FC,0,2,-2,-1
+714,05/04/2014,Vancouver Whitecaps,Colorado Rapids,1,2,-1,-1
+715,06/04/2014,DC United,New England Revolution,2,0,2,1
+716,06/04/2014,Houston Dynamo,FC Dallas,1,4,-3,-1
+717,06/04/2014,Sporting Kansas City,Real Salt Lake,0,0,0,0
+718,06/04/2014,Chivas USA,Los Angeles Galaxy,0,3,-3,-1
+719,12/04/2014,Montreal Impact,Chicago Fire,1,1,0,0
+720,12/04/2014,Philadelphia Union,Real Salt Lake,2,2,0,0
+721,12/04/2014,Toronto FC,Colorado Rapids,0,1,-1,-1
+722,12/04/2014,New England Revolution,Houston Dynamo,2,0,2,1
+723,13/04/2014,DC United,New York Red Bulls,1,0,1,1
+724,13/04/2014,FC Dallas,Seattle Sounders,2,3,-1,-1
+725,13/04/2014,Los Angeles Galaxy,Vancouver Whitecaps,1,0,1,1
+726,13/04/2014,Portland Timbers,Chivas USA,1,1,0,0
+727,13/04/2014,San Jose Earthquakes,Columbus Crew,1,1,0,0
+728,17/04/2014,New York Red Bulls,Philadelphia Union,2,1,1,1
+729,19/04/2014,Chicago Fire,New England Revolution,1,1,0,0
+730,19/04/2014,Philadelphia Union,Houston Dynamo,0,0,0,0
+731,19/04/2014,Colorado Rapids,San Jose Earthquakes,0,0,0,0
+732,20/04/2014,Vancouver Whitecaps,Los Angeles Galaxy,2,2,0,0
+733,20/04/2014,Columbus Crew,DC United,1,1,0,0
+734,20/04/2014,FC Dallas,Toronto FC,2,1,1,1
+735,20/04/2014,Sporting Kansas City,Montreal Impact,4,0,4,1
+736,20/04/2014,Real Salt Lake,Portland Timbers,1,0,1,1
+737,20/04/2014,Chivas USA,Seattle Sounders,1,2,-1,-1
+738,24/04/2014,New York Red Bulls,Houston Dynamo,4,0,4,1
+739,26/04/2014,Montreal Impact,Philadelphia Union,1,0,1,1
+740,26/04/2014,Seattle Sounders,Colorado Rapids,4,1,3,1
+741,27/04/2014,DC United,FC Dallas,4,1,3,1
+742,27/04/2014,Columbus Crew,New York Red Bulls,1,1,0,0
+743,27/04/2014,New England Revolution,Sporting Kansas City,2,0,2,1
+744,27/04/2014,Real Salt Lake,Vancouver Whitecaps,2,2,0,0
+745,27/04/2014,San Jose Earthquakes,Chivas USA,1,0,1,1
+746,27/04/2014,Houston Dynamo,Portland Timbers,1,1,0,0
+747,03/05/2014,Toronto FC,New England Revolution,1,2,-1,-1
+748,04/05/2014,Vancouver Whitecaps,San Jose Earthquakes,3,2,1,1
+749,04/05/2014,Chicago Fire,Real Salt Lake,2,3,-1,-1
+750,04/05/2014,Colorado Rapids,Los Angeles Galaxy,1,0,1,1
+751,04/05/2014,Seattle Sounders,Philadelphia Union,2,1,1,1
+752,04/05/2014,Chivas USA,Houston Dynamo,1,4,-3,-1
+753,04/05/2014,Portland Timbers,DC United,3,2,1,1
+754,04/05/2014,FC Dallas,New York Red Bulls,0,1,-1,-1
+755,04/05/2014,Sporting Kansas City,Columbus Crew,2,0,2,1
+756,08/05/2014,Houston Dynamo,Columbus Crew,1,0,1,1
+757,08/05/2014,Seattle Sounders,FC Dallas,2,1,1,1
+758,08/05/2014,San Jose Earthquakes,Colorado Rapids,0,0,0,0
+759,10/05/2014,Montreal Impact,Sporting Kansas City,0,3,-3,-1
+760,10/05/2014,Philadelphia Union,DC United,0,1,-1,-1
+761,11/05/2014,New York Red Bulls,Chicago Fire,4,5,-1,-1
+762,11/05/2014,Columbus Crew,Vancouver Whitecaps,0,1,-1,-1
+763,11/05/2014,San Jose Earthquakes,FC Dallas,2,1,1,1
+764,11/05/2014,Portland Timbers,Los Angeles Galaxy,1,1,0,0
+765,11/05/2014,Colorado Rapids,Chivas USA,1,3,-2,-1
+766,11/05/2014,New England Revolution,Seattle Sounders,5,0,5,1
+767,12/05/2014,Houston Dynamo,Real Salt Lake,2,5,-3,-1
+768,15/05/2014,Sporting Kansas City,Philadelphia Union,1,2,-1,-1
+769,17/05/2014,Toronto FC,New York Red Bulls,2,0,2,1
+770,18/05/2014,DC United,Montreal Impact,1,1,0,0
+771,18/05/2014,Philadelphia Union,New England Revolution,3,5,-2,-1
+772,18/05/2014,FC Dallas,Chivas USA,1,1,0,0
+773,18/05/2014,Houston Dynamo,Los Angeles Galaxy,1,0,1,1
+774,18/05/2014,Real Salt Lake,Colorado Rapids,2,1,1,1
+775,18/05/2014,Seattle Sounders,San Jose Earthquakes,1,0,1,1
+776,18/05/2014,Portland Timbers,Columbus Crew,3,3,0,0
+777,18/05/2014,Chicago Fire,Sporting Kansas City,2,1,1,1
+778,22/05/2014,DC United,Houston Dynamo,2,0,2,1
+779,22/05/2014,Los Angeles Galaxy,FC Dallas,2,1,1,1
+780,24/05/2014,Sporting Kansas City,Toronto FC,2,2,0,0
+781,25/05/2014,New York Red Bulls,Portland Timbers,1,2,-1,-1
+782,25/05/2014,Vancouver Whitecaps,Seattle Sounders,2,2,0,0
+783,25/05/2014,Columbus Crew,Chicago Fire,2,0,2,1
+784,25/05/2014,New England Revolution,DC United,2,1,1,1
+785,25/05/2014,Colorado Rapids,Montreal Impact,4,1,3,1
+786,25/05/2014,Real Salt Lake,FC Dallas,0,0,0,0
+787,26/05/2014,Los Angeles Galaxy,Philadelphia Union,4,1,3,1
+788,26/05/2014,San Jose Earthquakes,Houston Dynamo,3,0,3,1
+789,28/05/2014,Sporting Kansas City,New York Red Bulls,1,1,0,0
+790,29/05/2014,Chivas USA,Portland Timbers,0,2,-2,-1
+791,31/05/2014,Seattle Sounders,Real Salt Lake,4,0,4,1
+792,31/05/2014,Toronto FC,Columbus Crew,3,2,1,1
+793,01/06/2014,DC United,Sporting Kansas City,1,0,1,1
+794,01/06/2014,Montreal Impact,New England Revolution,2,0,2,1
+795,01/06/2014,FC Dallas,San Jose Earthquakes,1,2,-1,-1
+796,01/06/2014,Chivas USA,Philadelphia Union,0,3,-3,-1
+797,01/06/2014,Chicago Fire,Los Angeles Galaxy,1,1,0,0
+798,02/06/2014,Colorado Rapids,Houston Dynamo,3,0,3,1
+799,02/06/2014,Portland Timbers,Vancouver Whitecaps,3,4,-1,-1
+800,05/06/2014,Columbus Crew,Real Salt Lake,1,1,0,0
+801,05/06/2014,Colorado Rapids,Chicago Fire,0,0,0,0
+802,07/06/2014,Houston Dynamo,Sporting Kansas City,0,2,-2,-1
+803,07/06/2014,Toronto FC,San Jose Earthquakes,1,0,1,1
+804,07/06/2014,DC United,Columbus Crew,0,0,0,0
+805,08/06/2014,Philadelphia Union,Vancouver Whitecaps,3,3,0,0
+806,08/06/2014,Chicago Fire,Seattle Sounders,2,3,-1,-1
+807,08/06/2014,FC Dallas,Colorado Rapids,3,2,1,1
+808,08/06/2014,Real Salt Lake,Portland Timbers,1,3,-2,-1
+809,08/06/2014,New England Revolution,New York Red Bulls,0,2,-2,-1
+810,09/06/2014,Los Angeles Galaxy,Chivas USA,1,1,0,0
+811,12/06/2014,Montreal Impact,DC United,2,4,-2,-1
+812,12/06/2014,Portland Timbers,FC Dallas,2,2,0,0
+813,26/06/2014,Vancouver Whitecaps,Montreal Impact,0,0,0,0
+814,28/06/2014,New York Red Bulls,Toronto FC,2,2,0,0
+815,28/06/2014,Portland Timbers,Sporting Kansas City,0,1,-1,-1
+816,29/06/2014,DC United,Seattle Sounders,0,1,-1,-1
+817,29/06/2014,New England Revolution,Philadelphia Union,1,3,-2,-1
+818,29/06/2014,Colorado Rapids,Vancouver Whitecaps,2,0,2,1
+819,29/06/2014,Chivas USA,Real Salt Lake,1,0,1,1
+820,29/06/2014,San Jose Earthquakes,Los Angeles Galaxy,0,1,-1,-1
+821,29/06/2014,Columbus Crew,FC Dallas,0,0,0,0
+822,30/06/2014,Montreal Impact,Houston Dynamo,3,0,3,1
+823,03/07/2014,Chicago Fire,Toronto FC,1,1,0,0
+824,03/07/2014,San Jose Earthquakes,Chivas USA,0,1,-1,-1
+825,05/07/2014,Houston Dynamo,New York Red Bulls,2,2,0,0
+826,05/07/2014,FC Dallas,Philadelphia Union,2,1,1,1
+827,05/07/2014,Colorado Rapids,Columbus Crew,1,1,0,0
+828,05/07/2014,Real Salt Lake,New England Revolution,2,1,1,1
+829,05/07/2014,Los Angeles Galaxy,Portland Timbers,2,2,0,0
+830,06/07/2014,Toronto FC,DC United,1,2,-1,-1
+831,06/07/2014,Vancouver Whitecaps,Seattle Sounders,1,0,1,1
+832,06/07/2014,Chivas USA,Montreal Impact,1,0,1,1
+833,06/07/2014,Sporting Kansas City,Chicago Fire,1,1,0,0
+834,12/07/2014,San Jose Earthquakes,DC United,1,2,-1,-1
+835,13/07/2014,New York Red Bulls,Columbus Crew,4,1,3,1
+836,13/07/2014,Philadelphia Union,Colorado Rapids,3,3,0,0
+837,13/07/2014,Toronto FC,Houston Dynamo,4,2,2,1
+838,13/07/2014,Montreal Impact,Sporting Kansas City,1,2,-1,-1
+839,13/07/2014,New England Revolution,Chicago Fire,0,1,-1,-1
+840,13/07/2014,Vancouver Whitecaps,Chivas USA,1,3,-2,-1
+841,13/07/2014,Los Angeles Galaxy,Real Salt Lake,1,0,1,1
+842,14/07/2014,Seattle Sounders,Portland Timbers,2,0,2,1
+843,17/07/2014,Philadelphia Union,New York Red Bulls,3,1,2,1
+844,17/07/2014,Columbus Crew,Sporting Kansas City,1,2,-1,-1
+845,17/07/2014,Toronto FC,Vancouver Whitecaps,1,1,0,0
+846,17/07/2014,Los Angeles Galaxy,New England Revolution,5,1,4,1
+847,19/07/2014,Portland Timbers,Colorado Rapids,2,1,1,1
+848,19/07/2014,Sporting Kansas City,Los Angeles Galaxy,2,1,1,1
+849,20/07/2014,New York Red Bulls,San Jose Earthquakes,1,1,0,0
+850,20/07/2014,Columbus Crew,Montreal Impact,2,1,1,1
+851,20/07/2014,Chicago Fire,Philadelphia Union,1,1,0,0
+852,20/07/2014,FC Dallas,New England Revolution,2,0,2,1
+853,20/07/2014,Houston Dynamo,Toronto FC,2,2,0,0
+854,20/07/2014,Real Salt Lake,Vancouver Whitecaps,1,1,0,0
+855,21/07/2014,DC United,Chivas USA,3,1,2,1
+856,24/07/2014,San Jose Earthquakes,Chicago Fire,5,1,4,1
+857,25/07/2014,Real Salt Lake,Montreal Impact,3,1,2,1
+858,26/07/2014,Colorado Rapids,Chivas USA,3,0,3,1
+859,27/07/2014,Toronto FC,Sporting Kansas City,1,2,-1,-1
+860,27/07/2014,New England Revolution,Columbus Crew,1,2,-1,-1
+861,27/07/2014,Vancouver Whitecaps,FC Dallas,2,2,0,0
+862,28/07/2014,Montreal Impact,Portland Timbers,2,3,-1,-1
+863,29/07/2014,Seattle Sounders,Los Angeles Galaxy,0,3,-3,-1
+864,31/07/2014,DC United,Toronto FC,3,0,3,1
+865,31/07/2014,New England Revolution,Colorado Rapids,3,0,3,1
+866,31/07/2014,Chicago Fire,Vancouver Whitecaps,0,0,0,0
+867,31/07/2014,Real Salt Lake,New York Red Bulls,1,1,0,0
+868,02/08/2014,Sporting Kansas City,Philadelphia Union,1,1,0,0
+869,02/08/2014,Los Angeles Galaxy,Portland Timbers,3,1,2,1
+870,02/08/2014,Montreal Impact,Toronto FC,0,2,-2,-1
+871,03/08/2014,New York Red Bulls,New England Revolution,2,1,1,1
+872,03/08/2014,Chicago Fire,Columbus Crew,1,1,0,0
+873,03/08/2014,Colorado Rapids,Real Salt Lake,0,1,-1,-1
+874,03/08/2014,San Jose Earthquakes,Seattle Sounders,1,0,1,1
+875,04/08/2014,Houston Dynamo,DC United,1,0,1,1
+876,04/08/2014,Chivas USA,FC Dallas,0,1,-1,-1
+877,09/08/2014,Los Angeles Galaxy,San Jose Earthquakes,2,2,0,0
+878,10/08/2014,Philadelphia Union,Montreal Impact,2,1,1,1
+879,10/08/2014,Columbus Crew,Toronto FC,2,3,-1,-1
+880,10/08/2014,FC Dallas,Colorado Rapids,3,1,2,1
+881,10/08/2014,Real Salt Lake,DC United,3,0,3,1
+882,10/08/2014,Portland Timbers,Chivas USA,2,0,2,1
+883,11/08/2014,Chicago Fire,New York Red Bulls,1,0,1,1
+884,11/08/2014,Vancouver Whitecaps,Sporting Kansas City,2,0,2,1
+885,11/08/2014,Seattle Sounders,Houston Dynamo,2,0,2,1
+886,16/08/2014,Houston Dynamo,Philadelphia Union,2,0,2,1
+887,16/08/2014,Real Salt Lake,Seattle Sounders,2,1,1,1
+888,16/08/2014,Montreal Impact,Chicago Fire,1,0,1,1
+889,17/08/2014,Columbus Crew,Los Angeles Galaxy,4,1,3,1
+890,17/08/2014,New England Revolution,Portland Timbers,1,1,0,0
+891,17/08/2014,Sporting Kansas City,Toronto FC,4,1,3,1
+892,17/08/2014,Chivas USA,Vancouver Whitecaps,0,0,0,0
+893,17/08/2014,San Jose Earthquakes,FC Dallas,0,5,-5,-1
+894,18/08/2014,DC United,Colorado Rapids,4,2,2,1
+895,21/08/2014,Colorado Rapids,Los Angeles Galaxy,3,4,-1,-1
+896,21/08/2014,Seattle Sounders,San Jose Earthquakes,1,1,0,0
+897,23/08/2014,FC Dallas,Real Salt Lake,2,1,1,1
+898,24/08/2014,New York Red Bulls,Montreal Impact,4,2,2,1
+899,24/08/2014,Toronto FC,Chicago Fire,2,2,0,0
+900,24/08/2014,Columbus Crew,Houston Dynamo,3,0,3,1
+901,24/08/2014,New England Revolution,Chivas USA,1,0,1,1
+902,24/08/2014,Sporting Kansas City,DC United,0,3,-3,-1
+903,24/08/2014,Los Angeles Galaxy,Vancouver Whitecaps,2,0,2,1
+904,24/08/2014,Portland Timbers,Seattle Sounders,2,4,-2,-1
+905,25/08/2014,Philadelphia Union,San Jose Earthquakes,4,2,2,1
+906,28/08/2014,Los Angeles Galaxy,DC United,4,1,3,1
+907,30/08/2014,Sporting Kansas City,Houston Dynamo,1,3,-2,-1
+908,30/08/2014,Seattle Sounders,Colorado Rapids,1,0,1,1
+909,30/08/2014,Toronto FC,New England Revolution,0,3,-3,-1
+910,31/08/2014,Montreal Impact,Columbus Crew,2,0,2,1
+911,31/08/2014,Chicago Fire,FC Dallas,1,0,1,1
+912,31/08/2014,San Jose Earthquakes,Real Salt Lake,1,1,0,0
+913,31/08/2014,Vancouver Whitecaps,Portland Timbers,0,3,-3,-1
+914,31/08/2014,DC United,New York Red Bulls,2,0,2,1
+915,01/09/2014,Chivas USA,Los Angeles Galaxy,0,3,-3,-1
+916,04/09/2014,Philadelphia Union,Toronto FC,1,0,1,1
+917,04/09/2014,New England Revolution,Sporting Kansas City,3,1,2,1
+918,04/09/2014,Chivas USA,Seattle Sounders,2,4,-2,-1
+919,06/09/2014,Los Angeles Galaxy,Colorado Rapids,6,0,6,1
+920,06/09/2014,Toronto FC,Philadelphia Union,0,2,-2,-1
+921,07/09/2014,New York Red Bulls,Sporting Kansas City,2,1,1,1
+922,07/09/2014,Houston Dynamo,Montreal Impact,3,2,1,1
+923,07/09/2014,Real Salt Lake,FC Dallas,2,1,1,1
+924,07/09/2014,Vancouver Whitecaps,DC United,0,0,0,0
+925,07/09/2014,Columbus Crew,Chivas USA,3,0,3,1
+926,07/09/2014,Portland Timbers,San Jose Earthquakes,3,3,0,0
+927,08/09/2014,New England Revolution,Chicago Fire,2,1,1,1
+928,11/09/2014,Montreal Impact,Los Angeles Galaxy,2,2,0,0
+929,11/09/2014,New York Red Bulls,DC United,1,0,1,1
+930,11/09/2014,Vancouver Whitecaps,San Jose Earthquakes,2,0,2,1
+931,13/09/2014,Chivas USA,Sporting Kansas City,0,4,-4,-1
+932,13/09/2014,Seattle Sounders,Real Salt Lake,3,2,1,1
+933,13/09/2014,Philadelphia Union,New York Red Bulls,2,2,0,0
+934,14/09/2014,New England Revolution,Montreal Impact,2,1,1,1
+935,14/09/2014,Chicago Fire,Toronto FC,1,1,0,0
+936,14/09/2014,FC Dallas,Vancouver Whitecaps,2,1,1,1
+937,14/09/2014,Houston Dynamo,Columbus Crew,2,2,0,0
+938,14/09/2014,Colorado Rapids,Portland Timbers,2,2,0,0
+939,14/09/2014,San Jose Earthquakes,Los Angeles Galaxy,1,1,0,0
+940,20/09/2014,Real Salt Lake,Colorado Rapids,5,1,4,1
+941,20/09/2014,Portland Timbers,Vancouver Whitecaps,3,0,3,1
+942,21/09/2014,Philadelphia Union,Houston Dynamo,0,0,0,0
+943,21/09/2014,Columbus Crew,New England Revolution,1,0,1,1
+944,21/09/2014,Montreal Impact,San Jose Earthquakes,2,0,2,1
+945,21/09/2014,New York Red Bulls,Seattle Sounders,4,1,3,1
+946,21/09/2014,Chicago Fire,DC United,3,3,0,0
+947,21/09/2014,Los Angeles Galaxy,FC Dallas,2,1,1,1
+948,21/09/2014,Toronto FC,Chivas USA,3,0,3,1
+949,25/09/2014,FC Dallas,Seattle Sounders,3,1,2,1
+950,27/09/2014,Sporting Kansas City,New England Revolution,2,3,-1,-1
+951,27/09/2014,Toronto FC,Portland Timbers,3,2,1,1
+952,27/09/2014,DC United,Philadelphia Union,1,0,1,1
+953,27/09/2014,Seattle Sounders,Chivas USA,4,2,2,1
+954,28/09/2014,Vancouver Whitecaps,Real Salt Lake,2,1,1,1
+955,28/09/2014,Columbus Crew,Montreal Impact,2,0,2,1
+956,28/09/2014,Colorado Rapids,San Jose Earthquakes,1,1,0,0
+957,28/09/2014,Houston Dynamo,Chicago Fire,2,0,2,1
+958,29/09/2014,Los Angeles Galaxy,New York Red Bulls,4,0,4,1
+959,03/10/2014,Philadelphia Union,Chicago Fire,1,1,0,0
+960,04/10/2014,DC United,Sporting Kansas City,0,0,0,0
+961,04/10/2014,New York Red Bulls,Houston Dynamo,1,0,1,1
+962,05/10/2014,Vancouver Whitecaps,FC Dallas,2,0,2,1
+963,05/10/2014,New England Revolution,Columbus Crew,2,1,1,1
+964,05/10/2014,Los Angeles Galaxy,Toronto FC,3,0,3,1
+965,05/10/2014,San Jose Earthquakes,Portland Timbers,1,2,-1,-1
+966,05/10/2014,Colorado Rapids,Seattle Sounders,1,4,-3,-1
+967,05/10/2014,Chicago Fire,Montreal Impact,0,0,0,0
+968,06/10/2014,Chivas USA,Real Salt Lake,1,0,1,1
+969,09/10/2014,Toronto FC,Houston Dynamo,0,1,-1,-1
+970,09/10/2014,Portland Timbers,San Jose Earthquakes,3,0,3,1
+971,11/10/2014,Sporting Kansas City,Chicago Fire,2,0,2,1
+972,11/10/2014,Seattle Sounders,Vancouver Whitecaps,0,1,-1,-1
+973,11/10/2014,Montreal Impact,New England Revolution,2,2,0,0
+974,12/10/2014,New York Red Bulls,Toronto FC,3,1,2,1
+975,12/10/2014,Philadelphia Union,Columbus Crew,2,3,-1,-1
+976,12/10/2014,Real Salt Lake,San Jose Earthquakes,2,0,2,1
+977,12/10/2014,Chivas USA,Colorado Rapids,2,1,1,1
+978,12/10/2014,Houston Dynamo,DC United,1,3,-2,-1
+979,13/10/2014,FC Dallas,Los Angeles Galaxy,2,1,1,1
+980,17/10/2014,Houston Dynamo,New England Revolution,1,2,-1,-1
+981,18/10/2014,Portland Timbers,Real Salt Lake,0,0,0,0
+982,18/10/2014,Toronto FC,Montreal Impact,1,1,0,0
+983,18/10/2014,Colorado Rapids,FC Dallas,0,1,-1,-1
+984,19/10/2014,DC United,Chicago Fire,2,1,1,1
+985,19/10/2014,Philadelphia Union,Sporting Kansas City,2,1,1,1
+986,19/10/2014,San Jose Earthquakes,Vancouver Whitecaps,0,0,0,0
+987,19/10/2014,New York Red Bulls,Columbus Crew,1,3,-2,-1
+988,20/10/2014,Los Angeles Galaxy,Seattle Sounders,2,2,0,0
+989,23/10/2014,Real Salt Lake,Chivas USA,2,0,2,1
+990,25/10/2014,Chicago Fire,Houston Dynamo,2,1,1,1
+991,25/10/2014,Seattle Sounders,Los Angeles Galaxy,2,0,2,1
+992,25/10/2014,Montreal Impact,DC United,1,1,0,0
+993,26/10/2014,FC Dallas,Portland Timbers,0,2,-2,-1
+994,26/10/2014,New England Revolution,Toronto FC,1,0,1,1
+995,26/10/2014,Vancouver Whitecaps,Colorado Rapids,1,0,1,1
+996,26/10/2014,Columbus Crew,Philadelphia Union,2,1,1,1
+997,26/10/2014,Chivas USA,San Jose Earthquakes,1,0,1,1
+998,27/10/2014,Sporting Kansas City,New York Red Bulls,0,2,-2,-1
+999,30/10/2014,FC Dallas,Vancouver Whitecaps,2,1,1,1
+1000,31/10/2014,New York Red Bulls,Sporting Kansas City,2,1,1,1
+1001,01/11/2014,Columbus Crew,New England Revolution,2,4,-2,-1
+1002,02/11/2014,Real Salt Lake,Los Angeles Galaxy,0,0,0,0
+1003,02/11/2014,New York Red Bulls,DC United,2,0,2,1
+1004,03/11/2014,FC Dallas,Seattle Sounders,1,1,0,0
+1005,08/11/2014,DC United,New York Red Bulls,2,1,1,1
+1006,09/11/2014,New England Revolution,Columbus Crew,3,1,2,1
+1007,10/11/2014,Los Angeles Galaxy,Real Salt Lake,5,0,5,1
+1008,11/11/2014,Seattle Sounders,FC Dallas,0,0,0,0
+1009,23/11/2014,New York Red Bulls,New England Revolution,1,2,-1,-1
+1010,23/11/2014,Los Angeles Galaxy,Seattle Sounders,1,0,1,1
+1011,29/11/2014,New England Revolution,New York Red Bulls,2,2,0,0
+1012,01/12/2014,Seattle Sounders,Los Angeles Galaxy,2,1,1,1
+1013,07/12/2014,Los Angeles Galaxy,New England Revolution,1,1,0,0
+1014,07/03/2015,Los Angeles Galaxy,Chicago Fire,2,0,2,1
+1015,07/03/2015,DC United,Montreal Impact,1,0,1,1
+1016,07/03/2015,Philadelphia Union,Colorado Rapids,0,0,0,0
+1017,07/03/2015,Vancouver Whitecaps,Toronto FC,1,3,-2,-1
+1018,08/03/2015,FC Dallas,San Jose Earthquakes,1,0,1,1
+1019,08/03/2015,Houston Dynamo,Columbus Crew,1,0,1,1
+1020,08/03/2015,Portland Timbers,Real Salt Lake,0,0,0,0
+1021,08/03/2015,Orlando City,New York City,1,1,0,0
+1022,08/03/2015,Sporting Kansas City,New York Red Bulls,1,1,0,0
+1023,09/03/2015,Seattle Sounders,New England Revolution,3,0,3,1
+1024,13/03/2015,Houston Dynamo,Orlando City,0,1,-1,-1
+1025,14/03/2015,Chicago Fire,Vancouver Whitecaps,0,1,-1,-1
+1026,14/03/2015,Columbus Crew,Toronto FC,2,0,2,1
+1027,15/03/2015,FC Dallas,Sporting Kansas City,3,1,2,1
+1028,15/03/2015,Real Salt Lake,Philadelphia Union,3,3,0,0
+1029,15/03/2015,Seattle Sounders,San Jose Earthquakes,2,3,-1,-1
+1030,15/03/2015,New York City,New England Revolution,2,0,2,1
+1031,15/03/2015,Portland Timbers,Los Angeles Galaxy,2,2,0,0
+1032,21/03/2015,New England Revolution,Montreal Impact,0,0,0,0
+1033,21/03/2015,Colorado Rapids,New York City,0,0,0,0
+1034,21/03/2015,Philadelphia Union,FC Dallas,0,2,-2,-1
+1035,21/03/2015,Orlando City,Vancouver Whitecaps,0,1,-1,-1
+1036,22/03/2015,Sporting Kansas City,Portland Timbers,0,0,0,0
+1037,22/03/2015,Los Angeles Galaxy,Houston Dynamo,1,1,0,0
+1038,22/03/2015,New York Red Bulls,DC United,2,0,2,1
+1039,22/03/2015,San Jose Earthquakes,Chicago Fire,2,1,1,1
+1040,28/03/2015,New England Revolution,San Jose Earthquakes,2,1,1,1
+1041,28/03/2015,Montreal Impact,Orlando City,2,2,0,0
+1042,28/03/2015,DC United,Los Angeles Galaxy,1,0,1,1
+1043,28/03/2015,New York City,Sporting Kansas City,0,1,-1,-1
+1044,28/03/2015,Columbus Crew,New York Red Bulls,1,2,-1,-1
+1045,29/03/2015,Vancouver Whitecaps,Portland Timbers,2,1,1,1
+1046,29/03/2015,FC Dallas,Seattle Sounders,0,0,0,0
+1047,29/03/2015,Houston Dynamo,Colorado Rapids,0,0,0,0
+1048,29/03/2015,Chicago Fire,Philadelphia Union,1,0,1,1
+1049,30/03/2015,Real Salt Lake,Toronto FC,2,1,1,1
+1050,04/04/2015,Orlando City,DC United,0,1,-1,-1
+1051,04/04/2015,Chicago Fire,Toronto FC,3,2,1,1
+1052,05/04/2015,Colorado Rapids,New England Revolution,0,2,-2,-1
+1053,05/04/2015,Seattle Sounders,Houston Dynamo,1,0,1,1
+1054,05/04/2015,Vancouver Whitecaps,Los Angeles Galaxy,2,0,2,1
+1055,05/04/2015,Portland Timbers,FC Dallas,3,1,2,1
+1056,05/04/2015,San Jose Earthquakes,Real Salt Lake,0,1,-1,-1
+1057,06/04/2015,Sporting Kansas City,Philadelphia Union,3,2,1,1
+1058,09/04/2015,Vancouver Whitecaps,Columbus Crew,2,2,0,0
+1059,11/04/2015,FC Dallas,Colorado Rapids,0,4,-4,-1
+1060,11/04/2015,New England Revolution,Columbus Crew,0,0,0,0
+1061,11/04/2015,Philadelphia Union,New York City,2,1,1,1
+1062,12/04/2015,DC United,New York Red Bulls,2,2,0,0
+1063,12/04/2015,Houston Dynamo,Montreal Impact,3,0,3,1
+1064,12/04/2015,Sporting Kansas City,Real Salt Lake,0,0,0,0
+1065,12/04/2015,San Jose Earthquakes,Vancouver Whitecaps,1,0,1,1
+1066,12/04/2015,Portland Timbers,Orlando City,0,2,-2,-1
+1067,13/04/2015,Los Angeles Galaxy,Seattle Sounders,1,0,1,1
+1068,17/04/2015,New York City,Philadelphia Union,1,1,0,0
+1069,18/04/2015,New York Red Bulls,San Jose Earthquakes,2,0,2,1
+1070,19/04/2015,DC United,Houston Dynamo,1,1,0,0
+1071,19/04/2015,Columbus Crew,Orlando City,3,0,3,1
+1072,19/04/2015,FC Dallas,Toronto FC,3,2,1,1
+1073,19/04/2015,Colorado Rapids,Seattle Sounders,1,3,-2,-1
+1074,19/04/2015,Real Salt Lake,Vancouver Whitecaps,0,1,-1,-1
+1075,19/04/2015,Los Angeles Galaxy,Sporting Kansas City,2,1,1,1
+1076,19/04/2015,Philadelphia Union,New England Revolution,1,2,-1,-1
+1077,20/04/2015,New York City,Portland Timbers,0,1,-1,-1
+1078,25/04/2015,Chicago Fire,New York City,1,0,1,1
+1079,25/04/2015,Colorado Rapids,FC Dallas,1,1,0,0
+1080,26/04/2015,Columbus Crew,Philadelphia Union,4,1,3,1
+1081,26/04/2015,New England Revolution,Real Salt Lake,4,0,4,1
+1082,26/04/2015,Houston Dynamo,Sporting Kansas City,4,4,0,0
+1083,26/04/2015,Vancouver Whitecaps,DC United,1,2,-1,-1
+1084,26/04/2015,New York Red Bulls,Los Angeles Galaxy,1,1,0,0
+1085,27/04/2015,Orlando City,Toronto FC,0,2,-2,-1
+1086,27/04/2015,Seattle Sounders,Portland Timbers,1,0,1,1
+1087,30/04/2015,New York Red Bulls,Colorado Rapids,1,1,0,0
+1088,02/05/2015,Houston Dynamo,FC Dallas,1,4,-3,-1
+1089,02/05/2015,Real Salt Lake,San Jose Earthquakes,1,1,0,0
+1090,02/05/2015,Philadelphia Union,Toronto FC,0,1,-1,-1
+1091,03/05/2015,DC United,Columbus Crew,2,0,2,1
+1092,03/05/2015,New England Revolution,New York Red Bulls,2,1,1,1
+1093,03/05/2015,Los Angeles Galaxy,Colorado Rapids,1,1,0,0
+1094,03/05/2015,Portland Timbers,Vancouver Whitecaps,0,0,0,0
+1095,03/05/2015,Sporting Kansas City,Chicago Fire,1,0,1,1
+1096,04/05/2015,New York City,Seattle Sounders,1,3,-2,-1
+1097,06/05/2015,Houston Dynamo,San Jose Earthquakes,0,1,-1,-1
+1098,07/05/2015,Real Salt Lake,Los Angeles Galaxy,0,0,0,0
+1099,09/05/2015,Orlando City,New England Revolution,2,2,0,0
+1100,09/05/2015,Colorado Rapids,San Jose Earthquakes,1,1,0,0
+1101,09/05/2015,Chicago Fire,Real Salt Lake,1,2,-1,-1
+1102,09/05/2015,Montreal Impact,Portland Timbers,1,2,-1,-1
+1103,10/05/2015,DC United,Sporting Kansas City,1,1,0,0
+1104,10/05/2015,Vancouver Whitecaps,Philadelphia Union,3,0,3,1
+1105,10/05/2015,Columbus Crew,Seattle Sounders,3,2,1,1
+1106,10/05/2015,FC Dallas,Los Angeles Galaxy,2,1,1,1
+1107,10/05/2015,Toronto FC,Houston Dynamo,1,2,-1,-1
+1108,11/05/2015,New York Red Bulls,New York City,2,1,1,1
+1109,14/05/2015,DC United,Orlando City,2,1,1,1
+1110,16/05/2015,New York City,Chicago Fire,2,2,0,0
+1111,16/05/2015,FC Dallas,New York Red Bulls,0,0,0,0
+1112,16/05/2015,Montreal Impact,Real Salt Lake,4,1,3,1
+1113,17/05/2015,Vancouver Whitecaps,Seattle Sounders,0,2,-2,-1
+1114,17/05/2015,New England Revolution,Toronto FC,1,1,0,0
+1115,17/05/2015,Houston Dynamo,Portland Timbers,3,1,2,1
+1116,17/05/2015,San Jose Earthquakes,Columbus Crew,2,0,2,1
+1117,17/05/2015,Orlando City,Los Angeles Galaxy,4,0,4,1
+1118,18/05/2015,Philadelphia Union,DC United,1,0,1,1
+1119,21/05/2015,Sporting Kansas City,New England Revolution,4,2,2,1
+1120,23/05/2015,Columbus Crew,Chicago Fire,2,2,0,0
+1121,23/05/2015,Los Angeles Galaxy,Houston Dynamo,1,0,1,1
+1122,23/05/2015,Toronto FC,Portland Timbers,1,0,1,1
+1123,24/05/2015,New England Revolution,DC United,1,1,0,0
+1124,24/05/2015,Montreal Impact,FC Dallas,2,1,1,1
+1125,24/05/2015,Colorado Rapids,Vancouver Whitecaps,1,0,1,1
+1126,24/05/2015,Real Salt Lake,New York City,2,0,2,1
+1127,24/05/2015,Seattle Sounders,Sporting Kansas City,0,0,0,0
+1128,24/05/2015,New York Red Bulls,Philadelphia Union,0,2,-2,-1
+1129,25/05/2015,San Jose Earthquakes,Orlando City,1,1,0,0
+1130,28/05/2015,Seattle Sounders,Colorado Rapids,1,0,1,1
+1131,28/05/2015,Los Angeles Galaxy,Real Salt Lake,1,0,1,1
+1132,28/05/2015,Portland Timbers,DC United,1,0,1,1
+1133,30/05/2015,Sporting Kansas City,FC Dallas,4,0,4,1
+1134,30/05/2015,Toronto FC,San Jose Earthquakes,3,1,2,1
+1135,30/05/2015,Vancouver Whitecaps,Real Salt Lake,2,1,1,1
+1136,31/05/2015,DC United,Philadelphia Union,2,1,1,1
+1137,31/05/2015,New York City,Houston Dynamo,1,1,0,0
+1138,31/05/2015,Orlando City,Columbus Crew,2,2,0,0
+1139,31/05/2015,Chicago Fire,Montreal Impact,3,0,3,1
+1140,31/05/2015,Colorado Rapids,Portland Timbers,1,2,-1,-1
+1141,31/05/2015,Seattle Sounders,New York Red Bulls,2,1,1,1
+1142,01/06/2015,New England Revolution,Los Angeles Galaxy,2,2,0,0
+1143,04/06/2015,DC United,Chicago Fire,3,1,2,1
+1144,04/06/2015,Philadelphia Union,Columbus Crew,3,0,3,1
+1145,04/06/2015,Montreal Impact,Vancouver Whitecaps,2,1,1,1
+1146,06/06/2015,Houston Dynamo,New York Red Bulls,4,2,2,1
+1147,07/06/2015,DC United,Toronto FC,1,2,-1,-1
+1148,07/06/2015,Philadelphia Union,New York City,1,2,-1,-1
+1149,07/06/2015,Columbus Crew,Montreal Impact,1,2,-1,-1
+1150,07/06/2015,Chicago Fire,Orlando City,2,3,-1,-1
+1151,07/06/2015,Sporting Kansas City,Seattle Sounders,1,0,1,1
+1152,07/06/2015,Los Angeles Galaxy,Vancouver Whitecaps,0,1,-1,-1
+1153,07/06/2015,Portland Timbers,New England Revolution,2,0,2,1
+1154,07/06/2015,Real Salt Lake,Colorado Rapids,0,0,0,0
+1155,08/06/2015,San Jose Earthquakes,FC Dallas,0,0,0,0
+1156,14/06/2015,New York City,Montreal Impact,3,1,2,1
+1157,14/06/2015,Columbus Crew,Los Angeles Galaxy,1,1,0,0
+1158,14/06/2015,New England Revolution,Chicago Fire,2,0,2,1
+1159,14/06/2015,Seattle Sounders,FC Dallas,3,0,3,1
+1160,15/06/2015,Orlando City,DC United,1,0,1,1
+1161,20/06/2015,Colorado Rapids,FC Dallas,1,1,0,0
+1162,20/06/2015,Seattle Sounders,San Jose Earthquakes,0,2,-2,-1
+1163,21/06/2015,New York Red Bulls,Vancouver Whitecaps,1,2,-1,-1
+1164,21/06/2015,Toronto FC,New York City,0,2,-2,-1
+1165,21/06/2015,Montreal Impact,Orlando City,2,0,2,1
+1166,21/06/2015,Los Angeles Galaxy,Philadelphia Union,5,1,4,1
+1167,21/06/2015,Portland Timbers,Houston Dynamo,2,0,2,1
+1168,21/06/2015,DC United,New England Revolution,2,1,1,1
+1169,22/06/2015,Real Salt Lake,Sporting Kansas City,2,1,1,1
+1170,25/06/2015,Philadelphia Union,Seattle Sounders,1,0,1,1
+1171,25/06/2015,Columbus Crew,New England Revolution,2,1,1,1
+1172,25/06/2015,New York Red Bulls,Real Salt Lake,1,0,1,1
+1173,25/06/2015,Orlando City,Colorado Rapids,2,0,2,1
+1174,25/06/2015,Toronto FC,Montreal Impact,3,1,2,1
+1175,25/06/2015,Chicago Fire,DC United,0,1,-1,-1
+1176,25/06/2015,Los Angeles Galaxy,Portland Timbers,5,0,5,1
+1177,27/06/2015,FC Dallas,Houston Dynamo,2,0,2,1
+1178,27/06/2015,Toronto FC,DC United,0,0,0,0
+1179,28/06/2015,Philadelphia Union,Montreal Impact,2,2,0,0
+1180,28/06/2015,New England Revolution,Vancouver Whitecaps,1,2,-1,-1
+1181,28/06/2015,Sporting Kansas City,Colorado Rapids,2,0,2,1
+1182,28/06/2015,Real Salt Lake,Columbus Crew,2,2,0,0
+1183,28/06/2015,San Jose Earthquakes,Los Angeles Galaxy,3,1,2,1
+1184,28/06/2015,New York City,New York Red Bulls,1,3,-2,-1
+1185,29/06/2015,Portland Timbers,Seattle Sounders,4,1,3,1
+1186,04/07/2015,Houston Dynamo,Chicago Fire,1,1,0,0
+1187,04/07/2015,Seattle Sounders,DC United,1,0,1,1
+1188,05/07/2015,Columbus Crew,New York Red Bulls,2,1,1,1
+1189,05/07/2015,Montreal Impact,New York City,1,2,-1,-1
+1190,05/07/2015,Colorado Rapids,Vancouver Whitecaps,2,1,1,1
+1191,05/07/2015,FC Dallas,New England Revolution,3,0,3,1
+1192,05/07/2015,Real Salt Lake,Orlando City,1,1,0,0
+1193,05/07/2015,Los Angeles Galaxy,Toronto FC,4,0,4,1
+1194,06/07/2015,Portland Timbers,San Jose Earthquakes,1,0,1,1
+1195,11/07/2015,San Jose Earthquakes,Houston Dynamo,0,2,-2,-1
+1196,12/07/2015,New York Red Bulls,New England Revolution,4,1,3,1
+1197,12/07/2015,Philadelphia Union,Portland Timbers,3,0,3,1
+1198,12/07/2015,Orlando City,FC Dallas,0,2,-2,-1
+1199,12/07/2015,Montreal Impact,Columbus Crew,3,0,3,1
+1200,12/07/2015,Chicago Fire,Seattle Sounders,1,0,1,1
+1201,12/07/2015,Colorado Rapids,Real Salt Lake,3,1,2,1
+1202,12/07/2015,New York City,Toronto FC,4,4,0,0
+1203,13/07/2015,Vancouver Whitecaps,Sporting Kansas City,0,1,-1,-1
+1204,16/07/2015,Chicago Fire,Columbus Crew,0,1,-1,-1
+1205,18/07/2015,Los Angeles Galaxy,San Jose Earthquakes,5,2,3,1
+1206,18/07/2015,Toronto FC,Philadelphia Union,2,1,1,1
+1207,19/07/2015,New England Revolution,New York City,1,0,1,1
+1208,19/07/2015,Orlando City,New York Red Bulls,0,2,-2,-1
+1209,19/07/2015,Sporting Kansas City,Montreal Impact,2,1,1,1
+1210,19/07/2015,FC Dallas,DC United,2,1,1,1
+1211,19/07/2015,Real Salt Lake,Houston Dynamo,2,0,2,1
+1212,19/07/2015,Seattle Sounders,Colorado Rapids,0,1,-1,-1
+1213,19/07/2015,Portland Timbers,Vancouver Whitecaps,1,1,0,0
+1214,19/07/2015,Columbus Crew,Chicago Fire,3,1,2,1
+1215,25/07/2015,Real Salt Lake,Sporting Kansas City,2,1,1,1
+1216,26/07/2015,Columbus Crew,Toronto FC,3,3,0,0
+1217,26/07/2015,Montreal Impact,Seattle Sounders,1,0,1,1
+1218,26/07/2015,Chicago Fire,New England Revolution,2,2,0,0
+1219,26/07/2015,FC Dallas,Portland Timbers,4,1,3,1
+1220,26/07/2015,Houston Dynamo,Los Angeles Galaxy,3,0,3,1
+1221,26/07/2015,New York City,Orlando City,5,3,2,1
+1222,26/07/2015,DC United,Philadelphia Union,3,2,1,1
+1223,27/07/2015,Vancouver Whitecaps,San Jose Earthquakes,3,1,2,1
+1224,01/08/2015,New York City,Montreal Impact,2,3,-1,-1
+1225,02/08/2015,DC United,Real Salt Lake,6,4,2,1
+1226,02/08/2015,Philadelphia Union,New York Red Bulls,1,3,-2,-1
+1227,02/08/2015,New England Revolution,Toronto FC,3,1,2,1
+1228,02/08/2015,Orlando City,Columbus Crew,5,2,3,1
+1229,02/08/2015,Sporting Kansas City,Houston Dynamo,1,1,0,0
+1230,02/08/2015,Colorado Rapids,Los Angeles Galaxy,1,3,-2,-1
+1231,02/08/2015,Seattle Sounders,Vancouver Whitecaps,0,3,-3,-1
+1232,02/08/2015,San Jose Earthquakes,Portland Timbers,0,0,0,0
+1233,03/08/2015,Chicago Fire,FC Dallas,2,0,2,1
+1234,06/08/2015,Montreal Impact,New York Red Bulls,1,1,0,0
+1235,06/08/2015,Toronto FC,Orlando City,4,1,3,1
+1236,08/08/2015,Portland Timbers,Chicago Fire,1,0,1,1
+1237,08/08/2015,Toronto FC,Sporting Kansas City,1,3,-2,-1
+1238,09/08/2015,Orlando City,Philadelphia Union,0,0,0,0
+1239,09/08/2015,Montreal Impact,DC United,0,1,-1,-1
+1240,09/08/2015,Colorado Rapids,Columbus Crew,1,2,-1,-1
+1241,09/08/2015,Houston Dynamo,San Jose Earthquakes,2,1,1,1
+1242,09/08/2015,Vancouver Whitecaps,Real Salt Lake,4,0,4,1
+1243,09/08/2015,Los Angeles Galaxy,Seattle Sounders,3,1,2,1
+1244,10/08/2015,New York Red Bulls,New York City,2,0,2,1
+1245,14/08/2015,New York City,DC United,3,1,2,1
+1246,15/08/2015,San Jose Earthquakes,Colorado Rapids,1,0,1,1
+1247,16/08/2015,New York Red Bulls,Toronto FC,3,0,3,1
+1248,16/08/2015,New England Revolution,Houston Dynamo,2,0,2,1
+1249,16/08/2015,FC Dallas,Los Angeles Galaxy,1,2,-1,-1
+1250,16/08/2015,Sporting Kansas City,Vancouver Whitecaps,4,3,1,1
+1251,16/08/2015,Real Salt Lake,Portland Timbers,0,1,-1,-1
+1252,16/08/2015,Seattle Sounders,Orlando City,4,0,4,1
+1253,17/08/2015,Philadelphia Union,Chicago Fire,3,3,0,0
+1254,20/08/2015,Columbus Crew,New York City,2,2,0,0
+1255,20/08/2015,Sporting Kansas City,San Jose Earthquakes,0,5,-5,-1
+1256,22/08/2015,Portland Timbers,Houston Dynamo,2,2,0,0
+1257,22/08/2015,Toronto FC,Orlando City,5,0,5,1
+1258,23/08/2015,DC United,San Jose Earthquakes,0,2,-2,-1
+1259,23/08/2015,Columbus Crew,Sporting Kansas City,3,2,1,1
+1260,23/08/2015,Montreal Impact,Philadelphia Union,0,1,-1,-1
+1261,23/08/2015,Chicago Fire,Colorado Rapids,0,1,-1,-1
+1262,23/08/2015,Real Salt Lake,Seattle Sounders,2,0,2,1
+1263,23/08/2015,Vancouver Whitecaps,FC Dallas,1,0,1,1
+1264,23/08/2015,Los Angeles Galaxy,New York City,5,1,4,1
+1265,27/08/2015,Chicago Fire,New York Red Bulls,3,2,1,1
+1266,27/08/2015,Colorado Rapids,Houston Dynamo,2,1,1,1
+1267,29/08/2015,San Jose Earthquakes,Los Angeles Galaxy,1,0,1,1
+1268,29/08/2015,New York City,Columbus Crew,1,2,-1,-1
+1269,29/08/2015,Toronto FC,Montreal Impact,2,1,1,1
+1270,30/08/2015,Philadelphia Union,New England Revolution,0,1,-1,-1
+1271,30/08/2015,Orlando City,Chicago Fire,1,1,0,0
+1272,30/08/2015,Colorado Rapids,Sporting Kansas City,2,1,1,1
+1273,30/08/2015,FC Dallas,Real Salt Lake,2,0,2,1
+1274,30/08/2015,Houston Dynamo,Vancouver Whitecaps,2,0,2,1
+1275,30/08/2015,Seattle Sounders,Portland Timbers,2,1,1,1
+1276,31/08/2015,New York Red Bulls,DC United,3,0,3,1
+1277,06/09/2015,New England Revolution,Orlando City,3,0,3,1
+1278,06/09/2015,Montreal Impact,Chicago Fire,4,3,1,1
+1279,06/09/2015,Seattle Sounders,Toronto FC,2,1,1,1
+1280,06/09/2015,San Jose Earthquakes,Philadelphia Union,1,2,-1,-1
+1281,07/09/2015,Columbus Crew,FC Dallas,0,3,-3,-1
+1282,10/09/2015,Vancouver Whitecaps,Colorado Rapids,2,0,2,1
+1283,10/09/2015,Portland Timbers,Sporting Kansas City,0,0,0,0
+1284,12/09/2015,New York Red Bulls,Chicago Fire,3,2,1,1
+1285,13/09/2015,Philadelphia Union,Columbus Crew,1,2,-1,-1
+1286,13/09/2015,FC Dallas,New York City,2,1,1,1
+1287,13/09/2015,Houston Dynamo,Real Salt Lake,1,3,-2,-1
+1288,13/09/2015,Colorado Rapids,DC United,1,1,0,0
+1289,13/09/2015,Los Angeles Galaxy,Montreal Impact,0,0,0,0
+1290,13/09/2015,San Jose Earthquakes,Seattle Sounders,1,1,0,0
+1291,13/09/2015,Toronto FC,New England Revolution,1,3,-2,-1
+1292,14/09/2015,Orlando City,Sporting Kansas City,3,1,2,1
+1293,17/09/2015,New England Revolution,New York Red Bulls,2,1,1,1
+1294,17/09/2015,New York City,Toronto FC,2,0,2,1
+1295,17/09/2015,San Jose Earthquakes,Montreal Impact,1,1,0,0
+1296,19/09/2015,Sporting Kansas City,FC Dallas,3,1,2,1
+1297,19/09/2015,Toronto FC,Colorado Rapids,3,1,2,1
+1298,20/09/2015,DC United,Columbus Crew,1,2,-1,-1
+1299,20/09/2015,New York City,San Jose Earthquakes,3,2,1,1
+1300,20/09/2015,Vancouver Whitecaps,Seattle Sounders,0,3,-3,-1
+1301,20/09/2015,Montreal Impact,New England Revolution,3,0,3,1
+1302,20/09/2015,Chicago Fire,Orlando City,0,1,-1,-1
+1303,20/09/2015,Real Salt Lake,Los Angeles Galaxy,3,0,3,1
+1304,20/09/2015,Portland Timbers,New York Red Bulls,0,2,-2,-1
+1305,21/09/2015,Philadelphia Union,Houston Dynamo,2,0,2,1
+1306,24/09/2015,Montreal Impact,Chicago Fire,2,1,1,1
+1307,24/09/2015,Houston Dynamo,Sporting Kansas City,1,0,1,1
+1308,26/09/2015,New York Red Bulls,Orlando City,2,5,-3,-1
+1309,26/09/2015,Toronto FC,Chicago Fire,3,2,1,1
+1310,26/09/2015,Montreal Impact,DC United,2,0,2,1
+1311,27/09/2015,Columbus Crew,Portland Timbers,1,2,-1,-1
+1312,27/09/2015,New England Revolution,Philadelphia Union,1,1,0,0
+1313,27/09/2015,Houston Dynamo,Colorado Rapids,3,2,1,1
+1314,27/09/2015,Vancouver Whitecaps,New York City,1,2,-1,-1
+1315,27/09/2015,Sporting Kansas City,Seattle Sounders,1,1,0,0
+1316,28/09/2015,San Jose Earthquakes,Real Salt Lake,1,0,1,1
+1317,28/09/2015,Los Angeles Galaxy,FC Dallas,3,2,1,1
+1318,03/10/2015,DC United,New York City,2,1,1,1
+1319,03/10/2015,Toronto FC,Philadelphia Union,3,1,2,1
+1320,04/10/2015,New York Red Bulls,Columbus Crew,2,1,1,1
+1321,04/10/2015,Orlando City,Montreal Impact,2,1,1,1
+1322,04/10/2015,Chicago Fire,New England Revolution,3,1,2,1
+1323,04/10/2015,Portland Timbers,Sporting Kansas City,0,1,-1,-1
+1324,04/10/2015,San Jose Earthquakes,Vancouver Whitecaps,1,1,0,0
+1325,04/10/2015,FC Dallas,Houston Dynamo,4,1,3,1
+1326,05/10/2015,Colorado Rapids,Real Salt Lake,1,2,-1,-1
+1327,05/10/2015,Seattle Sounders,Los Angeles Galaxy,1,1,0,0
+1328,08/10/2015,New York Red Bulls,Montreal Impact,2,1,1,1
+1329,08/10/2015,Vancouver Whitecaps,FC Dallas,0,0,0,0
+1330,10/10/2015,Colorado Rapids,Montreal Impact,0,1,-1,-1
+1331,15/10/2015,Toronto FC,New York Red Bulls,2,1,1,1
+1332,15/10/2015,FC Dallas,Vancouver Whitecaps,2,0,2,1
+1333,15/10/2015,Real Salt Lake,Portland Timbers,0,1,-1,-1
+1334,17/10/2015,Orlando City,New York City,2,1,1,1
+1335,17/10/2015,San Jose Earthquakes,Sporting Kansas City,1,0,1,1
+1336,17/10/2015,Toronto FC,Columbus Crew,0,2,-2,-1
+1337,18/10/2015,New England Revolution,Montreal Impact,0,1,-1,-1
+1338,18/10/2015,Real Salt Lake,FC Dallas,0,1,-1,-1
+1339,18/10/2015,DC United,Chicago Fire,4,0,4,1
+1340,18/10/2015,New York Red Bulls,Philadelphia Union,4,1,3,1
+1341,18/10/2015,Houston Dynamo,Seattle Sounders,1,1,0,0
+1342,19/10/2015,Los Angeles Galaxy,Portland Timbers,2,5,-3,-1
+1343,22/10/2015,Sporting Kansas City,Colorado Rapids,0,2,-2,-1
+1344,25/10/2015,Columbus Crew,DC United,5,0,5,1
+1345,25/10/2015,Montreal Impact,Toronto FC,2,1,1,1
+1346,25/10/2015,New York City,New England Revolution,1,3,-2,-1
+1347,25/10/2015,Philadelphia Union,Orlando City,1,0,1,1
+1348,25/10/2015,Chicago Fire,New York Red Bulls,1,2,-1,-1
+1349,25/10/2015,FC Dallas,San Jose Earthquakes,2,1,1,1
+1350,25/10/2015,Portland Timbers,Colorado Rapids,4,1,3,1
+1351,25/10/2015,Seattle Sounders,Real Salt Lake,3,1,2,1
+1352,25/10/2015,Sporting Kansas City,Los Angeles Galaxy,2,1,1,1
+1353,25/10/2015,Vancouver Whitecaps,Houston Dynamo,3,0,3,1
+1354,28/10/2015,DC United,New England Revolution,2,1,1,1
+1355,29/10/2015,Seattle Sounders,Los Angeles Galaxy,3,2,1,1
+1356,29/10/2015,Montreal Impact,Toronto FC,3,0,3,1
+1357,30/10/2015,Portland Timbers,Sporting Kansas City,1,1,0,0
+1358,01/11/2015,DC United,New York Red Bulls,0,1,-1,-1
+1359,01/11/2015,Portland Timbers,Vancouver Whitecaps,0,0,0,0
+1360,02/11/2015,Montreal Impact,Columbus Crew,2,1,1,1
+1361,02/11/2015,Seattle Sounders,FC Dallas,2,1,1,1
+1362,08/11/2015,New York Red Bulls,DC United,1,0,1,1
+1363,08/11/2015,Columbus Crew,Montreal Impact,2,1,1,1
+1364,09/11/2015,FC Dallas,Seattle Sounders,2,1,1,1
+1365,09/11/2015,Vancouver Whitecaps,Portland Timbers,0,2,-2,-1
+1366,22/11/2015,Columbus Crew,New York Red Bulls,2,0,2,1
+1367,23/11/2015,Portland Timbers,FC Dallas,3,1,2,1
+1368,29/11/2015,FC Dallas,Portland Timbers,2,2,0,0
+1369,30/11/2015,New York Red Bulls,Columbus Crew,1,0,1,1
+1370,06/12/2015,Columbus Crew,Portland Timbers,1,2,-1,-1
+1371,06/03/2016,New York Red Bulls,Toronto FC,0,2,-2,-1
+1372,06/03/2016,Chicago Fire,New York City,3,4,-1,-1
+1373,06/03/2016,Orlando City,Real Salt Lake,2,2,0,0
+1374,06/03/2016,FC Dallas,Philadelphia Union,2,0,2,1
+1375,06/03/2016,Houston Dynamo,New England Revolution,3,3,0,0
+1376,06/03/2016,San Jose Earthquakes,Colorado Rapids,1,0,1,1
+1377,06/03/2016,Portland Timbers,Columbus Crew,2,1,1,1
+1378,06/03/2016,Vancouver Whitecaps,Montreal Impact,2,3,-1,-1
+1379,07/03/2016,Seattle Sounders,Sporting Kansas City,0,1,-1,-1
+1380,07/03/2016,Los Angeles Galaxy,DC United,4,1,3,1
+1381,12/03/2016,Orlando City,Chicago Fire,1,1,0,0
+1382,12/03/2016,New England Revolution,DC United,0,0,0,0
+1383,12/03/2016,Montreal Impact,New York Red Bulls,3,0,3,1
+1384,12/03/2016,Real Salt Lake,Seattle Sounders,2,1,1,1
+1385,13/03/2016,Colorado Rapids,Los Angeles Galaxy,1,0,1,1
+1386,13/03/2016,Columbus Crew,Philadelphia Union,1,2,-1,-1
+1387,13/03/2016,Houston Dynamo,FC Dallas,5,0,5,1
+1388,13/03/2016,Sporting Kansas City,Vancouver Whitecaps,2,1,1,1
+1389,13/03/2016,New York City,Toronto FC,2,2,0,0
+1390,13/03/2016,San Jose Earthquakes,Portland Timbers,2,1,1,1
+1391,18/03/2016,New York City,Orlando City,0,1,-1,-1
+1392,19/03/2016,Chicago Fire,Columbus Crew,0,0,0,0
+1393,19/03/2016,New York Red Bulls,Houston Dynamo,4,3,1,1
+1394,20/03/2016,FC Dallas,Montreal Impact,2,0,2,1
+1395,20/03/2016,Seattle Sounders,Vancouver Whitecaps,1,2,-1,-1
+1396,20/03/2016,Los Angeles Galaxy,San Jose Earthquakes,3,1,2,1
+1397,20/03/2016,Portland Timbers,Real Salt Lake,2,2,0,0
+1398,20/03/2016,Philadelphia Union,New England Revolution,3,0,3,1
+1399,20/03/2016,DC United,Colorado Rapids,1,1,0,0
+1400,20/03/2016,Sporting Kansas City,Toronto FC,1,0,1,1
+1401,26/03/2016,New York City,New England Revolution,1,1,0,0
+1402,26/03/2016,DC United,FC Dallas,0,3,-3,-1
+1403,27/03/2016,Vancouver Whitecaps,Houston Dynamo,1,0,1,1
+1404,02/04/2016,New England Revolution,New York Red Bulls,1,0,1,1
+1405,02/04/2016,Chicago Fire,Philadelphia Union,1,0,1,1
+1406,03/04/2016,Colorado Rapids,Toronto FC,1,0,1,1
+1407,03/04/2016,Sporting Kansas City,Real Salt Lake,1,2,-1,-1
+1408,03/04/2016,FC Dallas,Columbus Crew,1,1,0,0
+1409,03/04/2016,Seattle Sounders,Montreal Impact,1,0,1,1
+1410,03/04/2016,Vancouver Whitecaps,Los Angeles Galaxy,0,0,0,0
+1411,03/04/2016,San Jose Earthquakes,DC United,1,1,0,0
+1412,04/04/2016,Orlando City,Portland Timbers,4,1,3,1
+1413,09/04/2016,Philadelphia Union,Orlando City,2,1,1,1
+1414,09/04/2016,Montreal Impact,Columbus Crew,2,0,2,1
+1415,09/04/2016,New England Revolution,Toronto FC,1,1,0,0
+1416,09/04/2016,DC United,Vancouver Whitecaps,4,0,4,1
+1417,10/04/2016,New York Red Bulls,Sporting Kansas City,0,2,-2,-1
+1418,10/04/2016,FC Dallas,San Jose Earthquakes,2,2,0,0
+1419,10/04/2016,Real Salt Lake,Colorado Rapids,1,0,1,1
+1420,10/04/2016,Houston Dynamo,Seattle Sounders,1,1,0,0
+1421,11/04/2016,New York City,Chicago Fire,0,0,0,0
+1422,11/04/2016,Los Angeles Galaxy,Portland Timbers,1,1,0,0
+1423,14/04/2016,Sporting Kansas City,Colorado Rapids,1,2,-1,-1
+1424,14/04/2016,Portland Timbers,FC Dallas,1,3,-2,-1
+1425,14/04/2016,San Jose Earthquakes,New York Red Bulls,2,0,2,1
+1426,16/04/2016,Houston Dynamo,Los Angeles Galaxy,1,4,-3,-1
+1427,16/04/2016,Chicago Fire,Montreal Impact,1,2,-1,-1
+1428,16/04/2016,DC United,Toronto FC,0,1,-1,-1
+1429,17/04/2016,Columbus Crew,New York City,3,2,1,1
+1430,17/04/2016,Colorado Rapids,New York Red Bulls,2,1,1,1
+1431,17/04/2016,Real Salt Lake,Vancouver Whitecaps,1,0,1,1
+1432,17/04/2016,Seattle Sounders,Philadelphia Union,2,1,1,1
+1433,17/04/2016,Portland Timbers,San Jose Earthquakes,3,1,2,1
+1434,17/04/2016,Orlando City,New England Revolution,2,2,0,0
+1435,18/04/2016,FC Dallas,Sporting Kansas City,2,1,1,1
+1436,23/04/2016,Montreal Impact,Toronto FC,0,2,-2,-1
+1437,23/04/2016,Philadelphia Union,New York City,2,0,2,1
+1438,23/04/2016,DC United,New England Revolution,3,0,3,1
+1439,24/04/2016,Columbus Crew,Houston Dynamo,1,0,1,1
+1440,24/04/2016,Colorado Rapids,Seattle Sounders,3,1,2,1
+1441,24/04/2016,Los Angeles Galaxy,Real Salt Lake,5,2,3,1
+1442,24/04/2016,Vancouver Whitecaps,FC Dallas,3,0,3,1
+1443,24/04/2016,San Jose Earthquakes,Sporting Kansas City,1,0,1,1
+1444,25/04/2016,New York Red Bulls,Orlando City,3,2,1,1
+1445,28/04/2016,New York City,Montreal Impact,1,1,0,0
+1446,28/04/2016,New England Revolution,Portland Timbers,1,1,0,0
+1447,28/04/2016,Vancouver Whitecaps,Sporting Kansas City,1,1,0,0
+1448,30/04/2016,New York Red Bulls,FC Dallas,4,0,4,1
+1449,30/04/2016,Montreal Impact,Colorado Rapids,2,2,0,0
+1450,30/04/2016,New York City,Vancouver Whitecaps,3,2,1,1
+1451,30/04/2016,Philadelphia Union,San Jose Earthquakes,1,1,0,0
+1452,30/04/2016,Seattle Sounders,Columbus Crew,1,0,1,1
+1453,30/04/2016,Chicago Fire,DC United,1,1,0,0
+1454,01/05/2016,New England Revolution,Orlando City,2,2,0,0
+1455,01/05/2016,Real Salt Lake,Houston Dynamo,2,1,1,1
+1456,01/05/2016,Portland Timbers,Toronto FC,2,1,1,1
+1457,02/05/2016,Sporting Kansas City,Los Angeles Galaxy,1,1,0,0
+1458,07/05/2016,Orlando City,New York Red Bulls,1,1,0,0
+1459,07/05/2016,Vancouver Whitecaps,Portland Timbers,2,1,1,1
+1460,08/05/2016,Columbus Crew,Montreal Impact,4,4,0,0
+1461,08/05/2016,Toronto FC,FC Dallas,1,0,1,1
+1462,08/05/2016,Houston Dynamo,Sporting Kansas City,2,0,2,1
+1463,08/05/2016,Colorado Rapids,Real Salt Lake,1,0,1,1
+1464,08/05/2016,Seattle Sounders,San Jose Earthquakes,2,0,2,1
+1465,08/05/2016,Los Angeles Galaxy,New England Revolution,4,2,2,1
+1466,09/05/2016,DC United,New York City,0,2,-2,-1
+1467,12/05/2016,Philadelphia Union,Los Angeles Galaxy,2,2,0,0
+1468,12/05/2016,Colorado Rapids,Sporting Kansas City,1,0,1,1
+1469,12/05/2016,FC Dallas,Portland Timbers,2,1,1,1
+1470,12/05/2016,Vancouver Whitecaps,Chicago Fire,2,1,1,1
+1471,12/05/2016,San Jose Earthquakes,Houston Dynamo,3,1,2,1
+1472,14/05/2016,DC United,New York Red Bulls,2,0,2,1
+1473,14/05/2016,Montreal Impact,Philadelphia Union,1,1,0,0
+1474,15/05/2016,Columbus Crew,Colorado Rapids,1,1,0,0
+1475,15/05/2016,New England Revolution,Chicago Fire,2,0,2,1
+1476,15/05/2016,Toronto FC,Vancouver Whitecaps,3,4,-1,-1
+1477,15/05/2016,FC Dallas,Seattle Sounders,2,0,2,1
+1478,15/05/2016,Houston Dynamo,Real Salt Lake,1,0,1,1
+1479,15/05/2016,Sporting Kansas City,Orlando City,2,1,1,1
+1480,16/05/2016,Portland Timbers,New York City,1,2,-1,-1
+1481,19/05/2016,Toronto FC,New York City,1,1,0,0
+1482,19/05/2016,New York Red Bulls,Chicago Fire,1,0,1,1
+1483,21/05/2016,Philadelphia Union,DC United,1,0,1,1
+1484,21/05/2016,New York City,New York Red Bulls,0,7,-7,-1
+1485,21/05/2016,Chicago Fire,Houston Dynamo,1,0,1,1
+1486,21/05/2016,Toronto FC,Columbus Crew,0,0,0,0
+1487,22/05/2016,New England Revolution,FC Dallas,2,4,-2,-1
+1488,22/05/2016,Orlando City,Montreal Impact,2,1,1,1
+1489,22/05/2016,Sporting Kansas City,Real Salt Lake,1,3,-2,-1
+1490,22/05/2016,Seattle Sounders,Colorado Rapids,0,1,-1,-1
+1491,22/05/2016,Portland Timbers,Vancouver Whitecaps,4,2,2,1
+1492,23/05/2016,Los Angeles Galaxy,San Jose Earthquakes,1,1,0,0
+1493,26/05/2016,Orlando City,Philadelphia Union,2,2,0,0
+1494,28/05/2016,Sporting Kansas City,DC United,0,1,-1,-1
+1495,28/05/2016,Vancouver Whitecaps,Houston Dynamo,1,1,0,0
+1496,29/05/2016,New York Red Bulls,Toronto FC,3,0,3,1
+1497,29/05/2016,Columbus Crew,Real Salt Lake,4,3,1,1
+1498,29/05/2016,New England Revolution,Seattle Sounders,2,1,1,1
+1499,29/05/2016,Montreal Impact,Los Angeles Galaxy,3,2,1,1
+1500,29/05/2016,Chicago Fire,Portland Timbers,1,1,0,0
+1501,29/05/2016,Colorado Rapids,Philadelphia Union,1,1,0,0
+1502,29/05/2016,San Jose Earthquakes,FC Dallas,0,0,0,0
+1503,29/05/2016,New York City,Orlando City,2,2,0,0
+1504,02/06/2016,Philadelphia Union,Columbus Crew,3,2,1,1
+1505,02/06/2016,DC United,Seattle Sounders,0,2,-2,-1
+1506,02/06/2016,Portland Timbers,San Jose Earthquakes,1,0,1,1
+1507,03/06/2016,New York City,Real Salt Lake,2,3,-1,-1
+1508,03/06/2016,FC Dallas,Houston Dynamo,1,1,0,0
+1509,03/06/2016,Los Angeles Galaxy,Sporting Kansas City,0,0,0,0
+1510,18/06/2016,New York City,Philadelphia Union,3,2,1,1
+1511,19/06/2016,Vancouver Whitecaps,New England Revolution,1,2,-1,-1
+1512,19/06/2016,Columbus Crew,Montreal Impact,0,0,0,0
+1513,19/06/2016,Orlando City,San Jose Earthquakes,2,2,0,0
+1514,19/06/2016,Toronto FC,Los Angeles Galaxy,1,0,1,1
+1515,19/06/2016,Colorado Rapids,Chicago Fire,2,1,1,1
+1516,19/06/2016,Houston Dynamo,DC United,0,0,0,0
+1517,19/06/2016,Real Salt Lake,Portland Timbers,2,2,0,0
+1518,19/06/2016,Sporting Kansas City,FC Dallas,2,0,2,1
+1519,20/06/2016,New York Red Bulls,Seattle Sounders,2,0,2,1
+1520,23/06/2016,Philadelphia Union,Chicago Fire,4,3,1,1
+1521,23/06/2016,Real Salt Lake,New York Red Bulls,2,1,1,1
+1522,23/06/2016,Los Angeles Galaxy,Colorado Rapids,0,0,0,0
+1523,25/06/2016,Seattle Sounders,New York City,0,2,-2,-1
+1524,26/06/2016,DC United,New England Revolution,2,0,2,1
+1525,26/06/2016,Philadelphia Union,Vancouver Whitecaps,2,3,-1,-1
+1526,26/06/2016,Columbus Crew,New York Red Bulls,1,1,0,0
+1527,26/06/2016,Montreal Impact,Sporting Kansas City,2,2,0,0
+1528,26/06/2016,Orlando City,Toronto FC,3,2,1,1
+1529,26/06/2016,FC Dallas,Real Salt Lake,2,0,2,1
+1530,26/06/2016,San Jose Earthquakes,Los Angeles Galaxy,1,1,0,0
+1531,26/06/2016,Portland Timbers,Houston Dynamo,3,2,1,1
+1532,02/07/2016,Chicago Fire,San Jose Earthquakes,1,0,1,1
+1533,02/07/2016,Real Salt Lake,DC United,1,1,0,0
+1534,02/07/2016,Montreal Impact,New England Revolution,3,2,1,1
+1535,03/07/2016,Toronto FC,Seattle Sounders,1,1,0,0
+1536,03/07/2016,Houston Dynamo,Philadelphia Union,1,0,1,1
+1537,03/07/2016,New York City,New York Red Bulls,2,0,2,1
+1538,04/07/2016,Sporting Kansas City,Columbus Crew,3,2,1,1
+1539,05/07/2016,Colorado Rapids,Portland Timbers,0,0,0,0
+1540,05/07/2016,FC Dallas,Orlando City,4,0,4,1
+1541,05/07/2016,Los Angeles Galaxy,Vancouver Whitecaps,2,0,2,1
+1542,07/07/2016,New England Revolution,New York City,0,1,-1,-1
+1543,09/07/2016,Orlando City,Houston Dynamo,0,0,0,0
+1544,09/07/2016,San Jose Earthquakes,FC Dallas,0,1,-1,-1
+1545,09/07/2016,Seattle Sounders,Los Angeles Galaxy,0,1,-1,-1
+1546,10/07/2016,Philadelphia Union,DC United,3,0,3,1
+1547,10/07/2016,New England Revolution,Columbus Crew,3,1,2,1
+1548,10/07/2016,Toronto FC,Chicago Fire,1,0,1,1
+1549,10/07/2016,Real Salt Lake,Montreal Impact,1,1,0,0
+1550,10/07/2016,Vancouver Whitecaps,Colorado Rapids,2,2,0,0
+1551,10/07/2016,New York Red Bulls,Portland Timbers,0,0,0,0
+1552,11/07/2016,Sporting Kansas City,New York City,3,1,2,1
+1553,14/07/2016,Columbus Crew,Toronto FC,1,1,0,0
+1554,14/07/2016,New York Red Bulls,Orlando City,2,0,2,1
+1555,14/07/2016,Chicago Fire,Sporting Kansas City,1,0,1,1
+1556,14/07/2016,Portland Timbers,Montreal Impact,1,1,0,0
+1557,14/07/2016,Seattle Sounders,FC Dallas,5,0,5,1
+1558,14/07/2016,Vancouver Whitecaps,Real Salt Lake,2,0,2,1
+1559,16/07/2016,Los Angeles Galaxy,Houston Dynamo,1,0,1,1
+1560,17/07/2016,Columbus Crew,DC United,1,1,0,0
+1561,17/07/2016,Colorado Rapids,Sporting Kansas City,1,0,1,1
+1562,17/07/2016,FC Dallas,Chicago Fire,3,1,2,1
+1563,17/07/2016,Real Salt Lake,New England Revolution,0,0,0,0
+1564,17/07/2016,Vancouver Whitecaps,Orlando City,2,2,0,0
+1565,17/07/2016,San Jose Earthquakes,Toronto FC,2,1,1,1
+1566,17/07/2016,Portland Timbers,Seattle Sounders,3,1,2,1
+1567,17/07/2016,Montreal Impact,New York City,1,3,-2,-1
+1568,18/07/2016,Philadelphia Union,New York Red Bulls,2,2,0,0
+1569,23/07/2016,Real Salt Lake,San Jose Earthquakes,1,1,0,0
+1570,23/07/2016,Portland Timbers,Los Angeles Galaxy,1,2,-1,-1
+1571,24/07/2016,Columbus Crew,Orlando City,2,2,0,0
+1572,24/07/2016,Montreal Impact,Philadelphia Union,5,1,4,1
+1573,24/07/2016,New England Revolution,Chicago Fire,1,0,1,1
+1574,24/07/2016,Toronto FC,DC United,4,1,3,1
+1575,24/07/2016,Colorado Rapids,FC Dallas,1,1,0,0
+1576,24/07/2016,Houston Dynamo,Vancouver Whitecaps,0,0,0,0
+1577,24/07/2016,New York Red Bulls,New York City,4,1,3,1
+1578,24/07/2016,Sporting Kansas City,Seattle Sounders,3,0,3,1
+1579,30/07/2016,New York City,Colorado Rapids,5,1,4,1
+1580,31/07/2016,Sporting Kansas City,Portland Timbers,1,0,1,1
+1581,31/07/2016,Seattle Sounders,Los Angeles Galaxy,1,1,0,0
+1582,31/07/2016,FC Dallas,Vancouver Whitecaps,2,0,2,1
+1583,31/07/2016,DC United,Montreal Impact,1,1,0,0
+1584,01/08/2016,Chicago Fire,New York Red Bulls,2,2,0,0
+1585,01/08/2016,Philadelphia Union,Real Salt Lake,1,2,-1,-1
+1586,01/08/2016,Orlando City,New England Revolution,3,1,2,1
+1587,01/08/2016,Toronto FC,Columbus Crew,3,0,3,1
+1588,01/08/2016,Houston Dynamo,San Jose Earthquakes,1,1,0,0
+1589,04/08/2016,Toronto FC,Real Salt Lake,1,0,1,1
+1590,06/08/2016,San Jose Earthquakes,New York City,0,0,0,0
+1591,07/08/2016,DC United,Philadelphia Union,2,2,0,0
+1592,07/08/2016,Montreal Impact,Houston Dynamo,1,0,1,1
+1593,07/08/2016,Toronto FC,New England Revolution,4,1,3,1
+1594,07/08/2016,Colorado Rapids,Vancouver Whitecaps,2,0,2,1
+1595,07/08/2016,Real Salt Lake,Chicago Fire,3,1,2,1
+1596,07/08/2016,Portland Timbers,Sporting Kansas City,3,0,3,1
+1597,08/08/2016,Orlando City,Seattle Sounders,1,3,-2,-1
+1598,08/08/2016,Los Angeles Galaxy,New York Red Bulls,2,2,0,0
+1599,13/08/2016,Vancouver Whitecaps,San Jose Earthquakes,1,2,-1,-1
+1600,14/08/2016,New York Red Bulls,Montreal Impact,3,1,2,1
+1601,14/08/2016,Columbus Crew,New York City,3,3,0,0
+1602,14/08/2016,New England Revolution,Philadelphia Union,0,4,-4,-1
+1603,14/08/2016,DC United,Portland Timbers,2,0,2,1
+1604,14/08/2016,FC Dallas,Sporting Kansas City,2,2,0,0
+1605,14/08/2016,Los Angeles Galaxy,Colorado Rapids,1,1,0,0
+1606,14/08/2016,Chicago Fire,Orlando City,2,2,0,0
+1607,15/08/2016,Seattle Sounders,Real Salt Lake,2,1,1,1
+1608,15/08/2016,Houston Dynamo,Toronto FC,1,1,0,0
+1609,20/08/2016,San Jose Earthquakes,Houston Dynamo,1,2,-1,-1
+1610,20/08/2016,New York City,Los Angeles Galaxy,1,0,1,1
+1611,21/08/2016,Philadelphia Union,Toronto FC,1,3,-2,-1
+1612,21/08/2016,Montreal Impact,Chicago Fire,0,3,-3,-1
+1613,21/08/2016,New England Revolution,Columbus Crew,0,2,-2,-1
+1614,21/08/2016,Colorado Rapids,Orlando City,0,0,0,0
+1615,21/08/2016,Real Salt Lake,FC Dallas,1,0,1,1
+1616,21/08/2016,Sporting Kansas City,Vancouver Whitecaps,2,0,2,1
+1617,21/08/2016,DC United,New York Red Bulls,2,2,0,0
+1618,22/08/2016,Seattle Sounders,Portland Timbers,3,1,2,1
+1619,25/08/2016,Columbus Crew,Philadelphia Union,1,2,-1,-1
+1620,25/08/2016,Montreal Impact,DC United,1,1,0,0
+1621,25/08/2016,Orlando City,Toronto FC,1,2,-1,-1
+1622,25/08/2016,Chicago Fire,Los Angeles Galaxy,2,2,0,0
+1623,25/08/2016,Houston Dynamo,Seattle Sounders,1,1,0,0
+1624,25/08/2016,San Jose Earthquakes,New England Revolution,0,0,0,0
+1625,27/08/2016,Real Salt Lake,Colorado Rapids,2,1,1,1
+1626,28/08/2016,DC United,Chicago Fire,6,2,4,1
+1627,28/08/2016,Philadelphia Union,Sporting Kansas City,2,0,2,1
+1628,28/08/2016,Columbus Crew,San Jose Earthquakes,2,0,2,1
+1629,28/08/2016,Toronto FC,Montreal Impact,0,1,-1,-1
+1630,28/08/2016,Houston Dynamo,FC Dallas,1,3,-2,-1
+1631,28/08/2016,Los Angeles Galaxy,Vancouver Whitecaps,0,0,0,0
+1632,28/08/2016,New York Red Bulls,New England Revolution,1,0,1,1
+1633,28/08/2016,Portland Timbers,Seattle Sounders,4,2,2,1
+1634,29/08/2016,Orlando City,New York City,2,1,1,1
+1635,02/09/2016,New York City,DC United,3,2,1,1
+1636,04/09/2016,Vancouver Whitecaps,New York Red Bulls,0,1,-1,-1
+1637,04/09/2016,New England Revolution,Colorado Rapids,2,0,2,1
+1638,04/09/2016,Chicago Fire,Philadelphia Union,3,0,3,1
+1639,04/09/2016,FC Dallas,Portland Timbers,3,1,2,1
+1640,04/09/2016,Los Angeles Galaxy,Columbus Crew,2,1,1,1
+1641,08/09/2016,Montreal Impact,Orlando City,1,4,-3,-1
+1642,08/09/2016,Real Salt Lake,Los Angeles Galaxy,3,3,0,0
+1643,10/09/2016,Sporting Kansas City,Houston Dynamo,3,3,0,0
+1644,10/09/2016,Columbus Crew,Vancouver Whitecaps,1,3,-2,-1
+1645,11/09/2016,Philadelphia Union,Montreal Impact,1,1,0,0
+1646,11/09/2016,New England Revolution,New York City,3,1,2,1
+1647,11/09/2016,Chicago Fire,Toronto FC,1,2,-1,-1
+1648,11/09/2016,FC Dallas,Colorado Rapids,0,1,-1,-1
+1649,11/09/2016,Portland Timbers,Real Salt Lake,1,0,1,1
+1650,11/09/2016,San Jose Earthquakes,Seattle Sounders,1,1,0,0
+1651,11/09/2016,New York Red Bulls,DC United,2,2,0,0
+1652,12/09/2016,Los Angeles Galaxy,Orlando City,4,2,2,1
+1653,17/09/2016,Chicago Fire,DC United,2,2,0,0
+1654,17/09/2016,Seattle Sounders,Vancouver Whitecaps,1,0,1,1
+1655,17/09/2016,Portland Timbers,Philadelphia Union,2,1,1,1
+1656,18/09/2016,New York City,FC Dallas,2,2,0,0
+1657,18/09/2016,Montreal Impact,New England Revolution,1,3,-2,-1
+1658,18/09/2016,Orlando City,Columbus Crew,1,4,-3,-1
+1659,18/09/2016,Colorado Rapids,San Jose Earthquakes,0,0,0,0
+1660,18/09/2016,Real Salt Lake,Houston Dynamo,0,1,-1,-1
+1661,18/09/2016,Sporting Kansas City,Los Angeles Galaxy,2,2,0,0
+1662,18/09/2016,Toronto FC,New York Red Bulls,3,3,0,0
+1663,24/09/2016,New York City,Chicago Fire,4,1,3,1
+1664,24/09/2016,Toronto FC,Philadelphia Union,1,1,0,0
+1665,25/09/2016,DC United,Orlando City,4,1,3,1
+1666,25/09/2016,New York Red Bulls,Montreal Impact,1,0,1,1
+1667,25/09/2016,Vancouver Whitecaps,Colorado Rapids,3,3,0,0
+1668,25/09/2016,Houston Dynamo,Portland Timbers,3,1,2,1
+1669,25/09/2016,Real Salt Lake,FC Dallas,0,0,0,0
+1670,25/09/2016,San Jose Earthquakes,Sporting Kansas City,1,2,-1,-1
+1671,25/09/2016,Los Angeles Galaxy,Seattle Sounders,2,4,-2,-1
+1672,26/09/2016,Columbus Crew,New England Revolution,2,0,2,1
+1673,29/09/2016,DC United,Columbus Crew,3,0,3,1
+1674,29/09/2016,Montreal Impact,San Jose Earthquakes,3,1,2,1
+1675,29/09/2016,Toronto FC,Orlando City,0,0,0,0
+1676,29/09/2016,Seattle Sounders,Chicago Fire,1,0,1,1
+1677,01/10/2016,Houston Dynamo,New York City,0,2,-2,-1
+1678,02/10/2016,New York Red Bulls,Philadelphia Union,3,2,1,1
+1679,02/10/2016,Columbus Crew,Chicago Fire,3,0,3,1
+1680,02/10/2016,New England Revolution,Sporting Kansas City,3,1,2,1
+1681,02/10/2016,Toronto FC,DC United,1,2,-1,-1
+1682,02/10/2016,Colorado Rapids,Portland Timbers,1,0,1,1
+1683,02/10/2016,FC Dallas,Los Angeles Galaxy,1,0,1,1
+1684,02/10/2016,San Jose Earthquakes,Real Salt Lake,2,1,1,1
+1685,02/10/2016,Orlando City,Montreal Impact,0,1,-1,-1
+1686,03/10/2016,Vancouver Whitecaps,Seattle Sounders,1,2,-1,-1
+1687,09/10/2016,Houston Dynamo,Colorado Rapids,2,3,-1,-1
+1688,13/10/2016,Seattle Sounders,Houston Dynamo,0,0,0,0
+1689,14/10/2016,Chicago Fire,Columbus Crew,2,2,0,0
+1690,14/10/2016,Colorado Rapids,San Jose Earthquakes,2,1,1,1
+1691,16/10/2016,Chicago Fire,New England Revolution,2,1,1,1
+1692,16/10/2016,DC United,New York City,3,1,2,1
+1693,16/10/2016,Montreal Impact,Toronto FC,2,2,0,0
+1694,16/10/2016,New York Red Bulls,Columbus Crew,3,2,1,1
+1695,16/10/2016,Philadelphia Union,Orlando City,0,2,-2,-1
+1696,16/10/2016,FC Dallas,Seattle Sounders,2,1,1,1
+1697,16/10/2016,Houston Dynamo,Los Angeles Galaxy,0,1,-1,-1
+1698,16/10/2016,Portland Timbers,Colorado Rapids,1,0,1,1
+1699,16/10/2016,Real Salt Lake,Sporting Kansas City,0,0,0,0
+1700,16/10/2016,San Jose Earthquakes,Vancouver Whitecaps,0,0,0,0
+1701,23/10/2016,Colorado Rapids,Houston Dynamo,1,1,0,0
+1702,23/10/2016,Los Angeles Galaxy,FC Dallas,0,0,0,0
+1703,23/10/2016,New England Revolution,Montreal Impact,3,0,3,1
+1704,23/10/2016,New York City,Columbus Crew,4,1,3,1
+1705,23/10/2016,Orlando City,DC United,4,2,2,1
+1706,23/10/2016,Philadelphia Union,New York Red Bulls,0,2,-2,-1
+1707,23/10/2016,Seattle Sounders,Real Salt Lake,2,1,1,1
+1708,23/10/2016,Sporting Kansas City,San Jose Earthquakes,2,0,2,1
+1709,23/10/2016,Toronto FC,Chicago Fire,3,2,1,1
+1710,23/10/2016,Vancouver Whitecaps,Portland Timbers,4,1,3,1
+1711,27/10/2016,Toronto FC,Philadelphia Union,3,1,2,1
+1712,27/10/2016,Los Angeles Galaxy,Real Salt Lake,3,1,2,1
+1713,28/10/2016,DC United,Montreal Impact,2,4,-2,-1
+1714,28/10/2016,Seattle Sounders,Sporting Kansas City,1,0,1,1
+1715,30/10/2016,Montreal Impact,New York Red Bulls,1,0,1,1
+1716,30/10/2016,Los Angeles Galaxy,Colorado Rapids,1,0,1,1
+1717,30/10/2016,Toronto FC,New York City,2,0,2,1
+1718,31/10/2016,Seattle Sounders,FC Dallas,3,0,3,1
+1719,06/11/2016,Colorado Rapids,Los Angeles Galaxy,1,0,1,1
+1720,06/11/2016,New York Red Bulls,Montreal Impact,1,2,-1,-1
+1721,06/11/2016,New York City,Toronto FC,0,5,-5,-1
+1722,07/11/2016,FC Dallas,Seattle Sounders,2,1,1,1
+1723,23/11/2016,Montreal Impact,Toronto FC,3,2,1,1
+1724,23/11/2016,Seattle Sounders,Colorado Rapids,2,1,1,1
+1725,27/11/2016,Colorado Rapids,Seattle Sounders,0,1,-1,-1
+1726,01/12/2016,Toronto FC,Montreal Impact,3,2,1,1
+1727,11/12/2016,Toronto FC,Seattle Sounders,0,0,0,0
+1728,04/03/2017,Portland Timbers,Minnesota United,5,1,4,1
+1729,04/03/2017,Columbus Crew,Chicago Fire,1,1,0,0
+1730,04/03/2017,Los Angeles Galaxy,FC Dallas,1,2,-1,-1
+1731,04/03/2017,Real Salt Lake,Toronto FC,0,0,0,0
+1732,04/03/2017,Colorado Rapids,New England Revolution,1,0,1,1
+1733,05/03/2017,DC United,Sporting Kansas City,0,0,0,0
+1734,05/03/2017,Houston Dynamo,Seattle Sounders,2,1,1,1
+1735,05/03/2017,San Jose Earthquakes,Montreal Impact,1,0,1,1
+1736,05/03/2017,Orlando City,New York City,1,0,1,1
+1737,06/03/2017,Atlanta United,New York Red Bulls,1,2,-1,-1
+1738,06/03/2017,Vancouver Whitecaps,Philadelphia Union,0,0,0,0
+1739,11/03/2017,Chicago Fire,Real Salt Lake,2,0,2,1
+1740,11/03/2017,New York Red Bulls,Colorado Rapids,1,0,1,1
+1741,11/03/2017,Philadelphia Union,Toronto FC,2,2,0,0
+1742,12/03/2017,Montreal Impact,Seattle Sounders,2,2,0,0
+1743,12/03/2017,Houston Dynamo,Columbus Crew,3,1,2,1
+1744,12/03/2017,Sporting Kansas City,FC Dallas,0,0,0,0
+1745,12/03/2017,San Jose Earthquakes,Vancouver Whitecaps,3,2,1,1
+1746,12/03/2017,New York City,DC United,4,0,4,1
+1747,12/03/2017,Minnesota United,Atlanta United,1,6,-5,-1
+1748,12/03/2017,Los Angeles Galaxy,Portland Timbers,0,1,-1,-1
+1749,18/03/2017,New York City,Montreal Impact,1,1,0,0
+1750,18/03/2017,Atlanta United,Chicago Fire,4,0,4,1
+1751,18/03/2017,Vancouver Whitecaps,Toronto FC,0,2,-2,-1
+1752,18/03/2017,DC United,Columbus Crew,0,2,-2,-1
+1753,18/03/2017,Orlando City,Philadelphia Union,2,1,1,1
+1754,19/03/2017,FC Dallas,New England Revolution,2,1,1,1
+1755,19/03/2017,Sporting Kansas City,San Jose Earthquakes,2,1,1,1
+1756,19/03/2017,Colorado Rapids,Minnesota United,2,2,0,0
+1757,19/03/2017,Real Salt Lake,Los Angeles Galaxy,1,2,-1,-1
+1758,19/03/2017,Portland Timbers,Houston Dynamo,4,2,2,1
+1759,19/03/2017,Seattle Sounders,New York Red Bulls,3,1,2,1
+1760,25/03/2017,New England Revolution,Minnesota United,5,2,3,1
+1761,25/03/2017,New York Red Bulls,Real Salt Lake,0,0,0,0
+1762,25/03/2017,Columbus Crew,Portland Timbers,3,2,1,1
+1763,01/04/2017,Toronto FC,Sporting Kansas City,0,0,0,0
+1764,01/04/2017,Seattle Sounders,Atlanta United,0,0,0,0
+1765,01/04/2017,New York City,San Jose Earthquakes,2,1,1,1
+1766,01/04/2017,Chicago Fire,Montreal Impact,2,2,0,0
+1767,01/04/2017,Columbus Crew,Orlando City,2,0,2,1
+1768,02/04/2017,DC United,Philadelphia Union,2,1,1,1
+1769,02/04/2017,Minnesota United,Real Salt Lake,4,2,2,1
+1770,02/04/2017,Houston Dynamo,New York Red Bulls,4,1,3,1
+1771,02/04/2017,Vancouver Whitecaps,Los Angeles Galaxy,4,2,2,1
+1772,03/04/2017,Portland Timbers,New England Revolution,1,1,0,0
+1773,08/04/2017,Los Angeles Galaxy,Montreal Impact,2,0,2,1
+1774,08/04/2017,Chicago Fire,Columbus Crew,1,0,1,1
+1775,08/04/2017,New England Revolution,Houston Dynamo,2,0,2,1
+1776,08/04/2017,DC United,New York City,2,1,1,1
+1777,09/04/2017,Philadelphia Union,Portland Timbers,1,3,-2,-1
+1778,09/04/2017,Toronto FC,Atlanta United,2,2,0,0
+1779,09/04/2017,FC Dallas,Minnesota United,2,0,2,1
+1780,09/04/2017,Real Salt Lake,Vancouver Whitecaps,3,0,3,1
+1781,09/04/2017,San Jose Earthquakes,Seattle Sounders,1,1,0,0
+1782,09/04/2017,Orlando City,New York Red Bulls,1,0,1,1
+1783,10/04/2017,Sporting Kansas City,Colorado Rapids,3,1,2,1
+1784,15/04/2017,Philadelphia Union,New York City,0,2,-2,-1
+1785,15/04/2017,Vancouver Whitecaps,Seattle Sounders,2,1,1,1
+1786,15/04/2017,San Jose Earthquakes,FC Dallas,1,1,0,0
+1787,15/04/2017,Montreal Impact,Atlanta United,2,1,1,1
+1788,15/04/2017,Orlando City,Los Angeles Galaxy,2,1,1,1
+1789,15/04/2017,Chicago Fire,New England Revolution,3,0,3,1
+1790,16/04/2017,New York Red Bulls,DC United,2,0,2,1
+1791,16/04/2017,Columbus Crew,Toronto FC,2,1,1,1
+1792,16/04/2017,Houston Dynamo,Minnesota United,2,2,0,0
+1793,16/04/2017,Colorado Rapids,Real Salt Lake,1,2,-1,-1
+1794,16/04/2017,Portland Timbers,Sporting Kansas City,0,1,-1,-1
+1795,20/04/2017,New England Revolution,San Jose Earthquakes,0,0,0,0
+1796,22/04/2017,Toronto FC,Chicago Fire,3,1,2,1
+1797,22/04/2017,Philadelphia Union,Montreal Impact,3,3,0,0
+1798,22/04/2017,Houston Dynamo,San Jose Earthquakes,2,0,2,1
+1799,22/04/2017,Portland Timbers,Vancouver Whitecaps,2,1,1,1
+1800,23/04/2017,New England Revolution,DC United,2,2,0,0
+1801,23/04/2017,New York Red Bulls,Columbus Crew,2,0,2,1
+1802,23/04/2017,FC Dallas,Sporting Kansas City,1,0,1,1
+1803,23/04/2017,Real Salt Lake,Atlanta United,1,3,-2,-1
+1804,23/04/2017,New York City,Orlando City,1,2,-1,-1
+1805,23/04/2017,Los Angeles Galaxy,Seattle Sounders,0,3,-3,-1
+1806,23/04/2017,Minnesota United,Colorado Rapids,1,0,1,1
+1807,29/04/2017,Toronto FC,Houston Dynamo,2,0,2,1
+1808,29/04/2017,Montreal Impact,Vancouver Whitecaps,1,2,-1,-1
+1809,29/04/2017,Orlando City,Colorado Rapids,2,0,2,1
+1810,30/04/2017,Columbus Crew,New York City,2,3,-1,-1
+1811,30/04/2017,New York Red Bulls,Chicago Fire,2,1,1,1
+1812,30/04/2017,FC Dallas,Portland Timbers,2,2,0,0
+1813,30/04/2017,Minnesota United,San Jose Earthquakes,0,1,-1,-1
+1814,30/04/2017,Sporting Kansas City,Real Salt Lake,3,0,3,1
+1815,30/04/2017,Seattle Sounders,New England Revolution,3,3,0,0
+1816,30/04/2017,Los Angeles Galaxy,Philadelphia Union,0,0,0,0
+1817,30/04/2017,Atlanta United,DC United,1,3,-2,-1
+1818,04/05/2017,Toronto FC,Orlando City,2,1,1,1
+1819,04/05/2017,Sporting Kansas City,New York Red Bulls,2,0,2,1
+1820,06/05/2017,Colorado Rapids,Vancouver Whitecaps,0,1,-1,-1
+1821,06/05/2017,Seattle Sounders,Toronto FC,0,1,-1,-1
+1822,06/05/2017,DC United,Montreal Impact,0,1,-1,-1
+1823,07/05/2017,Philadelphia Union,New York Red Bulls,3,0,3,1
+1824,07/05/2017,Columbus Crew,New England Revolution,2,0,2,1
+1825,07/05/2017,Houston Dynamo,Orlando City,4,0,4,1
+1826,07/05/2017,Real Salt Lake,FC Dallas,0,3,-3,-1
+1827,07/05/2017,Los Angeles Galaxy,Chicago Fire,2,2,0,0
+1828,07/05/2017,San Jose Earthquakes,Portland Timbers,3,0,3,1
+1829,07/05/2017,Minnesota United,Sporting Kansas City,2,0,2,1
+1830,07/05/2017,New York City,Atlanta United,3,1,2,1
+1831,11/05/2017,Columbus Crew,Toronto FC,1,2,-1,-1
+1832,13/05/2017,Houston Dynamo,Vancouver Whitecaps,2,1,1,1
+1833,13/05/2017,Toronto FC,Minnesota United,3,2,1,1
+1834,13/05/2017,Colorado Rapids,San Jose Earthquakes,3,0,3,1
+1835,13/05/2017,Montreal Impact,Columbus Crew,2,3,-1,-1
+1836,14/05/2017,DC United,Philadelphia Union,0,4,-4,-1
+1837,14/05/2017,Orlando City,Sporting Kansas City,2,2,0,0
+1838,14/05/2017,New England Revolution,Real Salt Lake,4,0,4,1
+1839,14/05/2017,Chicago Fire,Seattle Sounders,4,1,3,1
+1840,14/05/2017,Portland Timbers,Atlanta United,1,1,0,0
+1841,14/05/2017,New York Red Bulls,Los Angeles Galaxy,1,3,-2,-1
+1842,15/05/2017,FC Dallas,New York City,1,1,0,0
+1843,18/05/2017,Philadelphia Union,Houston Dynamo,2,0,2,1
+1844,18/05/2017,Chicago Fire,Colorado Rapids,3,0,3,1
+1845,18/05/2017,Sporting Kansas City,Seattle Sounders,3,0,3,1
+1846,18/05/2017,Real Salt Lake,New York City,2,1,1,1
+1847,18/05/2017,San Jose Earthquakes,Orlando City,1,1,0,0
+1848,20/05/2017,New York Red Bulls,Toronto FC,1,1,0,0
+1849,20/05/2017,Montreal Impact,Portland Timbers,4,1,3,1
+1850,20/05/2017,DC United,Chicago Fire,0,1,-1,-1
+1851,20/05/2017,Seattle Sounders,Real Salt Lake,1,0,1,1
+1852,21/05/2017,Atlanta United,Houston Dynamo,4,1,3,1
+1853,21/05/2017,Philadelphia Union,Colorado Rapids,2,1,1,1
+1854,21/05/2017,Vancouver Whitecaps,Sporting Kansas City,2,0,2,1
+1855,21/05/2017,FC Dallas,San Jose Earthquakes,0,1,-1,-1
+1856,21/05/2017,New England Revolution,Columbus Crew,2,1,1,1
+1857,21/05/2017,Minnesota United,Los Angeles Galaxy,1,2,-1,-1
+1858,22/05/2017,Orlando City,New York City,0,3,-3,-1
+1859,26/05/2017,Chicago Fire,FC Dallas,2,1,1,1
+1860,27/05/2017,Toronto FC,Columbus Crew,5,0,5,1
+1861,27/05/2017,Seattle Sounders,Portland Timbers,1,0,1,1
+1862,28/05/2017,Vancouver Whitecaps,DC United,0,1,-1,-1
+1863,28/05/2017,New York Red Bulls,New England Revolution,2,1,1,1
+1864,28/05/2017,Colorado Rapids,Sporting Kansas City,1,0,1,1
+1865,28/05/2017,Minnesota United,Orlando City,1,0,1,1
+1866,28/05/2017,Real Salt Lake,Philadelphia Union,1,0,1,1
+1867,28/05/2017,San Jose Earthquakes,Los Angeles Galaxy,2,4,-2,-1
+1868,28/05/2017,Atlanta United,New York City,3,1,2,1
+1869,29/05/2017,FC Dallas,Houston Dynamo,0,0,0,0
+1870,01/06/2017,Columbus Crew,Seattle Sounders,3,0,3,1
+1871,01/06/2017,New York City,New England Revolution,2,2,0,0
+1872,01/06/2017,Orlando City,DC United,2,0,2,1
+1873,01/06/2017,Houston Dynamo,Real Salt Lake,5,1,4,1
+1874,03/06/2017,Portland Timbers,San Jose Earthquakes,2,0,2,1
+1875,03/06/2017,New York City,Philadelphia Union,2,1,1,1
+1876,03/06/2017,Sporting Kansas City,Minnesota United,3,0,3,1
+1877,03/06/2017,Vancouver Whitecaps,Atlanta United,3,1,2,1
+1878,04/06/2017,DC United,Los Angeles Galaxy,0,0,0,0
+1879,04/06/2017,Montreal Impact,New York Red Bulls,1,0,1,1
+1880,04/06/2017,New England Revolution,Toronto FC,3,0,3,1
+1881,04/06/2017,FC Dallas,Real Salt Lake,6,2,4,1
+1882,04/06/2017,Colorado Rapids,Columbus Crew,2,1,1,1
+1883,05/06/2017,Orlando City,Chicago Fire,0,0,0,0
+1884,05/06/2017,Seattle Sounders,Houston Dynamo,1,0,1,1
+1885,10/06/2017,Chicago Fire,Atlanta United,2,0,2,1
+1886,11/06/2017,Sporting Kansas City,Montreal Impact,1,1,0,0
+1887,11/06/2017,Portland Timbers,FC Dallas,2,0,2,1
+1888,17/06/2017,New York City,Seattle Sounders,2,1,1,1
+1889,18/06/2017,Atlanta United,Columbus Crew,3,1,2,1
+1890,18/06/2017,New England Revolution,Chicago Fire,1,2,-1,-1
+1891,18/06/2017,Orlando City,Montreal Impact,3,3,0,0
+1892,18/06/2017,Toronto FC,DC United,2,0,2,1
+1893,18/06/2017,San Jose Earthquakes,Sporting Kansas City,0,0,0,0
+1894,18/06/2017,Colorado Rapids,Portland Timbers,2,1,1,1
+1895,18/06/2017,Real Salt Lake,Minnesota United,1,0,1,1
+1896,18/06/2017,Vancouver Whitecaps,FC Dallas,1,1,0,0
+1897,18/06/2017,Los Angeles Galaxy,Houston Dynamo,2,2,0,0
+1898,18/06/2017,Philadelphia Union,New York Red Bulls,0,2,-2,-1
+1899,22/06/2017,DC United,Atlanta United,2,1,1,1
+1900,22/06/2017,Minnesota United,Portland Timbers,3,2,1,1
+1901,22/06/2017,Colorado Rapids,Los Angeles Galaxy,1,3,-2,-1
+1902,22/06/2017,Seattle Sounders,Orlando City,1,1,0,0
+1903,24/06/2017,Toronto FC,New England Revolution,2,0,2,1
+1904,24/06/2017,Houston Dynamo,FC Dallas,1,1,0,0
+1905,24/06/2017,New York Red Bulls,New York City,0,2,-2,-1
+1906,25/06/2017,Atlanta United,Colorado Rapids,1,0,1,1
+1907,25/06/2017,Philadelphia Union,DC United,1,0,1,1
+1908,25/06/2017,Columbus Crew,Montreal Impact,4,1,3,1
+1909,25/06/2017,Minnesota United,Vancouver Whitecaps,2,2,0,0
+1910,25/06/2017,Chicago Fire,Orlando City,4,0,4,1
+1911,25/06/2017,Los Angeles Galaxy,Sporting Kansas City,1,2,-1,-1
+1912,25/06/2017,San Jose Earthquakes,Real Salt Lake,2,1,1,1
+1913,26/06/2017,Portland Timbers,Seattle Sounders,2,2,0,0
+1914,30/06/2017,New York City,Minnesota United,3,1,2,1
+1915,01/07/2017,Real Salt Lake,Orlando City,0,1,-1,-1
+1916,02/07/2017,Chicago Fire,Vancouver Whitecaps,4,0,4,1
+1917,02/07/2017,FC Dallas,Toronto FC,3,1,2,1
+1918,02/07/2017,Montreal Impact,DC United,2,0,2,1
+1919,02/07/2017,Sporting Kansas City,Portland Timbers,1,1,0,0
+1920,02/07/2017,Columbus Crew,Atlanta United,0,2,-2,-1
+1921,02/07/2017,Colorado Rapids,Houston Dynamo,3,1,2,1
+1922,02/07/2017,San Jose Earthquakes,Los Angeles Galaxy,2,1,1,1
+1923,02/07/2017,Philadelphia Union,New England Revolution,3,0,3,1
+1924,05/07/2017,Atlanta United,San Jose Earthquakes,4,2,2,1
+1925,05/07/2017,Minnesota United,Columbus Crew,0,1,-1,-1
+1926,05/07/2017,FC Dallas,DC United,4,2,2,1
+1927,05/07/2017,Colorado Rapids,Seattle Sounders,1,3,-2,-1
+1928,05/07/2017,Los Angeles Galaxy,Real Salt Lake,2,6,-4,-1
+1929,06/07/2017,New England Revolution,New York Red Bulls,2,3,-1,-1
+1930,06/07/2017,Orlando City,Toronto FC,1,3,-2,-1
+1931,06/07/2017,Houston Dynamo,Montreal Impact,3,1,2,1
+1932,06/07/2017,Vancouver Whitecaps,New York City,3,2,1,1
+1933,06/07/2017,Portland Timbers,Chicago Fire,2,2,0,0
+1934,07/07/2017,Sporting Kansas City,Philadelphia Union,1,1,0,0
+1935,20/07/2017,Montreal Impact,Philadelphia Union,2,1,1,1
+1936,20/07/2017,New York City,Toronto FC,2,2,0,0
+1937,20/07/2017,New York Red Bulls,San Jose Earthquakes,5,1,4,1
+1938,20/07/2017,Minnesota United,Houston Dynamo,0,0,0,0
+1939,20/07/2017,Los Angeles Galaxy,Vancouver Whitecaps,0,1,-1,-1
+1940,20/07/2017,Portland Timbers,Real Salt Lake,1,4,-3,-1
+1941,20/07/2017,Seattle Sounders,DC United,4,3,1,1
+1942,22/07/2017,Orlando City,Atlanta United,0,1,-1,-1
+1943,22/07/2017,New York City,Chicago Fire,2,1,1,1
+1944,22/07/2017,Minnesota United,New York Red Bulls,0,3,-3,-1
+1945,23/07/2017,DC United,Houston Dynamo,1,3,-2,-1
+1946,23/07/2017,Toronto FC,Colorado Rapids,1,1,0,0
+1947,23/07/2017,Columbus Crew,Philadelphia Union,1,0,1,1
+1948,23/07/2017,Montreal Impact,FC Dallas,1,2,-1,-1
+1949,23/07/2017,New England Revolution,Los Angeles Galaxy,4,3,1,1
+1950,23/07/2017,Real Salt Lake,Sporting Kansas City,1,1,0,0
+1951,23/07/2017,Vancouver Whitecaps,Portland Timbers,1,2,-1,-1
+1952,24/07/2017,Seattle Sounders,San Jose Earthquakes,3,0,3,1
+1953,27/07/2017,Philadelphia Union,Columbus Crew,3,0,3,1
+1954,29/07/2017,Atlanta United,Orlando City,1,1,0,0
+1955,30/07/2017,New England Revolution,Philadelphia Union,3,0,3,1
+1956,30/07/2017,New York Red Bulls,Montreal Impact,4,0,4,1
+1957,30/07/2017,FC Dallas,Vancouver Whitecaps,0,4,-4,-1
+1958,30/07/2017,Houston Dynamo,Portland Timbers,2,2,0,0
+1959,30/07/2017,Minnesota United,DC United,4,0,4,1
+1960,30/07/2017,Real Salt Lake,Columbus Crew,2,2,0,0
+1961,30/07/2017,San Jose Earthquakes,Colorado Rapids,1,0,1,1
+1962,30/07/2017,Sporting Kansas City,Chicago Fire,3,2,1,1
+1963,30/07/2017,Los Angeles Galaxy,Seattle Sounders,0,0,0,0
+1964,30/07/2017,Toronto FC,New York City,4,0,4,1
+1965,06/08/2017,DC United,Toronto FC,1,1,0,0
+1966,06/08/2017,Philadelphia Union,FC Dallas,3,1,2,1
+1967,06/08/2017,Montreal Impact,Orlando City,2,1,1,1
+1968,06/08/2017,Minnesota United,Seattle Sounders,0,4,-4,-1
+1969,06/08/2017,Chicago Fire,New England Revolution,4,1,3,1
+1970,06/08/2017,Colorado Rapids,Vancouver Whitecaps,2,2,0,0
+1971,06/08/2017,Real Salt Lake,Houston Dynamo,0,0,0,0
+1972,06/08/2017,San Jose Earthquakes,Columbus Crew,2,1,1,1
+1973,06/08/2017,Portland Timbers,Los Angeles Galaxy,3,1,2,1
+1974,06/08/2017,New York City,New York Red Bulls,3,2,1,1
+1975,07/08/2017,Sporting Kansas City,Atlanta United,1,1,0,0
+1976,12/08/2017,Seattle Sounders,Sporting Kansas City,1,0,1,1
+1977,12/08/2017,Toronto FC,Portland Timbers,4,1,3,1
+1978,13/08/2017,Columbus Crew,Chicago Fire,3,1,2,1
+1979,13/08/2017,New York Red Bulls,Orlando City,3,1,2,1
+1980,13/08/2017,FC Dallas,Colorado Rapids,0,0,0,0
+1981,13/08/2017,New England Revolution,Vancouver Whitecaps,1,0,1,1
+1982,13/08/2017,Philadelphia Union,Montreal Impact,0,3,-3,-1
+1983,13/08/2017,Houston Dynamo,San Jose Earthquakes,3,0,3,1
+1984,13/08/2017,Los Angeles Galaxy,New York City,0,2,-2,-1
+1985,14/08/2017,DC United,Real Salt Lake,0,1,-1,-1
+1986,17/08/2017,Montreal Impact,Chicago Fire,3,0,3,1
+1987,19/08/2017,Portland Timbers,New York Red Bulls,2,0,2,1
+1988,20/08/2017,Montreal Impact,Real Salt Lake,3,1,2,1
+1989,20/08/2017,Orlando City,Columbus Crew,1,1,0,0
+1990,20/08/2017,Chicago Fire,Toronto FC,1,3,-2,-1
+1991,20/08/2017,Sporting Kansas City,FC Dallas,2,0,2,1
+1992,20/08/2017,Colorado Rapids,DC United,0,1,-1,-1
+1993,20/08/2017,Vancouver Whitecaps,Houston Dynamo,2,1,1,1
+1994,20/08/2017,San Jose Earthquakes,Philadelphia Union,2,2,0,0
+1995,20/08/2017,New York City,New England Revolution,2,1,1,1
+1996,21/08/2017,Seattle Sounders,Minnesota United,2,1,1,1
+1997,24/08/2017,Columbus Crew,Los Angeles Galaxy,2,0,2,1
+1998,24/08/2017,DC United,Atlanta United,1,0,1,1
+1999,24/08/2017,FC Dallas,Houston Dynamo,3,3,0,0
+2000,24/08/2017,Toronto FC,Philadelphia Union,3,0,3,1
+2001,24/08/2017,Real Salt Lake,San Jose Earthquakes,4,0,4,1
+2002,24/08/2017,Vancouver Whitecaps,Seattle Sounders,1,1,0,0
+2003,24/08/2017,Portland Timbers,Colorado Rapids,2,1,1,1
+2004,26/08/2017,New York Red Bulls,New York City,1,1,0,0
+2005,27/08/2017,DC United,New England Revolution,1,0,1,1
+2006,27/08/2017,Philadelphia Union,Atlanta United,2,2,0,0
+2007,27/08/2017,Columbus Crew,FC Dallas,2,1,1,1
+2008,27/08/2017,Orlando City,Vancouver Whitecaps,1,2,-1,-1
+2009,27/08/2017,Chicago Fire,Minnesota United,1,2,-1,-1
+2010,27/08/2017,Real Salt Lake,Colorado Rapids,4,1,3,1
+2011,27/08/2017,Montreal Impact,Toronto FC,1,3,-2,-1
+2012,28/08/2017,Los Angeles Galaxy,San Jose Earthquakes,0,3,-3,-1
+2013,28/08/2017,Seattle Sounders,Portland Timbers,1,1,0,0
+2014,03/09/2017,Montreal Impact,Chicago Fire,0,1,-1,-1
+2015,03/09/2017,New England Revolution,Orlando City,4,0,4,1
+2016,03/09/2017,FC Dallas,New York Red Bulls,2,2,0,0
+2017,03/09/2017,Los Angeles Galaxy,Colorado Rapids,3,0,3,1
+2018,07/09/2017,New York City,Sporting Kansas City,1,0,1,1
+2019,09/09/2017,Chicago Fire,New York Red Bulls,1,1,0,0
+2020,09/09/2017,Toronto FC,San Jose Earthquakes,4,0,4,1
+2021,09/09/2017,New York City,Portland Timbers,0,1,-1,-1
+2022,10/09/2017,DC United,Orlando City,1,2,-1,-1
+2023,10/09/2017,New England Revolution,Montreal Impact,1,0,1,1
+2024,10/09/2017,Minnesota United,Philadelphia Union,1,1,0,0
+2025,10/09/2017,Houston Dynamo,Colorado Rapids,0,1,-1,-1
+2026,10/09/2017,Vancouver Whitecaps,Real Salt Lake,3,2,1,1
+2027,10/09/2017,Columbus Crew,Sporting Kansas City,1,1,0,0
+2028,10/09/2017,Atlanta United,FC Dallas,3,0,3,1
+2029,11/09/2017,Seattle Sounders,Los Angeles Galaxy,1,1,0,0
+2030,14/09/2017,Atlanta United,New England Revolution,7,0,7,1
+2031,14/09/2017,Vancouver Whitecaps,Minnesota United,3,0,3,1
+2032,16/09/2017,Atlanta United,Orlando City,3,3,0,0
+2033,17/09/2017,Vancouver Whitecaps,Columbus Crew,2,2,0,0
+2034,17/09/2017,Montreal Impact,Minnesota United,2,3,-1,-1
+2035,17/09/2017,FC Dallas,Seattle Sounders,0,0,0,0
+2036,17/09/2017,Chicago Fire,DC United,3,0,3,1
+2037,17/09/2017,Sporting Kansas City,New England Revolution,3,1,2,1
+2038,17/09/2017,Colorado Rapids,New York City,1,1,0,0
+2039,17/09/2017,Real Salt Lake,Portland Timbers,2,1,1,1
+2040,17/09/2017,Los Angeles Galaxy,Toronto FC,0,4,-4,-1
+2041,17/09/2017,San Jose Earthquakes,Houston Dynamo,1,0,1,1
+2042,17/09/2017,New York Red Bulls,Philadelphia Union,0,0,0,0
+2043,21/09/2017,Atlanta United,Los Angeles Galaxy,4,0,4,1
+2044,21/09/2017,Toronto FC,Montreal Impact,3,5,-2,-1
+2045,23/09/2017,New York City,Houston Dynamo,1,1,0,0
+2046,23/09/2017,New England Revolution,Toronto FC,2,1,1,1
+2047,24/09/2017,DC United,San Jose Earthquakes,4,0,4,1
+2048,24/09/2017,Philadelphia Union,Chicago Fire,3,1,2,1
+2049,24/09/2017,Columbus Crew,New York Red Bulls,3,2,1,1
+2050,24/09/2017,Minnesota United,FC Dallas,4,1,3,1
+2051,24/09/2017,Real Salt Lake,Seattle Sounders,2,0,2,1
+2052,24/09/2017,Vancouver Whitecaps,Colorado Rapids,2,1,1,1
+2053,24/09/2017,Sporting Kansas City,Los Angeles Galaxy,2,1,1,1
+2054,24/09/2017,Atlanta United,Montreal Impact,2,0,2,1
+2055,25/09/2017,Portland Timbers,Orlando City,3,0,3,1
+2056,28/09/2017,Atlanta United,Philadelphia Union,3,0,3,1
+2057,28/09/2017,Montreal Impact,New York City,0,1,-1,-1
+2058,28/09/2017,New York Red Bulls,DC United,3,3,0,0
+2059,28/09/2017,Orlando City,New England Revolution,6,1,5,1
+2060,28/09/2017,FC Dallas,Colorado Rapids,2,0,2,1
+2061,28/09/2017,Houston Dynamo,Los Angeles Galaxy,3,3,0,0
+2062,28/09/2017,San Jose Earthquakes,Chicago Fire,1,4,-3,-1
+2063,28/09/2017,Seattle Sounders,Vancouver Whitecaps,3,0,3,1
+2064,30/09/2017,Orlando City,FC Dallas,0,0,0,0
+2065,01/10/2017,Toronto FC,New York Red Bulls,4,2,2,1
+2066,01/10/2017,Columbus Crew,DC United,2,0,2,1
+2067,01/10/2017,New England Revolution,Atlanta United,0,0,0,0
+2068,01/10/2017,Chicago Fire,New York City,1,1,0,0
+2069,01/10/2017,Houston Dynamo,Minnesota United,2,1,1,1
+2070,01/10/2017,Colorado Rapids,Montreal Impact,2,1,1,1
+2071,01/10/2017,Sporting Kansas City,Vancouver Whitecaps,0,1,-1,-1
+2072,01/10/2017,Los Angeles Galaxy,Real Salt Lake,1,1,0,0
+2073,01/10/2017,San Jose Earthquakes,Portland Timbers,2,1,1,1
+2074,01/10/2017,Philadelphia Union,Seattle Sounders,2,0,2,1
+2075,04/10/2017,Atlanta United,Minnesota United,2,3,-1,-1
+2076,07/10/2017,New York Red Bulls,Vancouver Whitecaps,3,0,3,1
+2077,08/10/2017,Minnesota United,Sporting Kansas City,1,1,0,0
+2078,08/10/2017,Colorado Rapids,FC Dallas,1,1,0,0
+2079,12/10/2017,Houston Dynamo,Sporting Kansas City,2,1,1,1
+2080,15/10/2017,Chicago Fire,Philadelphia Union,3,2,1,1
+2081,15/10/2017,New England Revolution,New York City,2,1,1,1
+2082,15/10/2017,New York Red Bulls,Atlanta United,0,0,0,0
+2083,15/10/2017,Orlando City,Columbus Crew,0,1,-1,-1
+2084,15/10/2017,Toronto FC,Montreal Impact,1,0,1,1
+2085,16/10/2017,Colorado Rapids,Real Salt Lake,1,0,1,1
+2086,16/10/2017,Los Angeles Galaxy,Minnesota United,3,0,3,1
+2087,16/10/2017,Portland Timbers,DC United,4,0,4,1
+2088,16/10/2017,Seattle Sounders,FC Dallas,4,0,4,1
+2089,16/10/2017,Sporting Kansas City,Houston Dynamo,0,0,0,0
+2090,16/10/2017,Vancouver Whitecaps,San Jose Earthquakes,1,1,0,0
+2091,22/10/2017,Atlanta United,Toronto FC,2,2,0,0
+2092,22/10/2017,DC United,New York Red Bulls,1,2,-1,-1
+2093,22/10/2017,FC Dallas,Los Angeles Galaxy,5,1,4,1
+2094,22/10/2017,Houston Dynamo,Chicago Fire,3,0,3,1
+2095,22/10/2017,Montreal Impact,New England Revolution,2,3,-1,-1
+2096,22/10/2017,New York City,Columbus Crew,2,2,0,0
+2097,22/10/2017,Philadelphia Union,Orlando City,6,1,5,1
+2098,22/10/2017,Portland Timbers,Vancouver Whitecaps,2,1,1,1
+2099,22/10/2017,Real Salt Lake,Sporting Kansas City,2,1,1,1
+2100,22/10/2017,San Jose Earthquakes,Minnesota United,3,2,1,1
+2101,22/10/2017,Seattle Sounders,Colorado Rapids,3,0,3,1
+2102,26/10/2017,Chicago Fire,New York Red Bulls,0,4,-4,-1
+2103,26/10/2017,Vancouver Whitecaps,San Jose Earthquakes,5,0,5,1
+2104,27/10/2017,Atlanta United,Columbus Crew,0,0,0,0
+2105,27/10/2017,Houston Dynamo,Sporting Kansas City,0,0,0,0
+2106,30/10/2017,Vancouver Whitecaps,Seattle Sounders,0,0,0,0
+2107,30/10/2017,New York Red Bulls,Toronto FC,1,2,-1,-1
+2108,31/10/2017,Houston Dynamo,Portland Timbers,0,0,0,0
+2109,01/11/2017,Columbus Crew,New York City,4,1,3,1
+2110,03/11/2017,Seattle Sounders,Vancouver Whitecaps,2,0,2,1
+2111,05/11/2017,Toronto FC,New York Red Bulls,0,1,-1,-1
+2112,05/11/2017,New York City,Columbus Crew,2,0,2,1
+2113,06/11/2017,Portland Timbers,Houston Dynamo,1,2,-1,-1
+2114,22/11/2017,Columbus Crew,Toronto FC,0,0,0,0
+2115,22/11/2017,Houston Dynamo,Seattle Sounders,0,2,-2,-1
+2116,30/11/2017,Toronto FC,Columbus Crew,1,0,1,1
+2117,01/12/2017,Seattle Sounders,Houston Dynamo,3,0,3,1
+2118,09/12/2017,Toronto FC,Seattle Sounders,2,0,2,1
+2119,03/03/2018,Toronto FC,Columbus Crew,0,2,-2,-1
+2120,03/03/2018,Houston Dynamo,Atlanta United,4,0,4,1
+2121,04/03/2018,Philadelphia Union,New England Revolution,2,0,2,1
+2122,04/03/2018,Orlando City,DC United,1,1,0,0
+2123,04/03/2018,FC Dallas,Real Salt Lake,1,1,0,0
+2124,04/03/2018,San Jose Earthquakes,Minnesota United,3,2,1,1
+2125,04/03/2018,Seattle Sounders,Los Angeles FC,0,1,-1,-1
+2126,04/03/2018,Vancouver Whitecaps,Montreal Impact,2,1,1,1
+2127,05/03/2018,Sporting Kansas City,New York City,0,2,-2,-1
+2128,05/03/2018,Los Angeles Galaxy,Portland Timbers,2,1,1,1
+2129,10/03/2018,Columbus Crew,Montreal Impact,3,2,1,1
+2130,10/03/2018,New England Revolution,Colorado Rapids,2,1,1,1
+2131,10/03/2018,Real Salt Lake,Los Angeles FC,1,5,-4,-1
+2132,10/03/2018,Chicago Fire,Sporting Kansas City,3,4,-1,-1
+2133,10/03/2018,Houston Dynamo,Vancouver Whitecaps,1,2,-1,-1
+2134,11/03/2018,New York Red Bulls,Portland Timbers,4,0,4,1
+2135,11/03/2018,Orlando City,Minnesota United,1,2,-1,-1
+2136,11/03/2018,Atlanta United,DC United,3,1,2,1
+2137,11/03/2018,New York City,Los Angeles Galaxy,2,1,1,1
+2138,17/03/2018,DC United,Houston Dynamo,2,2,0,0
+2139,17/03/2018,Minnesota United,Chicago Fire,2,1,1,1
+2140,17/03/2018,Philadelphia Union,Columbus Crew,0,0,0,0
+2141,17/03/2018,Montreal Impact,Toronto FC,1,0,1,1
+2142,17/03/2018,New York City,Orlando City,2,0,2,1
+2143,17/03/2018,Atlanta United,Vancouver Whitecaps,4,1,3,1
+2144,18/03/2018,Sporting Kansas City,San Jose Earthquakes,3,2,1,1
+2145,18/03/2018,Real Salt Lake,New York Red Bulls,1,0,1,1
+2146,18/03/2018,FC Dallas,Seattle Sounders,3,0,3,1
+2147,24/03/2018,New England Revolution,New York City,2,2,0,0
+2148,24/03/2018,FC Dallas,Portland Timbers,1,1,0,0
+2149,24/03/2018,Columbus Crew,DC United,3,1,2,1
+2150,24/03/2018,New York Red Bulls,Minnesota United,3,0,3,1
+2151,25/03/2018,Colorado Rapids,Sporting Kansas City,2,2,0,0
+2152,25/03/2018,Vancouver Whitecaps,Los Angeles Galaxy,0,0,0,0
+2153,31/03/2018,Toronto FC,Real Salt Lake,3,1,2,1
+2154,31/03/2018,Orlando City,New York Red Bulls,4,3,1,1
+2155,31/03/2018,Columbus Crew,Vancouver Whitecaps,1,2,-1,-1
+2156,31/03/2018,Los Angeles Galaxy,Los Angeles FC,4,3,1,1
+2157,31/03/2018,Chicago Fire,Portland Timbers,2,2,0,0
+2158,01/04/2018,Minnesota United,Atlanta United,0,1,-1,-1
+2159,01/04/2018,San Jose Earthquakes,New York City,1,2,-1,-1
+2160,01/04/2018,Houston Dynamo,New England Revolution,0,2,-2,-1
+2161,01/04/2018,Sporting Kansas City,DC United,1,0,1,1
+2162,01/04/2018,Colorado Rapids,Philadelphia Union,3,0,3,1
+2163,01/04/2018,Seattle Sounders,Montreal Impact,0,1,-1,-1
+2164,07/04/2018,New England Revolution,Montreal Impact,4,0,4,1
+2165,07/04/2018,Atlanta United,Los Angeles FC,5,0,5,1
+2166,08/04/2018,Philadelphia Union,San Jose Earthquakes,1,1,0,0
+2167,08/04/2018,FC Dallas,Colorado Rapids,1,1,0,0
+2168,08/04/2018,Chicago Fire,Columbus Crew,1,0,1,1
+2169,08/04/2018,Real Salt Lake,Vancouver Whitecaps,2,1,1,1
+2170,08/04/2018,Orlando City,Portland Timbers,3,2,1,1
+2171,09/04/2018,Los Angeles Galaxy,Sporting Kansas City,0,2,-2,-1
+2172,12/04/2018,New York City,Real Salt Lake,4,0,4,1
+2173,14/04/2018,Philadelphia Union,Orlando City,0,2,-2,-1
+2174,14/04/2018,Vancouver Whitecaps,Los Angeles FC,0,2,-2,-1
+2175,14/04/2018,New York Red Bulls,Montreal Impact,3,1,2,1
+2176,14/04/2018,Colorado Rapids,Toronto FC,2,0,2,1
+2177,14/04/2018,Chicago Fire,Los Angeles Galaxy,0,1,-1,-1
+2178,15/04/2018,DC United,Columbus Crew,1,0,1,1
+2179,15/04/2018,New England Revolution,FC Dallas,0,1,-1,-1
+2180,15/04/2018,Portland Timbers,Minnesota United,3,2,1,1
+2181,15/04/2018,San Jose Earthquakes,Houston Dynamo,2,2,0,0
+2182,15/04/2018,Sporting Kansas City,Seattle Sounders,2,2,0,0
+2183,15/04/2018,Atlanta United,New York City,2,2,0,0
+2184,21/04/2018,Sporting Kansas City,Vancouver Whitecaps,6,0,6,1
+2185,21/04/2018,Montreal Impact,Los Angeles FC,3,5,-2,-1
+2186,21/04/2018,Houston Dynamo,Toronto FC,5,1,4,1
+2187,21/04/2018,New York Red Bulls,Chicago Fire,1,2,-1,-1
+2188,22/04/2018,Columbus Crew,New England Revolution,2,2,0,0
+2189,22/04/2018,Orlando City,San Jose Earthquakes,3,2,1,1
+2190,22/04/2018,FC Dallas,Philadelphia Union,2,0,2,1
+2191,22/04/2018,Real Salt Lake,Colorado Rapids,3,0,3,1
+2192,22/04/2018,Los Angeles Galaxy,Atlanta United,0,2,-2,-1
+2193,22/04/2018,Seattle Sounders,Minnesota United,3,1,2,1
+2194,22/04/2018,Portland Timbers,New York City,3,0,3,1
+2195,28/04/2018,Vancouver Whitecaps,Real Salt Lake,2,0,2,1
+2196,28/04/2018,Atlanta United,Montreal Impact,4,1,3,1
+2197,28/04/2018,Toronto FC,Chicago Fire,2,2,0,0
+2198,28/04/2018,Philadelphia Union,DC United,3,2,1,1
+2199,29/04/2018,Columbus Crew,San Jose Earthquakes,2,1,1,1
+2200,29/04/2018,New England Revolution,Sporting Kansas City,1,0,1,1
+2201,29/04/2018,Minnesota United,Houston Dynamo,2,1,1,1
+2202,29/04/2018,Los Angeles Galaxy,New York Red Bulls,2,3,-1,-1
+2203,29/04/2018,Colorado Rapids,Orlando City,1,2,-1,-1
+2204,29/04/2018,New York City,FC Dallas,3,1,2,1
+2205,30/04/2018,Los Angeles FC,Seattle Sounders,1,0,1,1
+2206,05/05/2018,Toronto FC,Philadelphia Union,3,0,3,1
+2207,05/05/2018,Montreal Impact,New England Revolution,4,2,2,1
+2208,05/05/2018,New York Red Bulls,New York City,4,0,4,1
+2209,05/05/2018,Minnesota United,Vancouver Whitecaps,1,0,1,1
+2210,05/05/2018,Los Angeles FC,FC Dallas,1,1,0,0
+2211,05/05/2018,Seattle Sounders,Columbus Crew,0,0,0,0
+2212,06/05/2018,Chicago Fire,Atlanta United,1,2,-1,-1
+2213,06/05/2018,Houston Dynamo,Los Angeles Galaxy,3,2,1,1
+2214,06/05/2018,Sporting Kansas City,Colorado Rapids,1,0,1,1
+2215,06/05/2018,San Jose Earthquakes,Portland Timbers,0,1,-1,-1
+2216,06/05/2018,Orlando City,Real Salt Lake,3,1,2,1
+2217,10/05/2018,Atlanta United,Sporting Kansas City,0,2,-2,-1
+2218,10/05/2018,Columbus Crew,Philadelphia Union,1,0,1,1
+2219,10/05/2018,Toronto FC,Seattle Sounders,1,2,-1,-1
+2220,10/05/2018,Chicago Fire,Montreal Impact,1,0,1,1
+2221,10/05/2018,Los Angeles FC,Minnesota United,2,0,2,1
+2222,12/05/2018,Vancouver Whitecaps,Houston Dynamo,2,2,0,0
+2223,12/05/2018,Minnesota United,San Jose Earthquakes,1,3,-2,-1
+2224,12/05/2018,Montreal Impact,Philadelphia Union,0,2,-2,-1
+2225,12/05/2018,FC Dallas,Los Angeles Galaxy,3,2,1,1
+2226,13/05/2018,Columbus Crew,Chicago Fire,3,0,3,1
+2227,13/05/2018,New England Revolution,Toronto FC,3,2,1,1
+2228,13/05/2018,Colorado Rapids,New York Red Bulls,1,2,-1,-1
+2229,13/05/2018,Real Salt Lake,DC United,3,2,1,1
+2230,13/05/2018,Portland Timbers,Seattle Sounders,1,0,1,1
+2231,13/05/2018,Orlando City,Atlanta United,1,2,-1,-1
+2232,14/05/2018,Los Angeles FC,New York City,2,2,0,0
+2233,17/05/2018,Vancouver Whitecaps,San Jose Earthquakes,2,2,0,0
+2234,19/05/2018,Toronto FC,Orlando City,2,1,1,1
+2235,19/05/2018,New York City,Colorado Rapids,4,0,4,1
+2236,19/05/2018,Portland Timbers,Los Angeles FC,2,1,1,1
+2237,19/05/2018,FC Dallas,Vancouver Whitecaps,2,2,0,0
+2238,20/05/2018,New England Revolution,Columbus Crew,0,1,-1,-1
+2239,20/05/2018,Philadelphia Union,Real Salt Lake,4,1,3,1
+2240,20/05/2018,San Jose Earthquakes,DC United,1,3,-2,-1
+2241,20/05/2018,Minnesota United,Sporting Kansas City,1,1,0,0
+2242,20/05/2018,Chicago Fire,Houston Dynamo,2,3,-1,-1
+2243,21/05/2018,Atlanta United,New York Red Bulls,1,3,-2,-1
+2244,21/05/2018,Montreal Impact,Los Angeles Galaxy,0,1,-1,-1
+2245,26/05/2018,Toronto FC,FC Dallas,0,1,-1,-1
+2246,26/05/2018,Houston Dynamo,New York City,3,1,2,1
+2247,26/05/2018,Los Angeles Galaxy,San Jose Earthquakes,1,0,1,1
+2248,26/05/2018,Seattle Sounders,Real Salt Lake,0,1,-1,-1
+2249,26/05/2018,Vancouver Whitecaps,New England Revolution,3,3,0,0
+2250,27/05/2018,New York Red Bulls,Philadelphia Union,0,0,0,0
+2251,27/05/2018,Orlando City,Chicago Fire,1,2,-1,-1
+2252,27/05/2018,Minnesota United,Montreal Impact,2,0,2,1
+2253,27/05/2018,Colorado Rapids,Portland Timbers,2,3,-1,-1
+2254,27/05/2018,Los Angeles FC,DC United,1,1,0,0
+2255,27/05/2018,Sporting Kansas City,Columbus Crew,0,0,0,0
+2256,31/05/2018,New England Revolution,Atlanta United,1,1,0,0
+2257,31/05/2018,Philadelphia Union,Chicago Fire,3,1,2,1
+2258,31/05/2018,Real Salt Lake,Houston Dynamo,2,1,1,1
+2259,31/05/2018,Los Angeles Galaxy,FC Dallas,2,3,-1,-1
+2260,02/06/2018,Colorado Rapids,Vancouver Whitecaps,1,2,-1,-1
+2261,02/06/2018,Portland Timbers,Los Angeles Galaxy,1,1,0,0
+2262,03/06/2018,Atlanta United,Philadelphia Union,3,1,2,1
+2263,03/06/2018,Columbus Crew,Toronto FC,3,3,0,0
+2264,03/06/2018,Montreal Impact,Houston Dynamo,1,0,1,1
+2265,03/06/2018,New England Revolution,New York Red Bulls,2,1,1,1
+2266,03/06/2018,New York City,Orlando City,3,0,3,1
+2267,03/06/2018,FC Dallas,Los Angeles FC,2,1,1,1
+2268,03/06/2018,Chicago Fire,San Jose Earthquakes,2,1,1,1
+2269,03/06/2018,Real Salt Lake,Seattle Sounders,2,0,2,1
+2270,04/06/2018,Sporting Kansas City,Minnesota United,4,1,3,1
+2271,09/06/2018,Philadelphia Union,Toronto FC,0,2,-2,-1
+2272,09/06/2018,New York City,Atlanta United,1,1,0,0
+2273,09/06/2018,Columbus Crew,New York Red Bulls,1,1,0,0
+2274,10/06/2018,Vancouver Whitecaps,Orlando City,5,2,3,1
+2275,10/06/2018,FC Dallas,Montreal Impact,2,0,2,1
+2276,10/06/2018,Chicago Fire,New England Revolution,1,1,0,0
+2277,10/06/2018,Houston Dynamo,Colorado Rapids,2,0,2,1
+2278,10/06/2018,Seattle Sounders,DC United,2,1,1,1
+2279,10/06/2018,Los Angeles Galaxy,Real Salt Lake,3,0,3,1
+2280,10/06/2018,Portland Timbers,Sporting Kansas City,0,0,0,0
+2281,10/06/2018,San Jose Earthquakes,Los Angeles FC,3,4,-1,-1
+2282,14/06/2018,Columbus Crew,Atlanta United,0,2,-2,-1
+2283,14/06/2018,Montreal Impact,Orlando City,3,0,3,1
+2284,14/06/2018,New York Red Bulls,Seattle Sounders,2,1,1,1
+2285,14/06/2018,Toronto FC,DC United,4,4,0,0
+2286,14/06/2018,Colorado Rapids,Chicago Fire,2,2,0,0
+2287,14/06/2018,San Jose Earthquakes,New England Revolution,2,2,0,0
+2288,23/06/2018,Philadelphia Union,Vancouver Whitecaps,4,0,4,1
+2289,23/06/2018,New York Red Bulls,FC Dallas,3,0,3,1
+2290,24/06/2018,Orlando City,Montreal Impact,0,2,-2,-1
+2291,24/06/2018,Sporting Kansas City,Houston Dynamo,3,2,1,1
+2292,24/06/2018,Colorado Rapids,Minnesota United,3,2,1,1
+2293,24/06/2018,Real Salt Lake,San Jose Earthquakes,1,1,0,0
+2294,24/06/2018,Seattle Sounders,Chicago Fire,1,1,0,0
+2295,24/06/2018,Los Angeles FC,Columbus Crew,2,0,2,1
+2296,24/06/2018,Atlanta United,Portland Timbers,1,1,0,0
+2297,24/06/2018,New York City,Toronto FC,2,1,1,1
+2298,30/06/2018,Minnesota United,FC Dallas,0,1,-1,-1
+2299,30/06/2018,Seattle Sounders,Portland Timbers,2,3,-1,-1
+2300,01/07/2018,Atlanta United,Orlando City,4,0,4,1
+2301,01/07/2018,Montreal Impact,Sporting Kansas City,2,0,2,1
+2302,01/07/2018,Columbus Crew,Real Salt Lake,2,1,1,1
+2303,01/07/2018,New England Revolution,DC United,3,2,1,1
+2304,01/07/2018,Chicago Fire,New York City,3,2,1,1
+2305,01/07/2018,Los Angeles FC,Philadelphia Union,4,1,3,1
+2306,01/07/2018,San Jose Earthquakes,Los Angeles Galaxy,3,3,0,0
+2307,01/07/2018,Toronto FC,New York Red Bulls,0,1,-1,-1
+2308,02/07/2018,Vancouver Whitecaps,Colorado Rapids,0,1,-1,-1
+2309,04/07/2018,Houston Dynamo,Los Angeles FC,2,2,0,0
+2310,05/07/2018,Minnesota United,Toronto FC,4,3,1,1
+2311,05/07/2018,FC Dallas,Atlanta United,3,2,1,1
+2312,05/07/2018,Colorado Rapids,Seattle Sounders,1,2,-1,-1
+2313,05/07/2018,Real Salt Lake,Sporting Kansas City,4,2,2,1
+2314,05/07/2018,Los Angeles Galaxy,DC United,2,2,0,0
+2315,08/07/2018,Philadelphia Union,Atlanta United,0,2,-2,-1
+2316,08/07/2018,Montreal Impact,Colorado Rapids,2,1,1,1
+2317,08/07/2018,New England Revolution,Seattle Sounders,0,0,0,0
+2318,08/07/2018,Sporting Kansas City,Toronto FC,2,2,0,0
+2319,08/07/2018,Houston Dynamo,Minnesota United,3,0,3,1
+2320,08/07/2018,Real Salt Lake,FC Dallas,2,0,2,1
+2321,08/07/2018,Los Angeles Galaxy,Columbus Crew,4,0,4,1
+2322,08/07/2018,Vancouver Whitecaps,Chicago Fire,3,2,1,1
+2323,08/07/2018,Los Angeles FC,Orlando City,4,1,3,1
+2324,08/07/2018,Portland Timbers,San Jose Earthquakes,2,1,1,1
+2325,09/07/2018,New York City,New York Red Bulls,1,0,1,1
+2326,12/07/2018,New York City,Montreal Impact,3,0,3,1
+2327,12/07/2018,Chicago Fire,Philadelphia Union,3,4,-1,-1
+2328,15/07/2018,New York City,Columbus Crew,2,0,2,1
+2329,15/07/2018,New York Red Bulls,Sporting Kansas City,3,2,1,1
+2330,15/07/2018,Montreal Impact,San Jose Earthquakes,2,0,2,1
+2331,15/07/2018,New England Revolution,Los Angeles Galaxy,2,3,-1,-1
+2332,15/07/2018,DC United,Vancouver Whitecaps,3,1,2,1
+2333,15/07/2018,FC Dallas,Chicago Fire,3,1,2,1
+2334,15/07/2018,Minnesota United,Real Salt Lake,3,2,1,1
+2335,15/07/2018,Orlando City,Toronto FC,2,1,1,1
+2336,15/07/2018,Colorado Rapids,Houston Dynamo,0,0,0,0
+2337,15/07/2018,Atlanta United,Seattle Sounders,1,1,0,0
+2338,15/07/2018,Los Angeles FC,Portland Timbers,0,0,0,0
+2339,19/07/2018,Minnesota United,New England Revolution,2,1,1,1
+2340,21/07/2018,Atlanta United,DC United,3,1,2,1
+2341,21/07/2018,Seattle Sounders,Vancouver Whitecaps,2,0,2,1
+2342,22/07/2018,Chicago Fire,Toronto FC,1,2,-1,-1
+2343,22/07/2018,New York Red Bulls,New England Revolution,2,0,2,1
+2344,22/07/2018,Philadelphia Union,Los Angeles Galaxy,1,3,-2,-1
+2345,22/07/2018,Columbus Crew,Orlando City,3,2,1,1
+2346,22/07/2018,Houston Dynamo,FC Dallas,1,1,0,0
+2347,22/07/2018,Real Salt Lake,Colorado Rapids,2,2,0,0
+2348,22/07/2018,Portland Timbers,Montreal Impact,2,2,0,0
+2349,23/07/2018,Minnesota United,Los Angeles FC,5,1,4,1
+2350,26/07/2018,DC United,New York Red Bulls,0,1,-1,-1
+2351,26/07/2018,Houston Dynamo,Philadelphia Union,1,3,-2,-1
+2352,26/07/2018,San Jose Earthquakes,Seattle Sounders,0,1,-1,-1
+2353,27/07/2018,Orlando City,New York City,0,2,-2,-1
+2354,27/07/2018,Los Angeles FC,Los Angeles Galaxy,2,2,0,0
+2355,29/07/2018,Montreal Impact,Atlanta United,1,2,-1,-1
+2356,29/07/2018,New York Red Bulls,Columbus Crew,2,3,-1,-1
+2357,29/07/2018,Toronto FC,Chicago Fire,3,0,3,1
+2358,29/07/2018,DC United,Colorado Rapids,2,1,1,1
+2359,29/07/2018,Sporting Kansas City,FC Dallas,2,3,-1,-1
+2360,29/07/2018,Vancouver Whitecaps,Minnesota United,4,2,2,1
+2361,29/07/2018,San Jose Earthquakes,Real Salt Lake,0,0,0,0
+2362,29/07/2018,Portland Timbers,Houston Dynamo,2,1,1,1
+2363,29/07/2018,Seattle Sounders,New York City,3,1,2,1
+2364,30/07/2018,Los Angeles Galaxy,Orlando City,4,3,1,1
+2365,04/08/2018,Atlanta United,Toronto FC,2,2,0,0
+2366,05/08/2018,Montreal Impact,DC United,1,1,0,0
+2367,05/08/2018,Orlando City,New England Revolution,3,3,0,0
+2368,05/08/2018,FC Dallas,San Jose Earthquakes,1,3,-2,-1
+2369,05/08/2018,Minnesota United,Seattle Sounders,1,2,-1,-1
+2370,05/08/2018,New York City,Vancouver Whitecaps,2,2,0,0
+2371,05/08/2018,Colorado Rapids,Los Angeles Galaxy,2,1,1,1
+2372,05/08/2018,Houston Dynamo,Sporting Kansas City,0,1,-1,-1
+2373,05/08/2018,Real Salt Lake,Chicago Fire,2,1,1,1
+2374,05/08/2018,Portland Timbers,Philadelphia Union,3,0,3,1
+2375,05/08/2018,New York Red Bulls,Los Angeles FC,2,1,1,1
+2376,12/08/2018,Columbus Crew,Houston Dynamo,1,0,1,1
+2377,12/08/2018,New England Revolution,Philadelphia Union,2,3,-1,-1
+2378,12/08/2018,Chicago Fire,New York Red Bulls,0,1,-1,-1
+2379,12/08/2018,Colorado Rapids,San Jose Earthquakes,2,1,1,1
+2380,12/08/2018,Real Salt Lake,Montreal Impact,1,1,0,0
+2381,12/08/2018,Los Angeles FC,Sporting Kansas City,0,2,-2,-1
+2382,12/08/2018,Los Angeles Galaxy,Minnesota United,2,2,0,0
+2383,12/08/2018,Portland Timbers,Vancouver Whitecaps,1,2,-1,-1
+2384,12/08/2018,Toronto FC,New York City,2,3,-1,-1
+2385,13/08/2018,DC United,Orlando City,3,2,1,1
+2386,13/08/2018,Seattle Sounders,FC Dallas,2,1,1,1
+2387,15/08/2018,Los Angeles Galaxy,Colorado Rapids,2,2,0,0
+2388,16/08/2018,DC United,Portland Timbers,4,1,3,1
+2389,16/08/2018,Los Angeles FC,Real Salt Lake,2,0,2,1
+2390,18/08/2018,Seattle Sounders,Los Angeles Galaxy,5,0,5,1
+2391,19/08/2018,Philadelphia Union,New York City,2,0,2,1
+2392,19/08/2018,Vancouver Whitecaps,New York Red Bulls,2,2,0,0
+2393,19/08/2018,Montreal Impact,Chicago Fire,2,1,1,1
+2394,19/08/2018,FC Dallas,Minnesota United,2,0,2,1
+2395,19/08/2018,Sporting Kansas City,Portland Timbers,3,0,3,1
+2396,19/08/2018,Houston Dynamo,Real Salt Lake,1,2,-1,-1
+2397,19/08/2018,San Jose Earthquakes,Toronto FC,1,1,0,0
+2398,19/08/2018,Atlanta United,Columbus Crew,3,1,2,1
+2399,20/08/2018,DC United,New England Revolution,2,0,2,1
+2400,20/08/2018,Los Angeles FC,Colorado Rapids,2,0,2,1
+2401,23/08/2018,New York City,New York Red Bulls,1,1,0,0
+2402,24/08/2018,Chicago Fire,Columbus Crew,1,1,0,0
+2403,24/08/2018,Houston Dynamo,FC Dallas,1,1,0,0
+2404,25/08/2018,Orlando City,Atlanta United,1,2,-1,-1
+2405,25/08/2018,Los Angeles Galaxy,Los Angeles FC,1,1,0,0
+2406,26/08/2018,Philadelphia Union,New England Revolution,1,0,1,1
+2407,26/08/2018,Toronto FC,Montreal Impact,3,1,2,1
+2408,26/08/2018,Sporting Kansas City,Minnesota United,2,0,2,1
+2409,26/08/2018,Colorado Rapids,Real Salt Lake,0,6,-6,-1
+2410,26/08/2018,San Jose Earthquakes,Vancouver Whitecaps,2,3,-1,-1
+2411,27/08/2018,New York Red Bulls,DC United,1,0,1,1
+2412,27/08/2018,Portland Timbers,Seattle Sounders,0,1,-1,-1
+2413,30/08/2018,DC United,Philadelphia Union,0,2,-2,-1
+2414,30/08/2018,New York Red Bulls,Houston Dynamo,1,0,1,1
+2415,30/08/2018,Portland Timbers,Toronto FC,2,0,2,1
+2416,30/08/2018,San Jose Earthquakes,FC Dallas,4,3,1,1
+2417,01/09/2018,Seattle Sounders,Sporting Kansas City,3,1,2,1
+2418,02/09/2018,Montreal Impact,New York Red Bulls,3,0,3,1
+2419,02/09/2018,New England Revolution,Portland Timbers,1,1,0,0
+2420,02/09/2018,Orlando City,Philadelphia Union,2,2,0,0
+2421,02/09/2018,Columbus Crew,New York City,2,1,1,1
+2422,02/09/2018,FC Dallas,Houston Dynamo,4,2,2,1
+2423,02/09/2018,Toronto FC,Los Angeles FC,2,4,-2,-1
+2424,02/09/2018,Real Salt Lake,Los Angeles Galaxy,6,2,4,1
+2425,02/09/2018,Vancouver Whitecaps,San Jose Earthquakes,2,1,1,1
+2426,03/09/2018,DC United,Atlanta United,3,1,2,1
+2427,06/09/2018,New York City,New England Revolution,0,1,-1,-1
+2428,08/09/2018,New York City,DC United,1,1,0,0
+2429,09/09/2018,Sporting Kansas City,Orlando City,1,0,1,1
+2430,09/09/2018,Portland Timbers,Colorado Rapids,2,0,2,1
+2431,13/09/2018,DC United,Minnesota United,2,1,1,1
+2432,15/09/2018,Colorado Rapids,Atlanta United,0,3,-3,-1
+2433,16/09/2018,Philadelphia Union,Montreal Impact,1,4,-3,-1
+2434,16/09/2018,Toronto FC,Los Angeles Galaxy,5,3,2,1
+2435,16/09/2018,FC Dallas,Columbus Crew,0,0,0,0
+2436,16/09/2018,Houston Dynamo,Portland Timbers,4,1,3,1
+2437,16/09/2018,Real Salt Lake,Minnesota United,1,1,0,0
+2438,16/09/2018,Vancouver Whitecaps,Seattle Sounders,1,2,-1,-1
+2439,16/09/2018,Los Angeles FC,New England Revolution,1,1,0,0
+2440,16/09/2018,San Jose Earthquakes,Sporting Kansas City,1,5,-4,-1
+2441,16/09/2018,DC United,New York Red Bulls,3,3,0,0
+2442,16/09/2018,Chicago Fire,Orlando City,4,0,4,1
+2443,20/09/2018,Portland Timbers,Columbus Crew,3,2,1,1
+2444,20/09/2018,San Jose Earthquakes,Atlanta United,3,4,-1,-1
+2445,20/09/2018,Seattle Sounders,Philadelphia Union,0,1,-1,-1
+2446,22/09/2018,Los Angeles FC,San Jose Earthquakes,2,0,2,1
+2447,22/09/2018,New York Red Bulls,Toronto FC,2,0,2,1
+2448,23/09/2018,Atlanta United,Real Salt Lake,2,0,2,1
+2449,23/09/2018,Columbus Crew,Colorado Rapids,2,1,1,1
+2450,23/09/2018,Montreal Impact,New York City,1,1,0,0
+2451,23/09/2018,New England Revolution,Chicago Fire,2,2,0,0
+2452,23/09/2018,Orlando City,Houston Dynamo,0,0,0,0
+2453,23/09/2018,Minnesota United,Portland Timbers,3,2,1,1
+2454,23/09/2018,Philadelphia Union,Sporting Kansas City,2,0,2,1
+2455,24/09/2018,Los Angeles Galaxy,Seattle Sounders,3,0,3,1
+2456,24/09/2018,Vancouver Whitecaps,FC Dallas,1,2,-1,-1
+2457,27/09/2018,New York City,Chicago Fire,2,0,2,1
+2458,29/09/2018,Chicago Fire,Los Angeles FC,3,1,2,1
+2459,29/09/2018,Seattle Sounders,Colorado Rapids,4,0,4,1
+2460,30/09/2018,DC United,Montreal Impact,5,0,5,1
+2461,30/09/2018,Columbus Crew,Philadelphia Union,0,0,0,0
+2462,30/09/2018,Toronto FC,New England Revolution,4,1,3,1
+2463,30/09/2018,Minnesota United,New York City,2,1,1,1
+2464,30/09/2018,Houston Dynamo,San Jose Earthquakes,3,2,1,1
+2465,30/09/2018,Los Angeles Galaxy,Vancouver Whitecaps,3,0,3,1
+2466,30/09/2018,Portland Timbers,FC Dallas,0,0,0,0
+2467,30/09/2018,New York Red Bulls,Atlanta United,2,0,2,1
+2468,30/09/2018,Sporting Kansas City,Real Salt Lake,1,1,0,0
+2469,06/10/2018,Montreal Impact,Columbus Crew,3,0,3,1
+2470,06/10/2018,Atlanta United,New England Revolution,2,1,1,1
+2471,06/10/2018,Toronto FC,Vancouver Whitecaps,1,2,-1,-1
+2472,07/10/2018,Philadelphia Union,Minnesota United,5,1,4,1
+2473,07/10/2018,FC Dallas,Orlando City,2,0,2,1
+2474,07/10/2018,Sporting Kansas City,Los Angeles Galaxy,1,1,0,0
+2475,07/10/2018,Colorado Rapids,Los Angeles FC,0,3,-3,-1
+2476,07/10/2018,Real Salt Lake,Portland Timbers,1,4,-3,-1
+2477,07/10/2018,San Jose Earthquakes,New York Red Bulls,1,3,-2,-1
+2478,07/10/2018,DC United,Chicago Fire,2,1,1,1
+2479,09/10/2018,Seattle Sounders,Houston Dynamo,4,1,3,1
+2480,13/10/2018,Los Angeles FC,Houston Dynamo,4,2,2,1
+2481,13/10/2018,Minnesota United,Colorado Rapids,0,2,-2,-1
+2482,13/10/2018,DC United,FC Dallas,1,0,1,1
+2483,14/10/2018,New England Revolution,Orlando City,2,0,2,1
+2484,18/10/2018,DC United,Toronto FC,1,0,1,1
+2485,18/10/2018,Orlando City,Seattle Sounders,1,2,-1,-1
+2486,18/10/2018,Vancouver Whitecaps,Sporting Kansas City,1,4,-3,-1
+2487,19/10/2018,Real Salt Lake,New England Revolution,4,1,3,1
+2488,21/10/2018,Atlanta United,Chicago Fire,2,1,1,1
+2489,21/10/2018,DC United,New York City,3,1,2,1
+2490,21/10/2018,Montreal Impact,Toronto FC,2,0,2,1
+2491,21/10/2018,Orlando City,Columbus Crew,2,1,1,1
+2492,21/10/2018,Philadelphia Union,New York Red Bulls,0,1,-1,-1
+2493,21/10/2018,FC Dallas,Sporting Kansas City,0,3,-3,-1
+2494,21/10/2018,Houston Dynamo,Seattle Sounders,2,3,-1,-1
+2495,21/10/2018,Los Angeles FC,Vancouver Whitecaps,2,2,0,0
+2496,21/10/2018,Minnesota United,Los Angeles Galaxy,1,3,-2,-1
+2497,21/10/2018,Portland Timbers,Real Salt Lake,3,0,3,1
+2498,21/10/2018,San Jose Earthquakes,Colorado Rapids,0,0,0,0
+2499,28/10/2018,Chicago Fire,DC United,0,0,0,0
+2500,28/10/2018,Colorado Rapids,FC Dallas,2,1,1,1
+2501,28/10/2018,Columbus Crew,Minnesota United,3,2,1,1
+2502,28/10/2018,Los Angeles Galaxy,Houston Dynamo,2,3,-1,-1
+2503,28/10/2018,New England Revolution,Montreal Impact,1,0,1,1
+2504,28/10/2018,New York City,Philadelphia Union,3,1,2,1
+2505,28/10/2018,New York Red Bulls,Orlando City,1,0,1,1
+2506,28/10/2018,Seattle Sounders,San Jose Earthquakes,2,1,1,1
+2507,28/10/2018,Sporting Kansas City,Los Angeles FC,2,1,1,1
+2508,28/10/2018,Toronto FC,Atlanta United,4,1,3,1
+2509,28/10/2018,Vancouver Whitecaps,Portland Timbers,2,1,1,1
+2510,31/10/2018,New York City,Philadelphia Union,3,1,2,1
+2511,01/11/2018,FC Dallas,Portland Timbers,1,2,-1,-1
+2512,02/11/2018,DC United,Columbus Crew,1,1,0,0
+2513,02/11/2018,Los Angeles FC,Real Salt Lake,2,3,-1,-1
+2514,04/11/2018,Columbus Crew,New York Red Bulls,1,0,1,1
+2515,04/11/2018,Portland Timbers,Seattle Sounders,2,1,1,1
+2516,05/11/2018,New York City,Atlanta United,0,1,-1,-1
+2517,05/11/2018,Real Salt Lake,Sporting Kansas City,1,1,0,0
+2518,09/11/2018,Seattle Sounders,Portland Timbers,2,1,1,1
+2519,11/11/2018,Sporting Kansas City,Real Salt Lake,4,2,2,1
+2520,11/11/2018,Atlanta United,New York City,3,1,2,1
+2521,12/11/2018,New York Red Bulls,Columbus Crew,3,0,3,1
+2522,25/11/2018,Atlanta United,New York Red Bulls,3,0,3,1
+2523,26/11/2018,Portland Timbers,Sporting Kansas City,0,0,0,0
+2524,30/11/2018,New York Red Bulls,Atlanta United,1,0,1,1
+2525,30/11/2018,Sporting Kansas City,Portland Timbers,2,3,-1,-1
+2526,09/12/2018,Atlanta United,Portland Timbers,2,0,2,1
+2527,02/03/2019,Philadelphia Union,Toronto FC,1,3,-2,-1
+2528,02/03/2019,Orlando City,New York City,2,2,0,0
+2529,02/03/2019,Columbus Crew,New York Red Bulls,1,1,0,0
+2530,02/03/2019,FC Dallas,New England Revolution,1,1,0,0
+2531,02/03/2019,Colorado Rapids,Portland Timbers,3,3,0,0
+2532,02/03/2019,Houston Dynamo,Real Salt Lake,1,1,0,0
+2533,02/03/2019,Vancouver Whitecaps,Minnesota United,2,3,-1,-1
+2534,03/03/2019,Los Angeles Galaxy,Chicago Fire,2,1,1,1
+2535,03/03/2019,San Jose Earthquakes,Montreal Impact,1,2,-1,-1
+2536,03/03/2019,Seattle Sounders,Cincinnati,4,1,3,1
+2537,03/03/2019,DC United,Atlanta United,2,0,2,1
+2538,04/03/2019,Los Angeles FC,Sporting Kansas City,2,1,1,1
+2539,09/03/2019,Chicago Fire,Orlando City,1,1,0,0
+2540,09/03/2019,New England Revolution,Columbus Crew,0,2,-2,-1
+2541,09/03/2019,FC Dallas,Los Angeles Galaxy,2,0,2,1
+2542,09/03/2019,Houston Dynamo,Montreal Impact,2,1,1,1
+2543,09/03/2019,Real Salt Lake,Vancouver Whitecaps,1,0,1,1
+2544,10/03/2019,San Jose Earthquakes,Minnesota United,0,3,-3,-1
+2545,10/03/2019,Seattle Sounders,Colorado Rapids,2,0,2,1
+2546,10/03/2019,New York City,DC United,0,0,0,0
+2547,10/03/2019,Sporting Kansas City,Philadelphia Union,2,0,2,1
+2548,10/03/2019,Atlanta United,Cincinnati,1,1,0,0
+2549,10/03/2019,Los Angeles FC,Portland Timbers,4,1,3,1
+2550,16/03/2019,Chicago Fire,Seattle Sounders,2,4,-2,-1
+2551,16/03/2019,Columbus Crew,FC Dallas,1,0,1,1
+2552,16/03/2019,Houston Dynamo,Vancouver Whitecaps,3,2,1,1
+2553,16/03/2019,New York Red Bulls,San Jose Earthquakes,4,1,3,1
+2554,16/03/2019,Orlando City,Montreal Impact,1,3,-2,-1
+2555,17/03/2019,DC United,Real Salt Lake,5,0,5,1
+2556,17/03/2019,Los Angeles Galaxy,Minnesota United,3,2,1,1
+2557,17/03/2019,New York City,Los Angeles FC,2,2,0,0
+2558,17/03/2019,Cincinnati,Portland Timbers,3,0,3,1
+2559,17/03/2019,Atlanta United,Philadelphia Union,1,1,0,0
+2560,17/03/2019,Toronto FC,New England Revolution,3,2,1,1
+2561,18/03/2019,Colorado Rapids,Sporting Kansas City,1,1,0,0
+2562,23/03/2019,FC Dallas,Colorado Rapids,2,1,1,1
+2563,23/03/2019,New York Red Bulls,Orlando City,0,1,-1,-1
+2564,23/03/2019,Philadelphia Union,Columbus Crew,3,0,3,1
+2565,24/03/2019,Los Angeles FC,Real Salt Lake,2,1,1,1
+2566,24/03/2019,New England Revolution,Cincinnati,0,2,-2,-1
+2567,30/03/2019,Toronto FC,New York City,4,0,4,1
+2568,30/03/2019,Chicago Fire,New York Red Bulls,1,0,1,1
+2569,30/03/2019,New England Revolution,Minnesota United,2,1,1,1
+2570,30/03/2019,Sporting Kansas City,Montreal Impact,7,1,6,1
+2571,30/03/2019,San Jose Earthquakes,Los Angeles FC,0,5,-5,-1
+2572,30/03/2019,Cincinnati,Philadelphia Union,0,2,-2,-1
+2573,30/03/2019,Columbus Crew,Atlanta United,2,0,2,1
+2574,31/03/2019,Colorado Rapids,Houston Dynamo,1,4,-3,-1
+2575,31/03/2019,Real Salt Lake,FC Dallas,2,4,-2,-1
+2576,31/03/2019,Vancouver Whitecaps,Seattle Sounders,0,0,0,0
+2577,31/03/2019,Orlando City,DC United,1,2,-1,-1
+2578,01/04/2019,Los Angeles Galaxy,Portland Timbers,2,1,1,1
+2579,06/04/2019,Vancouver Whitecaps,Los Angeles Galaxy,0,2,-2,-1
+2580,06/04/2019,New York City,Montreal Impact,0,0,0,0
+2581,06/04/2019,DC United,Los Angeles FC,0,4,-4,-1
+2582,06/04/2019,Toronto FC,Chicago Fire,2,2,0,0
+2583,07/04/2019,New York Red Bulls,Minnesota United,1,2,-1,-1
+2584,07/04/2019,Columbus Crew,New England Revolution,1,0,1,1
+2585,07/04/2019,Orlando City,Colorado Rapids,4,3,1,1
+2586,07/04/2019,Philadelphia Union,FC Dallas,2,1,1,1
+2587,07/04/2019,San Jose Earthquakes,Portland Timbers,3,0,3,1
+2588,07/04/2019,Seattle Sounders,Real Salt Lake,1,0,1,1
+2589,07/04/2019,Cincinnati,Sporting Kansas City,1,1,0,0
+2590,10/04/2019,DC United,Montreal Impact,0,0,0,0
+2591,13/04/2019,Chicago Fire,Vancouver Whitecaps,1,1,0,0
+2592,13/04/2019,Montreal Impact,Columbus Crew,1,0,1,1
+2593,13/04/2019,Houston Dynamo,San Jose Earthquakes,2,1,1,1
+2594,13/04/2019,Seattle Sounders,Toronto FC,3,2,1,1
+2595,13/04/2019,Minnesota United,New York City,3,3,0,0
+2596,14/04/2019,New England Revolution,Atlanta United,0,2,-2,-1
+2597,14/04/2019,FC Dallas,Portland Timbers,2,1,1,1
+2598,14/04/2019,Colorado Rapids,DC United,2,3,-1,-1
+2599,14/04/2019,Real Salt Lake,Orlando City,2,1,1,1
+2600,14/04/2019,Los Angeles FC,Cincinnati,2,0,2,1
+2601,14/04/2019,Los Angeles Galaxy,Philadelphia Union,2,0,2,1
+2602,15/04/2019,Sporting Kansas City,New York Red Bulls,2,2,0,0
+2603,18/04/2019,Vancouver Whitecaps,Los Angeles FC,1,0,1,1
+2604,20/04/2019,Cincinnati,Real Salt Lake,0,3,-3,-1
+2605,20/04/2019,Toronto FC,Minnesota United,4,3,1,1
+2606,20/04/2019,Los Angeles Galaxy,Houston Dynamo,2,1,1,1
+2607,20/04/2019,Chicago Fire,Colorado Rapids,4,1,3,1
+2608,20/04/2019,Philadelphia Union,Montreal Impact,3,0,3,1
+2609,20/04/2019,Orlando City,Vancouver Whitecaps,1,0,1,1
+2610,20/04/2019,Atlanta United,FC Dallas,1,2,-1,-1
+2611,21/04/2019,Columbus Crew,Portland Timbers,1,3,-2,-1
+2612,21/04/2019,New England Revolution,New York Red Bulls,1,0,1,1
+2613,21/04/2019,San Jose Earthquakes,Sporting Kansas City,4,1,3,1
+2614,21/04/2019,DC United,New York City,0,2,-2,-1
+2615,22/04/2019,Los Angeles FC,Seattle Sounders,4,1,3,1
+2616,25/04/2019,New York City,Chicago Fire,1,0,1,1
+2617,25/04/2019,Columbus Crew,DC United,0,1,-1,-1
+2618,25/04/2019,New England Revolution,Montreal Impact,0,3,-3,-1
+2619,25/04/2019,Minnesota United,Los Angeles Galaxy,0,0,0,0
+2620,25/04/2019,Seattle Sounders,San Jose Earthquakes,2,2,0,0
+2621,27/04/2019,New York City,Orlando City,1,1,0,0
+2622,27/04/2019,Toronto FC,Portland Timbers,1,2,-1,-1
+2623,27/04/2019,FC Dallas,San Jose Earthquakes,0,0,0,0
+2624,27/04/2019,Vancouver Whitecaps,Philadelphia Union,1,1,0,0
+2625,27/04/2019,Atlanta United,Colorado Rapids,1,0,1,1
+2626,28/04/2019,New York Red Bulls,Cincinnati,1,0,1,1
+2627,28/04/2019,Houston Dynamo,Columbus Crew,2,0,2,1
+2628,28/04/2019,Sporting Kansas City,New England Revolution,4,4,0,0
+2629,28/04/2019,Montreal Impact,Chicago Fire,1,0,1,1
+2630,28/04/2019,Minnesota United,DC United,1,0,1,1
+2631,28/04/2019,Seattle Sounders,Los Angeles FC,1,1,0,0
+2632,29/04/2019,Los Angeles Galaxy,Real Salt Lake,2,1,1,1
+2633,02/05/2019,Philadelphia Union,Cincinnati,2,0,2,1
+2634,04/05/2019,Colorado Rapids,Vancouver Whitecaps,2,3,-1,-1
+2635,04/05/2019,New York Red Bulls,Los Angeles Galaxy,3,2,1,1
+2636,04/05/2019,Houston Dynamo,FC Dallas,2,1,1,1
+2637,04/05/2019,Orlando City,Toronto FC,0,2,-2,-1
+2638,04/05/2019,Montreal Impact,New York City,0,2,-2,-1
+2639,05/05/2019,Philadelphia Union,New England Revolution,6,1,5,1
+2640,05/05/2019,DC United,Columbus Crew,3,1,2,1
+2641,05/05/2019,Minnesota United,Seattle Sounders,1,1,0,0
+2642,05/05/2019,Real Salt Lake,Portland Timbers,1,2,-1,-1
+2643,05/05/2019,San Jose Earthquakes,Cincinnati,1,0,1,1
+2644,05/05/2019,Los Angeles FC,Chicago Fire,0,0,0,0
+2645,06/05/2019,Sporting Kansas City,Atlanta United,0,3,-3,-1
+2646,09/05/2019,Atlanta United,Toronto FC,2,0,2,1
+2647,09/05/2019,Columbus Crew,Los Angeles Galaxy,3,1,2,1
+2648,09/05/2019,Chicago Fire,New England Revolution,5,0,5,1
+2649,09/05/2019,New York Red Bulls,Montreal Impact,1,2,-1,-1
+2650,11/05/2019,Vancouver Whitecaps,Portland Timbers,1,0,1,1
+2651,11/05/2019,Cincinnati,Montreal Impact,2,1,1,1
+2652,11/05/2019,FC Dallas,New York Red Bulls,1,3,-2,-1
+2653,11/05/2019,Toronto FC,Philadelphia Union,1,2,-1,-1
+2654,11/05/2019,Los Angeles Galaxy,New York City,0,2,-2,-1
+2655,12/05/2019,Columbus Crew,Los Angeles FC,0,3,-3,-1
+2656,12/05/2019,New England Revolution,San Jose Earthquakes,3,1,2,1
+2657,12/05/2019,Chicago Fire,Minnesota United,2,0,2,1
+2658,12/05/2019,Colorado Rapids,Real Salt Lake,2,3,-1,-1
+2659,12/05/2019,Seattle Sounders,Houston Dynamo,1,0,1,1
+2660,12/05/2019,Atlanta United,Orlando City,1,0,1,1
+2661,13/05/2019,DC United,Sporting Kansas City,1,0,1,1
+2662,16/05/2019,Toronto FC,DC United,0,0,0,0
+2663,16/05/2019,Houston Dynamo,Portland Timbers,1,1,0,0
+2664,16/05/2019,Vancouver Whitecaps,Atlanta United,0,1,-1,-1
+2665,16/05/2019,Seattle Sounders,Orlando City,2,1,1,1
+2666,17/05/2019,Los Angeles FC,FC Dallas,2,0,2,1
+2667,18/05/2019,Montreal Impact,New England Revolution,0,0,0,0
+2668,18/05/2019,Real Salt Lake,Toronto FC,3,0,3,1
+2669,18/05/2019,San Jose Earthquakes,Chicago Fire,4,1,3,1
+2670,19/05/2019,Philadelphia Union,Seattle Sounders,0,0,0,0
+2671,19/05/2019,Minnesota United,Columbus Crew,1,0,1,1
+2672,19/05/2019,Houston Dynamo,DC United,2,1,1,1
+2673,19/05/2019,Sporting Kansas City,Vancouver Whitecaps,1,1,0,0
+2674,19/05/2019,Orlando City,Cincinnati,5,1,4,1
+2675,19/05/2019,New York Red Bulls,Atlanta United,1,0,1,1
+2676,20/05/2019,FC Dallas,Los Angeles FC,1,1,0,0
+2677,20/05/2019,Los Angeles Galaxy,Colorado Rapids,0,1,-1,-1
+2678,23/05/2019,New York Red Bulls,Vancouver Whitecaps,2,2,0,0
+2679,25/05/2019,Orlando City,Los Angeles Galaxy,0,1,-1,-1
+2680,25/05/2019,Real Salt Lake,Atlanta United,2,1,1,1
+2681,25/05/2019,Los Angeles FC,Montreal Impact,4,2,2,1
+2682,25/05/2019,Chicago Fire,New York City,1,1,0,0
+2683,26/05/2019,Vancouver Whitecaps,FC Dallas,2,1,1,1
+2684,26/05/2019,Cincinnati,New York Red Bulls,0,2,-2,-1
+2685,26/05/2019,New England Revolution,DC United,1,1,0,0
+2686,26/05/2019,Philadelphia Union,Portland Timbers,1,3,-2,-1
+2687,26/05/2019,Minnesota United,Houston Dynamo,1,0,1,1
+2688,26/05/2019,Colorado Rapids,Columbus Crew,3,2,1,1
+2689,26/05/2019,Sporting Kansas City,Seattle Sounders,3,2,1,1
+2690,27/05/2019,Toronto FC,San Jose Earthquakes,1,2,-1,-1
+2691,30/05/2019,Atlanta United,Minnesota United,3,0,3,1
+2692,30/05/2019,Montreal Impact,Real Salt Lake,2,1,1,1
+2693,30/05/2019,DC United,Chicago Fire,3,3,0,0
+2694,30/05/2019,Philadelphia Union,Colorado Rapids,1,1,0,0
+2695,30/05/2019,Sporting Kansas City,Los Angeles Galaxy,0,2,-2,-1
+2696,01/06/2019,Vancouver Whitecaps,Toronto FC,1,1,0,0
+2697,01/06/2019,Montreal Impact,Orlando City,0,3,-3,-1
+2698,01/06/2019,Atlanta United,Chicago Fire,2,0,2,1
+2699,02/06/2019,New York Red Bulls,Real Salt Lake,4,0,4,1
+2700,02/06/2019,Columbus Crew,New York City,2,2,0,0
+2701,02/06/2019,DC United,San Jose Earthquakes,1,1,0,0
+2702,02/06/2019,FC Dallas,Seattle Sounders,2,1,1,1
+2703,02/06/2019,Colorado Rapids,Cincinnati,3,1,2,1
+2704,02/06/2019,Houston Dynamo,Sporting Kansas City,1,1,0,0
+2705,02/06/2019,Portland Timbers,Los Angeles FC,2,3,-1,-1
+2706,02/06/2019,Minnesota United,Philadelphia Union,2,3,-1,-1
+2707,03/06/2019,Los Angeles Galaxy,New England Revolution,1,2,-1,-1
+2708,06/06/2019,Montreal Impact,Seattle Sounders,2,1,1,1
+2709,07/06/2019,New York City,Cincinnati,5,2,3,1
+2710,08/06/2019,Toronto FC,Sporting Kansas City,2,2,0,0
+2711,08/06/2019,San Jose Earthquakes,FC Dallas,2,2,0,0
+2712,09/06/2019,Philadelphia Union,New York Red Bulls,3,2,1,1
+2713,09/06/2019,Colorado Rapids,Minnesota United,1,0,1,1
+2714,23/06/2019,FC Cincinnati,Los Angeles Galaxy,0,2,-2,-1
+2715,23/06/2019,Chicago Fire,Real Salt Lake,1,1,0,0
+2716,23/06/2019,FC Dallas,Toronto FC,3,0,3,1
+2717,23/06/2019,Vancouver Whitecaps,Colorado Rapids,2,2,0,0
+2718,23/06/2019,Portland Timbers,Houston Dynamo,4,0,4,1
+2719,23/06/2019,Columbus Crew,Sporting Kansas City,0,1,-1,-1
+2720,27/06/2019,New England Revolution,Philadelphia Union,1,1,0,0
+2721,27/06/2019,Montreal Impact,Portland Timbers,2,1,1,1
+2722,27/06/2019,DC United,Orlando City,1,0,1,1
+2723,27/06/2019,Toronto FC,Atlanta United,3,2,1,1
+2724,27/06/2019,FC Dallas,Vancouver Whitecaps,2,2,0,0
+2725,27/06/2019,San Jose Earthquakes,Houston Dynamo,2,0,2,1
+2726,29/06/2019,New York Red Bulls,Chicago Fire,3,1,2,1
+2727,29/06/2019,Colorado Rapids,Los Angeles FC,1,0,1,1
+2728,29/06/2019,Minnesota United,FC Cincinnati,7,1,6,1
+2729,29/06/2019,Atlanta United,Montreal Impact,2,1,1,1
+2730,30/06/2019,New York City,Philadelphia Union,4,2,2,1
+2731,30/06/2019,Columbus Crew,Orlando City,0,2,-2,-1
+2732,30/06/2019,New England Revolution,Houston Dynamo,2,1,1,1
+2733,30/06/2019,DC United,Toronto FC,1,1,0,0
+2734,30/06/2019,Real Salt Lake,Sporting Kansas City,2,0,2,1
+2735,30/06/2019,San Jose Earthquakes,Los Angeles Galaxy,3,0,3,1
+2736,30/06/2019,Seattle Sounders,Vancouver Whitecaps,1,0,1,1
+2737,01/07/2019,Portland Timbers,FC Dallas,1,0,1,1
