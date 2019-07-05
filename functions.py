@@ -86,8 +86,8 @@ def sub_dates1(date1,date2):
 
 def create_fatigue(df):
     df=df.reset_index(drop=True)
-#    date_format = "%Y-%m-%d"
-    date_format = "%d/%m/%Y"
+    date_format = "%Y-%m-%d"
+    #date_format = "%d/%m/%Y"
     try:
         a =df.loc[len(df)-2,'Date']
         b =df.loc[len(df)-1,'Date']
