@@ -44,9 +44,9 @@ def winrates(data):
             draw+=1
         else:
             away+=1
-    return home/data.shape[0]
-    #print('home :{}%\naway :{}%\ndraw :{}%\n'.format((home/data.shape[0])*100,
-     #   (away/data.shape[0])*100,(draw/data.shape[0])*100))
+    #return home/data.shape[0]
+    print('home :{}%\naway :{}%\ndraw :{}%\n'.format((home/data.shape[0])*100,
+        (away/data.shape[0])*100,(draw/data.shape[0])*100))
 
 def past_games(df,data1,team,amount):
     pgames=[]
@@ -91,7 +91,7 @@ def create_fatigue(df):
     try:
         a =df.loc[len(df)-2,'Date']
         b =df.loc[len(df)-1,'Date']
-        days=sub_dates1(b,a)
+        days=sub_dates(b,a)
     except:
         days=np.nan
     return days

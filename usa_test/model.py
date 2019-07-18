@@ -4,9 +4,9 @@ import functions as f
 import pandas as pd
 import numpy as np
 from sklearn import preprocessing
-from sklearn.ensemble import BaggingClassifier
 #from sklearn.neural_network import MLPClassifier
 from sklearn.svm import NuSVC
+#from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
@@ -46,9 +46,9 @@ from sklearn.model_selection import GridSearchCV
 param_grid = {
         'random_state':[10,20]
     #'max_depth': [20,40],
-    #'n_estimators': [200,300,400]
+    #'n_estimators': [100,200,300]
 }
-#clf= MLPClassifier(activation='logistic',solver='adam',batch_size=8)
+#clf= MLPClassifier(activation='relu',solver='adam',batch_size=16)
 clf= NuSVC()
 grid_search = GridSearchCV(estimator = clf, param_grid = param_grid, 
                           cv = 3, n_jobs=-1, verbose = 2)
@@ -60,7 +60,7 @@ print(grid_search.best_params_)
 grid_search=grid_search.best_estimator_
 #clf.fit(train_features,train_labels)
 
-print(pred)
+print(pred.columns)
 pred=preprocessing.normalize(pred)
 pred=preprocessing.scale(pred)
 
@@ -68,7 +68,7 @@ pred=preprocessing.scale(pred)
 predictions = grid_search.predict(test_features)
 #predictions = clf.predict(pred)
 cc=accuracy_score(test_labels,predictions)
-print(cc)
+print('accuracy: ',cc)
 
 home,draw,away=0,0,0
 for x in predictions:
@@ -79,9 +79,11 @@ for x in predictions:
     else:
         away+=1
 
-print(home/len(predictions),', ',home)
-print(draw/len(predictions),', ',draw)
-print(away/len(predictions),', ',away,'\n',f.winrates(data1))
-# accuracy
+print('home: ',home/len(predictions),', ',home)
+print('draw: ',draw/len(predictions),', ',draw)
+print('away: ',away/len(predictions),', ',away)
+
+print('real:')
+f.winrates(data1)
 
 
