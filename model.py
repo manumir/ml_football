@@ -21,6 +21,7 @@ data=data.dropna()
 
 data=data.drop(['Date','Season','hgoal','vgoal','goaldiff','home','visitor','FT'],1)
 
+data.to_csv('finall.csv',index=False)
 y=data.pop('result')
 x=data
 print(data.columns)
