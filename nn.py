@@ -9,11 +9,15 @@ data=pd.read_csv('finall.csv')
 y=data.pop('result')
 x=data
 
-#x=np.array(x.values,dtype=float)
-#y=np.array(y,dtype=float)
+x=np.array(x)
+y=np.array(y)
 
-# N is batch size; D_in is input dimension;
-# H is hidden dimension; D_out is output dimension.
+x=torch.from_numpy(x)
+y=torch.from_numpy(y)
+
+x=x.float()
+y=y.float()
+
 D_in, H, D_out = 6, 36, 1
 
 model = torch.nn.Sequential(
@@ -21,13 +25,15 @@ model = torch.nn.Sequential(
     torch.nn.ReLU(),
     torch.nn.Linear(H, D_out),
 )
+
 loss_fn = torch.nn.MSELoss(reduction='sum')
 
 learning_rate = 1e-4
 optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)
 for t in range(500):
     # Forward pass: compute predicted y by passing x to the model.
-    y_pred = model(x.values)
+    print(1)
+    y_pred = model(x)
 
     # Compute and print loss.
     loss = loss_fn(y_pred, y)
